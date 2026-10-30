@@ -1,0 +1,434 @@
+[
+  {
+    "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\raw\\yaw-00000.png",
+    "format": "PNG",
+    "mode": "RGBA",
+    "width": 1024,
+    "height": 1536,
+    "frame_count": 1,
+    "animated": false,
+    "durations_ms": [],
+    "alpha": {
+      "has_alpha_channel": true,
+      "alpha_min": 0,
+      "alpha_max": 254,
+      "transparent_pixels": 987299,
+      "partial_alpha_pixels": 585565,
+      "opaque_pixels": 0,
+      "nontransparent_bbox": [
+        63,
+        7,
+        1010,
+        1498
+      ],
+      "empty": false
+    },
+    "sha256": "94879498dc6d1637c8badac84311dbc1fb52c518e7d993b3da6ea5f32a6ae4a4",
+    "bytes": 1571605
+  },
+  {
+    "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\raw\\yaw-022-5.png",
+    "format": "PNG",
+    "mode": "RGBA",
+    "width": 1024,
+    "height": 1536,
+    "frame_count": 1,
+    "animated": false,
+    "durations_ms": [],
+    "alpha": {
+      "has_alpha_channel": true,
+      "alpha_min": 0,
+      "alpha_max": 254,
+      "transparent_pixels": 897339,
+      "partial_alpha_pixels": 675525,
+      "opaque_pixels": 0,
+      "nontransparent_bbox": [
+        79,
+        0,
+        1002,
+        1536
+      ],
+      "empty": false
+    },
+    "sha256": "49a428c65db2b1fdd6cc1f67dd20c59f6485c1f6ac94571ec36f73e16072f486",
+    "bytes": 1640661
+  },
+  {
+    "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\raw\\yaw-00045-corrected.png",
+    "format": "PNG",
+    "mode": "RGBA",
+    "width": 1024,
+    "height": 1536,
+    "frame_count": 1,
+    "animated": false,
+    "durations_ms": [],
+    "alpha": {
+      "has_alpha_channel": true,
+      "alpha_min": 0,
+      "alpha_max": 254,
+      "transparent_pixels": 963003,
+      "partial_alpha_pixels": 609861,
+      "opaque_pixels": 0,
+      "nontransparent_bbox": [
+        0,
+        8,
+        968,
+        1536
+      ],
+      "empty": false
+    },
+    "sha256": "d65e50056d78d33cba911493cde2a967ae42d9fe6df9271f186cf49452c35c1b",
+    "bytes": 1599601
+  },
+  {
+    "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\raw\\yaw-067-5-corrected.png",
+    "format": "PNG",
+    "mode": "RGBA",
+    "width": 1024,
+    "height": 1536,
+    "frame_count": 1,
+    "animated": false,
+    "durations_ms": [],
+    "alpha": {
+      "has_alpha_channel": true,
+      "alpha_min": 0,
+      "alpha_max": 254,
+      "transparent_pixels": 969249,
+      "partial_alpha_pixels": 603615,
+      "opaque_pixels": 0,
+      "nontransparent_bbox": [
+        109,
+        7,
+        994,
+        1523
+      ],
+      "empty": false
+    },
+    "sha256": "4540a52b5d03c297ba102a5dd4ca83e7872194d4d4172ac1d7dce2a462fb9096",
+    "bytes": 1557633
+  },
+  {
+    "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\raw\\yaw-00090.png",
+    "format": "PNG",
+    "mode": "RGBA",
+    "width": 1024,
+    "height": 1536,
+    "frame_count": 1,
+    "animated": false,
+    "durations_ms": [],
+    "alpha": {
+      "has_alpha_channel": true,
+      "alpha_min": 0,
+      "alpha_max": 254,
+      "transparent_pixels": 1100013,
+      "partial_alpha_pixels": 472851,
+      "opaque_pixels": 0,
+      "nontransparent_bbox": [
+        0,
+        7,
+        996,
+        1520
+      ],
+      "empty": false
+    },
+    "sha256": "8a99b3c88b680add3a3f52653f147681d83418b2ec6689fee770bf431402addc",
+    "bytes": 1430247
+  },
+  {
+    "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\raw\\yaw-112-5-corrected.png",
+    "format": "PNG",
+    "mode": "RGBA",
+    "width": 1024,
+    "height": 1536,
+    "frame_count": 1,
+    "animated": false,
+    "durations_ms": [],
+    "alpha": {
+      "has_alpha_channel": true,
+      "alpha_min": 0,
+      "alpha_max": 254,
+      "transparent_pixels": 996718,
+      "partial_alpha_pixels": 576146,
+      "opaque_pixels": 0,
+      "nontransparent_bbox": [
+        0,
+        13,
+        986,
+        1520
+      ],
+      "empty": false
+    },
+    "sha256": "3755043528c216740e885e80a633a133354726c452bda286d881132a32cf57a3",
+    "bytes": 1523039
+  },
+  {
+    "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\raw\\yaw-135-final.png",
+    "format": "PNG",
+    "mode": "RGBA",
+    "width": 1024,
+    "height": 1536,
+    "frame_count": 1,
+    "animated": false,
+    "durations_ms": [],
+    "alpha": {
+      "has_alpha_channel": true,
+      "alpha_min": 0,
+      "alpha_max": 254,
+      "transparent_pixels": 998622,
+      "partial_alpha_pixels": 574242,
+      "opaque_pixels": 0,
+      "nontransparent_bbox": [
+        49,
+        12,
+        988,
+        1520
+      ],
+      "empty": false
+    },
+    "sha256": "360ffdd00b3024abb98e28386c865254ca064e41294722a4c0f25319ee515089",
+    "bytes": 1477181
+  },
+  {
+    "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\raw\\yaw-157-5.png",
+    "format": "PNG",
+    "mode": "RGBA",
+    "width": 1024,
+    "height": 1536,
+    "frame_count": 1,
+    "animated": false,
+    "durations_ms": [],
+    "alpha": {
+      "has_alpha_channel": true,
+      "alpha_min": 0,
+      "alpha_max": 254,
+      "transparent_pixels": 1024859,
+      "partial_alpha_pixels": 548005,
+      "opaque_pixels": 0,
+      "nontransparent_bbox": [
+        31,
+        17,
+        1004,
+        1536
+      ],
+      "empty": false
+    },
+    "sha256": "6669299a88beaa829263c6c801312d8c88bc145f5fe4ebeddb4dee8152e5b0bf",
+    "bytes": 1452434
+  },
+  {
+    "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\raw\\yaw-00180.png",
+    "format": "PNG",
+    "mode": "RGBA",
+    "width": 1024,
+    "height": 1536,
+    "frame_count": 1,
+    "animated": false,
+    "durations_ms": [],
+    "alpha": {
+      "has_alpha_channel": true,
+      "alpha_min": 0,
+      "alpha_max": 254,
+      "transparent_pixels": 983485,
+      "partial_alpha_pixels": 589379,
+      "opaque_pixels": 0,
+      "nontransparent_bbox": [
+        0,
+        6,
+        968,
+        1520
+      ],
+      "empty": false
+    },
+    "sha256": "70969364860e8dec418404560f46bb3e2894c0be8f28bccb970e84069d1e6dff",
+    "bytes": 1468260
+  },
+  {
+    "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\raw\\yaw-202-5-corrected.png",
+    "format": "PNG",
+    "mode": "RGBA",
+    "width": 1024,
+    "height": 1536,
+    "frame_count": 1,
+    "animated": false,
+    "durations_ms": [],
+    "alpha": {
+      "has_alpha_channel": true,
+      "alpha_min": 0,
+      "alpha_max": 254,
+      "transparent_pixels": 946931,
+      "partial_alpha_pixels": 625933,
+      "opaque_pixels": 0,
+      "nontransparent_bbox": [
+        103,
+        1,
+        914,
+        1519
+      ],
+      "empty": false
+    },
+    "sha256": "f97060ba062cd688c59cb6ed7b0aa1cefc8140080f6965a95ab3f2e9d7ec493e",
+    "bytes": 1572188
+  },
+  {
+    "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\raw\\yaw-225-final.png",
+    "format": "PNG",
+    "mode": "RGBA",
+    "width": 1024,
+    "height": 1536,
+    "frame_count": 1,
+    "animated": false,
+    "durations_ms": [],
+    "alpha": {
+      "has_alpha_channel": true,
+      "alpha_min": 0,
+      "alpha_max": 254,
+      "transparent_pixels": 982545,
+      "partial_alpha_pixels": 590319,
+      "opaque_pixels": 0,
+      "nontransparent_bbox": [
+        0,
+        0,
+        932,
+        1536
+      ],
+      "empty": false
+    },
+    "sha256": "888ad554c73b595287445e278832dd79208d05157d9331c1ff0b6f10fc60ce88",
+    "bytes": 1509025
+  },
+  {
+    "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\raw\\yaw-247-5-corrected.png",
+    "format": "PNG",
+    "mode": "RGBA",
+    "width": 1024,
+    "height": 1536,
+    "frame_count": 1,
+    "animated": false,
+    "durations_ms": [],
+    "alpha": {
+      "has_alpha_channel": true,
+      "alpha_min": 0,
+      "alpha_max": 254,
+      "transparent_pixels": 1044254,
+      "partial_alpha_pixels": 528610,
+      "opaque_pixels": 0,
+      "nontransparent_bbox": [
+        0,
+        1,
+        992,
+        1506
+      ],
+      "empty": false
+    },
+    "sha256": "810ec95ec1bb786842f178510d14890aa4e869cc07afc8a1c07811ae5f5476b4",
+    "bytes": 1461355
+  },
+  {
+    "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\raw\\yaw-00270.png",
+    "format": "PNG",
+    "mode": "RGBA",
+    "width": 1024,
+    "height": 1536,
+    "frame_count": 1,
+    "animated": false,
+    "durations_ms": [],
+    "alpha": {
+      "has_alpha_channel": true,
+      "alpha_min": 0,
+      "alpha_max": 254,
+      "transparent_pixels": 1103561,
+      "partial_alpha_pixels": 469303,
+      "opaque_pixels": 0,
+      "nontransparent_bbox": [
+        17,
+        33,
+        1020,
+        1536
+      ],
+      "empty": false
+    },
+    "sha256": "e1c5d34959b83a0ea08c17871c342dba479656d2a239efaa32fde038dff6b83d",
+    "bytes": 1477279
+  },
+  {
+    "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\raw\\yaw-292-5.png",
+    "format": "PNG",
+    "mode": "RGBA",
+    "width": 1024,
+    "height": 1536,
+    "frame_count": 1,
+    "animated": false,
+    "durations_ms": [],
+    "alpha": {
+      "has_alpha_channel": true,
+      "alpha_min": 0,
+      "alpha_max": 254,
+      "transparent_pixels": 980700,
+      "partial_alpha_pixels": 592164,
+      "opaque_pixels": 0,
+      "nontransparent_bbox": [
+        2,
+        0,
+        1000,
+        1536
+      ],
+      "empty": false
+    },
+    "sha256": "27032d1efc7efe0907776ae499a2347b29c805825aadc7a228b2d964e9c3ba0d",
+    "bytes": 1588090
+  },
+  {
+    "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\raw\\yaw-00315.png",
+    "format": "PNG",
+    "mode": "RGBA",
+    "width": 1024,
+    "height": 1536,
+    "frame_count": 1,
+    "animated": false,
+    "durations_ms": [],
+    "alpha": {
+      "has_alpha_channel": true,
+      "alpha_min": 0,
+      "alpha_max": 254,
+      "transparent_pixels": 1000995,
+      "partial_alpha_pixels": 571869,
+      "opaque_pixels": 0,
+      "nontransparent_bbox": [
+        47,
+        13,
+        980,
+        1520
+      ],
+      "empty": false
+    },
+    "sha256": "6b02951f4abd1148565fdb24a6a4c522994dca856272131f20f83b8536f8ab7a",
+    "bytes": 1581713
+  },
+  {
+    "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\raw\\yaw-337-5-final.png",
+    "format": "PNG",
+    "mode": "RGBA",
+    "width": 1024,
+    "height": 1536,
+    "frame_count": 1,
+    "animated": false,
+    "durations_ms": [],
+    "alpha": {
+      "has_alpha_channel": true,
+      "alpha_min": 0,
+      "alpha_max": 254,
+      "transparent_pixels": 985011,
+      "partial_alpha_pixels": 587853,
+      "opaque_pixels": 0,
+      "nontransparent_bbox": [
+        105,
+        6,
+        1023,
+        1536
+      ],
+      "empty": false
+    },
+    "sha256": "73b39a8f4ad5b28b8ce1b264c7b016c7ca1a50e24bfe8997f17440d77fdc464a",
+    "bytes": 1590308
+  }
+]

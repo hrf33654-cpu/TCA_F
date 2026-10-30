@@ -1,0 +1,11 @@
+[gd_scene format=3]
+
+[ext_resource type="PackedScene" path="res://world/maps/lanternbrook_hd2d/lanternbrook_hd2d.tscn" id="1_map"]
+[ext_resource type="PackedScene" path="res://prototype/hd2d_observer.tscn" id="2_observer"]
+
+[node name="Main" type="Node" unique_id=1532771065]
+
+[node name="Lanternbrook" parent="." unique_id=1627211881 instance=ExtResource("1_map")]
+transform = Transform3D(0.5544813, 0, 0.8321962, 0, 1, 0, -0.8321962, 0, 0.5544813, -18.42178, -0.5428128, 8.8734665)
+
+[node name="MapObserver" parent="Lanternbrook" unique_id=2005330468 instance=ExtResource("2_observer")]

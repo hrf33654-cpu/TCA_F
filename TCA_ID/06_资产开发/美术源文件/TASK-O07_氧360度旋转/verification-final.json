@@ -1,0 +1,26 @@
+[
+  {
+    "group": "png-frames",
+    "format": "pass",
+    "findings": []
+  },
+  {
+    "group": "atlas",
+    "format": "pass",
+    "findings": []
+  },
+  {
+    "group": "gif-preview",
+    "format": "pass",
+    "findings": []
+  },
+  {
+    "group": "contact-preview",
+    "format": "pass",
+    "findings": []
+  },
+  {
+    "packaging": "not-approved",
+    "reason": "Cannot package task: Missing or stale visual visual review of all selected deliverables. | Missing or stale semantic visual review of all selected deliverables."
+  }
+]

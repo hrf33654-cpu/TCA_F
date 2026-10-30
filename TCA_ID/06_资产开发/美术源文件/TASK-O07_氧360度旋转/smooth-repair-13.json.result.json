@@ -1,0 +1,18 @@
+{
+  "task_id": "fr-20261018-e857e438",
+  "record": {
+    "label": "smooth-repair-13",
+    "plan_id": "direction-14",
+    "plan_sha256": "e9f20e69d0e57b6e192bbd05efcbf5913c5062656831e63bba6d5bb3b0899e94",
+    "generation_tool_declared": "codex_builtin_imagegen",
+    "generation_source_caveat": "The local server records the caller declaration; it cannot independently inspect the Codex host tool history.",
+    "source_path": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a14d38-6675-7863-885c-e920465b521f\\exec-6a64c658-ace2-406c-91ef-4fba7f0421f6.png",
+    "task_path": "raw/smooth-repair-13.png",
+    "sha256": "eaf4b876cc965981b8c856e83cc91225ba9cfe0a446f70185a735cb61cbf90d8",
+    "bytes": 1556416,
+    "prompt_text": "Edit the character's viewing angle to make a precise in-between turntable keyframe. Image 1 and Image 2 are the two endpoint views of the SAME character and same dress. Required pose: Start from Image 1 RIGHT PROFILE. Rotate entire body only 22.5 degrees TOWARD front view Image 2. This is 292.5 degrees of turntable: NEAR RIGHT PROFILE with some narrow chest plane, not broad frontal chest. The nose silhouette is on screen RIGHT. One eye fully visible; far eye only tiny sliver or occluded. White RIGHT sleeve dominant near side; black LEFT cape on far side. Head torso skirt and shoes same view.\nPreserve existing fine clean anime drawing and original outfit exactly. Do not redesign flowers, ruffles, bodice, hat, chain, hands or hair; reposition only by perspective and occlusion. Character stands still, arms down in same relaxed pose, skirt hangs under gravity with no wind. Same level orthographic camera. Keep full body vertically from y=90 to y=1450 centered at x=512 on a 1024x1536 transparent canvas. ONE complete character, no labels, no sheet, no floor, no background glow. True transparent alpha. Keep slim neutral proportions and modest chest. Cape on anatomical left and flowers/ruffles on anatomical right, never mirrored.",
+    "recorded_at": "2026-10-18T06:18:02.280Z"
+  },
+  "remaining_plan_count": 0,
+  "next_step": "Inspect the actual generated image, then process it locally."
+}

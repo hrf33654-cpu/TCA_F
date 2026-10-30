@@ -1,0 +1,169 @@
+Edit the supplied OXYGEN character model sheet by dressing the existing 18-year-old adult female character in a complete, professionally designed outfit.
+
+**PRIMARY OBJECTIVE — CLOTHING DESIGN ONLY**
+
+This is a controlled costume addition to the existing character model sheet, NOT a character redesign, NOT a new composition, and NOT a reinterpretation of the original artwork.
+
+Treat the supplied image as the authoritative character reference. Preserve the exact same woman, facial identity, expression, eye colors, beauty mark, haircut silhouette, black/blue/white dyed hair placement, body shape, anatomical proportions, neutral poses, and overall character presence.
+
+Keep every full-body figure in its original position, at its original scale, with the same body orientation. Preserve the sheet layout, labels, typography, horizontal guides, facial closeups, hair-color reference views, and subtle warm-white background.
+
+Only replace the visible grey sports bra and briefs with the following fully designed outfit in the three full-body views.
+
+**OUTFIT CONCEPT — RESTRAINED URBAN TECHWEAR**
+
+Design a clean, practical, contemporary urban tactical outfit with subtle futuristic influences.
+
+The character should look calm, independent, agile, and understated rather than heavily armored, aggressively militarized, glamorous, or excessively fashionable.
+
+The overall aesthetic should combine Japanese commercial character design, believable modern technical clothing, and restrained functional detailing.
+
+**UPPER BODY**
+
+A fitted matte-black high-neck inner shirt with long, close-fitting sleeves and a clean neckline. The fabric is lightweight technical knit, following the natural torso without exaggerating the chest or waist.
+
+Over the inner shirt, add a short charcoal-grey utility jacket.
+
+The jacket has a structured but lightweight silhouette, a slightly relaxed shoulder construction, full-length sleeves, a cropped hem ending approximately at the upper hip, and a clean open front that reveals the black inner shirt.
+
+Use restrained seam placement, subtle panel construction, and minimal functional pocket detailing.
+
+The jacket must not be oversized, heavily padded, excessively cropped, or decorated with unnecessary straps, buckles, logos, or accessories.
+
+Use understated muted-blue accents along a few selected seams or garment edges, visually connecting the outfit to the character's existing blue hair streaks.
+
+Blue accents must remain minimal and physically consistent across views.
+
+**LOWER BODY**
+
+Dark charcoal straight-leg technical cargo trousers with a slightly tapered silhouette.
+
+The trousers should fit naturally around the waist and hips, allow comfortable movement around the knees, and maintain a clean vertical silhouette.
+
+Include two low-profile functional thigh pockets with simple flat flaps, integrated into the garment rather than protruding outward.
+
+Use subtle anatomical seam placement around the knees and a small amount of believable fabric gathering at the hips, knees, and ankles.
+
+Avoid extremely tight leggings, excessively baggy pants, bulky tactical pockets, exposed skin, exaggerated belts, or hanging straps.
+
+The waistband should be clean and understated, with no prominent belt or oversized hardware.
+
+**FOOTWEAR**
+
+Simple matte-black ankle-height utility boots with compact soles, clean construction, and minimal visible fastening details.
+
+The boots should feel lightweight and practical, not bulky military footwear or oversized platform shoes.
+
+Keep both feet grounded in the same positions as the original sheet.
+
+**COLOR AND MATERIAL DESIGN**
+
+Use a controlled and harmonious palette:
+
+- Matte black for the inner shirt and boots.
+- Dark charcoal and neutral graphite grey for the jacket and trousers.
+- Very restrained desaturated steel-blue accents.
+- Minimal muted metallic hardware only where structurally necessary.
+
+Use believable fabric differentiation without excessive texture.
+
+The inner shirt should read as soft technical knit, the jacket as matte lightweight woven fabric, the trousers as durable technical cloth, and the boots as understated matte synthetic material.
+
+Avoid glossy latex, reflective leather, metallic armor plating, elaborate surface patterns, decorative graphics, or excessive highlights.
+
+The clothing should feel designed rather than ornamented.
+
+**SILHOUETTE AND CHARACTER PRESERVATION**
+
+The costume must follow the existing anatomy without altering the character's proportions.
+
+Preserve her narrow shoulders, natural waist, hip width, leg length, overall height, and characteristic relaxed neutral stance.
+
+Create believable clothing volume and fabric thickness around the existing body rather than reshaping the underlying anatomy.
+
+Do not enlarge the chest, narrow the waist, lengthen the legs, exaggerate the hips, or otherwise sexualize the character.
+
+The outfit should complement the character's slim natural proportions without becoming skin-tight or unnecessarily revealing.
+
+Preserve the exact outer silhouette, length, asymmetry, and placement of her existing hairstyle. Do not allow the jacket collar to obscure or redesign the hair.
+
+**THREE-VIEW COSTUME CONSISTENCY**
+
+The three full-body figures must represent exactly the same outfit viewed from different directions.
+
+FRONT VIEW:
+
+Clearly show the jacket opening, black high-neck inner shirt, natural trouser waistband, symmetrical construction of the trousers, restrained thigh-pocket placement, and front boot design.
+
+STRICT LEFT SIDE VIEW:
+
+Show the true lateral profile of the same garments. Maintain accurate jacket thickness, sleeve construction, waist and hip fit, trouser side seams, pocket depth, and boot profile.
+
+Do not rotate the body into a three-quarter view.
+
+BACK VIEW:
+
+Show the actual back construction of the same jacket and trousers, including appropriate back seams, shoulder construction, jacket hem, trouser pockets, and consistent boot design.
+
+Do not invent new decorative panels, straps, logos, or pockets that contradict the other views.
+
+All garment features must wrap around the body coherently in three-dimensional space. Maintain accurate correspondence of seams, hems, pockets, color accents, and garment layers.
+
+Prioritize physical construction and cross-view consistency over decorative complexity.
+
+**PRESERVE EXISTING HEAD AND HAIR REFERENCE PANELS**
+
+Keep the original front facial closeup, left-side facial closeup, and three small hair-color-placement reference views.
+
+Do not replace these panels with clothing closeups.
+
+Do not change the face, expression, hairstyle, hair color placement, or framing in these existing reference panels.
+
+They remain unchanged character identity references.
+
+**DRAWING AND RENDERING QUALITY**
+
+Match the original character sheet's established Japanese commercial animation character-design aesthetic.
+
+Use clean, confident contour drawing with controlled line-weight variation, smooth tapered strokes, and precise garment construction.
+
+Apply restrained flat cel shading with clear, intentional shadow shapes.
+
+Fabric folds should be anatomically and mechanically motivated by tension, compression, gravity, and garment construction.
+
+Use a small number of meaningful folds rather than excessive wrinkles.
+
+Avoid airbrushed gradients, glossy surfaces, plastic-looking fabric, random seam decoration, sketchy construction marks, or unnecessary microdetails.
+
+The overall design should remain visually readable at both full resolution and reduced model-sheet scale.
+
+Maintain understated professional refinement rather than adding visual complexity merely to make the costume appear more detailed.
+
+**SHEET INTEGRITY — STRICT REQUIREMENTS**
+
+Preserve the complete original sheet arrangement:
+
+- Three full-length FRONT, STRICT LEFT SIDE, and BACK character views.
+- Original front and left-side facial closeups.
+- Three original small hair-color-placement views.
+- Original OXYGEN title and character information.
+- All existing labels, guides, spacing, and panel boundaries.
+- Original warm-white background.
+
+Do not add new panels, additional poses, alternate outfits, weapons, equipment, accessories, signatures, logos, or written annotations.
+
+Do not crop any part of the image.
+
+Preserve the original image aspect ratio and overall composition.
+
+**FINAL EXECUTION PRIORITIES**
+
+1. Preserve the exact original character identity, face, hair, anatomy, and proportions.
+2. Preserve the entire established model-sheet composition and all existing reference panels.
+3. Dress all three full-body views in one coherent outfit with accurate front/side/back construction.
+4. Maintain practical fabric behavior, realistic layering, and consistent garment dimensions.
+5. Use restrained black, charcoal, and muted-blue colors that complement the character's existing palette.
+6. Deliver clean professional Japanese animation-style model-sheet artwork without redesigning unrelated elements.
+
+**The final result must read as the original confirmed OXYGEN base model sheet with a carefully designed outfit added — the same character, the same poses, the same composition, and the same recognizable identity. Only the clothing has changed.**
+Execution clarification: supplied image is the confirmed OXYGEN identity and sheet edit target. Add ONLY the described urban techwear to the three full-body views. Preserve head reference panels intact. No formal dress, hat, flowers, cape or jewelry from earlier costume studies. Do not alter character anatomy or haircut. Highest available crisp resolution.

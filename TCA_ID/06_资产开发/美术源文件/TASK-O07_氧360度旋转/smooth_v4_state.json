@@ -1,0 +1,181 @@
+{
+  "task": {
+    "task_id": "fr-20261018-20fd9a08",
+    "workspace_root": "E:\\projects\\TCA_ID",
+    "task_dir": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-20fd9a08",
+    "delivery_dir": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-smooth-v4-20fd9a08",
+    "stage": "prepared",
+    "status": "awaiting_imagegen",
+    "reference_count": 26,
+    "next_step": "Call fr_build_generation_plan, then use the host built-in image_gen tool."
+  },
+  "plans": [
+    {
+      "plan_id": "direction-01",
+      "label": "yaw 0 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-02",
+      "label": "yaw 22 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-03",
+      "label": "yaw 35 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-04",
+      "label": "yaw 45 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-05",
+      "label": "yaw 60 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-06",
+      "label": "yaw 75 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-07",
+      "label": "yaw 90 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-08",
+      "label": "yaw 110 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-09",
+      "label": "yaw 125 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-10",
+      "label": "yaw 140 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-11",
+      "label": "yaw 155 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-12",
+      "label": "yaw 165 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-13",
+      "label": "yaw 180 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-14",
+      "label": "yaw 195 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-15",
+      "label": "yaw 205 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-16",
+      "label": "yaw 225 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-17",
+      "label": "yaw 238 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-18",
+      "label": "yaw 250 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-19",
+      "label": "yaw 270 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-20",
+      "label": "yaw 292 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-21",
+      "label": "yaw 305 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-22",
+      "label": "yaw 320 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-23",
+      "label": "yaw 340 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-24",
+      "label": "yaw 350 degrees, approximate intended heading"
+    },
+    {
+      "plan_id": "direction-25",
+      "label": "transition at frame 60, between yaw110 and125"
+    },
+    {
+      "plan_id": "direction-26",
+      "label": "transition at frame 140, between yaw250 and270"
+    },
+    {
+      "plan_id": "direction-27",
+      "label": "direct cleanup output frame 57, same geometry and angle"
+    },
+    {
+      "plan_id": "direction-28",
+      "label": "direct cleanup output frame 58, same geometry and angle"
+    },
+    {
+      "plan_id": "direction-29",
+      "label": "direct cleanup output frame 59, same geometry and angle"
+    },
+    {
+      "plan_id": "direction-30",
+      "label": "direct cleanup output frame 61, same geometry and angle"
+    },
+    {
+      "plan_id": "direction-31",
+      "label": "direct cleanup output frame 62, same geometry and angle"
+    },
+    {
+      "plan_id": "direction-32",
+      "label": "direct cleanup output frame 63, same geometry and angle"
+    },
+    {
+      "plan_id": "direction-33",
+      "label": "direct cleanup output frame 137, same geometry and angle"
+    },
+    {
+      "plan_id": "direction-34",
+      "label": "direct cleanup output frame 138, same geometry and angle"
+    },
+    {
+      "plan_id": "direction-35",
+      "label": "direct cleanup output frame 139, same geometry and angle"
+    },
+    {
+      "plan_id": "direction-36",
+      "label": "direct cleanup output frame 141, same geometry and angle"
+    },
+    {
+      "plan_id": "direction-37",
+      "label": "direct cleanup output frame 142, same geometry and angle"
+    },
+    {
+      "plan_id": "direction-38",
+      "label": "direct cleanup output frame 143, same geometry and angle"
+    }
+  ],
+  "fix_frames": [
+    57,
+    58,
+    59,
+    61,
+    62,
+    63,
+    137,
+    138,
+    139,
+    141,
+    142,
+    143
+  ],
+  "parent": "fr-20261018-3804622d"
+}

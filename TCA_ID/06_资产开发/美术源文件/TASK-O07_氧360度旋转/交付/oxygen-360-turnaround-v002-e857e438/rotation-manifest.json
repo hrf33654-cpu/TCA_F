@@ -1,0 +1,121 @@
+{
+  "task_id": "fr-20261018-e857e438",
+  "reference": "TASK-O04 v002 explicitly supplied by user",
+  "frame_count": 16,
+  "frame_size": [
+    1024,
+    1536
+  ],
+  "duration_ms": 250,
+  "cycle_seconds": 4,
+  "loop": true,
+  "angle_note": "Yaw names are nominal requested targets; generated views are approximate, not geometrically measured. Camera is level as supplied reference, not exploration pitch.",
+  "frames": [
+    {
+      "index": 0,
+      "target_yaw_deg": 0.0,
+      "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0000.png",
+      "prompt_plan": "direction-01"
+    },
+    {
+      "index": 1,
+      "target_yaw_deg": 22.5,
+      "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0001.png",
+      "prompt_plan": "direction-02"
+    },
+    {
+      "index": 2,
+      "target_yaw_deg": 45.0,
+      "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0002.png",
+      "prompt_plan": "direction-03"
+    },
+    {
+      "index": 3,
+      "target_yaw_deg": 67.5,
+      "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0003.png",
+      "prompt_plan": "direction-04"
+    },
+    {
+      "index": 4,
+      "target_yaw_deg": 90.0,
+      "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0004.png",
+      "prompt_plan": "direction-05"
+    },
+    {
+      "index": 5,
+      "target_yaw_deg": 112.5,
+      "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0005.png",
+      "prompt_plan": "direction-06"
+    },
+    {
+      "index": 6,
+      "target_yaw_deg": 135.0,
+      "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0006.png",
+      "prompt_plan": "direction-07"
+    },
+    {
+      "index": 7,
+      "target_yaw_deg": 157.5,
+      "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0007.png",
+      "prompt_plan": "direction-08"
+    },
+    {
+      "index": 8,
+      "target_yaw_deg": 180.0,
+      "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0008.png",
+      "prompt_plan": "direction-09"
+    },
+    {
+      "index": 9,
+      "target_yaw_deg": 202.5,
+      "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0009.png",
+      "prompt_plan": "direction-10"
+    },
+    {
+      "index": 10,
+      "target_yaw_deg": 225.0,
+      "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0010.png",
+      "prompt_plan": "direction-11"
+    },
+    {
+      "index": 11,
+      "target_yaw_deg": 247.5,
+      "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0011.png",
+      "prompt_plan": "direction-12"
+    },
+    {
+      "index": 12,
+      "target_yaw_deg": 270.0,
+      "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0012.png",
+      "prompt_plan": "direction-13"
+    },
+    {
+      "index": 13,
+      "target_yaw_deg": 292.5,
+      "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0013.png",
+      "prompt_plan": "direction-14"
+    },
+    {
+      "index": 14,
+      "target_yaw_deg": 315.0,
+      "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0014.png",
+      "prompt_plan": "direction-15"
+    },
+    {
+      "index": 15,
+      "target_yaw_deg": 337.5,
+      "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0015.png",
+      "prompt_plan": "direction-16"
+    }
+  ],
+  "mp4": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-turntable.mp4",
+  "gif": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-preview-v2.gif",
+  "atlas": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-atlas-v2.png",
+  "contact": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\previews\\oxygen-360-contact-v2.png",
+  "visual_limitations": [
+    "Flower number, vine routing, dress fold pattern, glove/hand and hat details vary across views.",
+    "Some intermediate yaw steps are uneven; this is a generated directional-reference candidate, not a rigid 3D model turntable or approved production animation.",
+    "Original PNGs retain full alpha; GIF has binary transparency, MP4 has a neutral preview background."
+  ],
+  "prompt_source": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\task.json"
+}

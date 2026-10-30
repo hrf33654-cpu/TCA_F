@@ -1,0 +1,2451 @@
+{
+  "task_id": "fr-20261019-1b99d3fc",
+  "package": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-v001-fr-20261019-1b99d3fc.zip",
+  "sha256": "df71a6b626acd9a1ad000151692870efd2ba5331418349ceb82c24f4fae72390",
+  "bytes": 83920923,
+  "delivery_dir": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc",
+  "validation": {
+    "format_status": "pass",
+    "verification_groups": {
+      "png-frames": {
+        "group_name": "png-frames",
+        "format_status": "pass",
+        "checks": [
+          {
+            "check": "width:0",
+            "pass": true
+          },
+          {
+            "check": "height:0",
+            "pass": true
+          },
+          {
+            "check": "nonempty:0:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:0:frame-0",
+            "pass": true,
+            "actual_margins_ltrb": [
+              82,
+              48,
+              118,
+              47
+            ]
+          },
+          {
+            "check": "width:1",
+            "pass": true
+          },
+          {
+            "check": "height:1",
+            "pass": true
+          },
+          {
+            "check": "nonempty:1:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha:1:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:1:frame-0",
+            "pass": true,
+            "actual_margins_ltrb": [
+              78,
+              47,
+              116,
+              47
+            ]
+          },
+          {
+            "check": "width:2",
+            "pass": true
+          },
+          {
+            "check": "height:2",
+            "pass": true
+          },
+          {
+            "check": "nonempty:2:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha:2:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:2:frame-0",
+            "pass": true,
+            "actual_margins_ltrb": [
+              100,
+              46,
+              93,
+              46
+            ]
+          },
+          {
+            "check": "width:3",
+            "pass": true
+          },
+          {
+            "check": "height:3",
+            "pass": true
+          },
+          {
+            "check": "nonempty:3:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha:3:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:3:frame-0",
+            "pass": true,
+            "actual_margins_ltrb": [
+              93,
+              46,
+              137,
+              46
+            ]
+          },
+          {
+            "check": "width:4",
+            "pass": true
+          },
+          {
+            "check": "height:4",
+            "pass": true
+          },
+          {
+            "check": "nonempty:4:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha:4:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:4:frame-0",
+            "pass": true,
+            "actual_margins_ltrb": [
+              113,
+              47,
+              120,
+              46
+            ]
+          },
+          {
+            "check": "width:5",
+            "pass": true
+          },
+          {
+            "check": "height:5",
+            "pass": true
+          },
+          {
+            "check": "nonempty:5:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha:5:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:5:frame-0",
+            "pass": true,
+            "actual_margins_ltrb": [
+              108,
+              47,
+              90,
+              47
+            ]
+          },
+          {
+            "check": "width:6",
+            "pass": true
+          },
+          {
+            "check": "height:6",
+            "pass": true
+          },
+          {
+            "check": "nonempty:6:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha:6:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:6:frame-0",
+            "pass": true,
+            "actual_margins_ltrb": [
+              142,
+              46,
+              47,
+              48
+            ]
+          },
+          {
+            "check": "width:7",
+            "pass": true
+          },
+          {
+            "check": "height:7",
+            "pass": true
+          },
+          {
+            "check": "nonempty:7:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha:7:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:7:frame-0",
+            "pass": true,
+            "actual_margins_ltrb": [
+              108,
+              46,
+              94,
+              47
+            ]
+          },
+          {
+            "check": "width:8",
+            "pass": true
+          },
+          {
+            "check": "height:8",
+            "pass": true
+          },
+          {
+            "check": "nonempty:8:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha:8:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:8:frame-0",
+            "pass": true,
+            "actual_margins_ltrb": [
+              128,
+              48,
+              74,
+              46
+            ]
+          },
+          {
+            "check": "width:9",
+            "pass": true
+          },
+          {
+            "check": "height:9",
+            "pass": true
+          },
+          {
+            "check": "nonempty:9:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha:9:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:9:frame-0",
+            "pass": true,
+            "actual_margins_ltrb": [
+              106,
+              47,
+              104,
+              47
+            ]
+          },
+          {
+            "check": "width:10",
+            "pass": true
+          },
+          {
+            "check": "height:10",
+            "pass": true
+          },
+          {
+            "check": "nonempty:10:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha:10:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:10:frame-0",
+            "pass": true,
+            "actual_margins_ltrb": [
+              127,
+              45,
+              70,
+              47
+            ]
+          },
+          {
+            "check": "width:11",
+            "pass": true
+          },
+          {
+            "check": "height:11",
+            "pass": true
+          },
+          {
+            "check": "nonempty:11:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha:11:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:11:frame-0",
+            "pass": true,
+            "actual_margins_ltrb": [
+              99,
+              41,
+              132,
+              47
+            ]
+          },
+          {
+            "check": "width:12",
+            "pass": true
+          },
+          {
+            "check": "height:12",
+            "pass": true
+          },
+          {
+            "check": "nonempty:12:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha:12:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:12:frame-0",
+            "pass": true,
+            "actual_margins_ltrb": [
+              106,
+              48,
+              104,
+              45
+            ]
+          },
+          {
+            "check": "width:13",
+            "pass": true
+          },
+          {
+            "check": "height:13",
+            "pass": true
+          },
+          {
+            "check": "nonempty:13:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha:13:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:13:frame-0",
+            "pass": true,
+            "actual_margins_ltrb": [
+              78,
+              46,
+              119,
+              46
+            ]
+          },
+          {
+            "check": "width:14",
+            "pass": true
+          },
+          {
+            "check": "height:14",
+            "pass": true
+          },
+          {
+            "check": "nonempty:14:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha:14:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:14:frame-0",
+            "pass": true,
+            "actual_margins_ltrb": [
+              88,
+              46,
+              83,
+              50
+            ]
+          },
+          {
+            "check": "width:15",
+            "pass": true
+          },
+          {
+            "check": "height:15",
+            "pass": true
+          },
+          {
+            "check": "nonempty:15:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha:15:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:15:frame-0",
+            "pass": true,
+            "actual_margins_ltrb": [
+              82,
+              42,
+              110,
+              49
+            ]
+          },
+          {
+            "check": "frame_count",
+            "pass": true,
+            "expected": 16,
+            "actual": 16
+          },
+          {
+            "check": "duration_count",
+            "pass": true
+          },
+          {
+            "check": "positive_durations",
+            "pass": true
+          }
+        ],
+        "findings": [],
+        "verified_paths": [
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0000.png",
+            "sha256": "19c756747e01d2120b970678c608bce3727a0e77201e85d2d692841565edcae0",
+            "bytes": 276493
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0001.png",
+            "sha256": "c4b0d80abf7bca1975b612dd852defe8ecfa290057332f3c2aeed35cc5eb1143",
+            "bytes": 275997
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0002.png",
+            "sha256": "9f69fd1cb48a8257965ba572c5d7bcaa7f728b78a7d37c0667b468ded92a7781",
+            "bytes": 277536
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0003.png",
+            "sha256": "ac1bb481cf7f0c0fd4985aa2d38bdc4095ce294d1582b738e5fd68e874e67b4c",
+            "bytes": 229716
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0004.png",
+            "sha256": "b046e53a48ad0b9276c11fc9b6f6b0e77b71fce4bad0e73b7a7f0e3f0be939a6",
+            "bytes": 227304
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0005.png",
+            "sha256": "0fc9a8e1e9b9e95f941e92fa91d3152c17c39c8fc7ee45533685934f428f59f6",
+            "bytes": 241338
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0006.png",
+            "sha256": "88c5865da1b1532e348c770742d01cd53631487eb11981f792143a6f3b3898b5",
+            "bytes": 252317
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0007.png",
+            "sha256": "bd8479120e63b09137355f3fea74a74b65f0b36a33cbba662d6e7185799ff518",
+            "bytes": 246354
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0008.png",
+            "sha256": "3cb14c72c7c1b961bf5a2c0cff3d87d95c92b043ec91aff25fd01540bd9b369e",
+            "bytes": 256512
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0009.png",
+            "sha256": "62383342f9a48509d85ed1af26631a73975ff05391bf0206bf2bf039f6e4f77a",
+            "bytes": 262294
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0010.png",
+            "sha256": "fb05faf01150c6c6cfb8370bca60a916cafb92812190f4d0a91c4e1b9b12fca7",
+            "bytes": 251902
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0011.png",
+            "sha256": "76086ea0ebcb110d0f5f5288f8c4fd8fe0595cd84bbea67fefb09e09fa53febe",
+            "bytes": 244824
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0012.png",
+            "sha256": "65b624e01db68b4baf9c31dfd3565972d0a2eec8b8e5d6cee353db8f0923f439",
+            "bytes": 239898
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0013.png",
+            "sha256": "a0a5d2dc927f9c9a3005a615bff47de2f5e9151ccfa69f1b86b4eba4328427bd",
+            "bytes": 244542
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0014.png",
+            "sha256": "5a21262b58fee3afbd504058db668f546e0c7d2b0b85e43074b674166bfeadec",
+            "bytes": 261635
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0015.png",
+            "sha256": "da19f404c405cfac57c11e5a98e7001286d695920ee3f28e1ebc6df2f5b52bf9",
+            "bytes": 270728
+          }
+        ],
+        "revision": 71,
+        "spec_complete": true,
+        "artifact_kind": "frames",
+        "requested_spec_sha256": "d31d1a6bac934d72f13b2d014df4d10adf6898067686e42618de18ef9a415fc1",
+        "resolved_expectations": {
+          "alpha": true,
+          "width": 512,
+          "height": 768,
+          "frame_count": 16,
+          "columns": 0,
+          "rows": 0,
+          "gap_px": 0,
+          "margin_px": 0,
+          "minimum_alpha_margin_px": 16,
+          "margin_alpha_threshold": 128,
+          "durations_ms": [
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200
+          ],
+          "allow_empty_frames": [],
+          "allow_empty_cells": []
+        }
+      },
+      "atlas": {
+        "group_name": "atlas",
+        "format_status": "pass",
+        "checks": [
+          {
+            "check": "sheet_nonempty:0",
+            "pass": true
+          },
+          {
+            "check": "sheet_alpha:0",
+            "pass": true
+          },
+          {
+            "check": "width:0",
+            "pass": true
+          },
+          {
+            "check": "height:0",
+            "pass": true
+          },
+          {
+            "check": "static_atlas:0",
+            "pass": true
+          },
+          {
+            "check": "grid_divisibility:0",
+            "pass": true
+          },
+          {
+            "check": "slot_capacity:0",
+            "pass": true
+          },
+          {
+            "check": "nonempty:0:cell-0",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:cell-0",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:0:cell-0",
+            "pass": true,
+            "actual_margins_ltrb": [
+              82,
+              48,
+              118,
+              47
+            ]
+          },
+          {
+            "check": "nonempty:0:cell-1",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:cell-1",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:0:cell-1",
+            "pass": true,
+            "actual_margins_ltrb": [
+              78,
+              47,
+              116,
+              47
+            ]
+          },
+          {
+            "check": "nonempty:0:cell-2",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:cell-2",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:0:cell-2",
+            "pass": true,
+            "actual_margins_ltrb": [
+              100,
+              46,
+              93,
+              46
+            ]
+          },
+          {
+            "check": "nonempty:0:cell-3",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:cell-3",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:0:cell-3",
+            "pass": true,
+            "actual_margins_ltrb": [
+              93,
+              46,
+              137,
+              46
+            ]
+          },
+          {
+            "check": "nonempty:0:cell-4",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:cell-4",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:0:cell-4",
+            "pass": true,
+            "actual_margins_ltrb": [
+              113,
+              47,
+              120,
+              46
+            ]
+          },
+          {
+            "check": "nonempty:0:cell-5",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:cell-5",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:0:cell-5",
+            "pass": true,
+            "actual_margins_ltrb": [
+              108,
+              47,
+              90,
+              47
+            ]
+          },
+          {
+            "check": "nonempty:0:cell-6",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:cell-6",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:0:cell-6",
+            "pass": true,
+            "actual_margins_ltrb": [
+              142,
+              46,
+              47,
+              48
+            ]
+          },
+          {
+            "check": "nonempty:0:cell-7",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:cell-7",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:0:cell-7",
+            "pass": true,
+            "actual_margins_ltrb": [
+              108,
+              46,
+              94,
+              47
+            ]
+          },
+          {
+            "check": "nonempty:0:cell-8",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:cell-8",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:0:cell-8",
+            "pass": true,
+            "actual_margins_ltrb": [
+              128,
+              48,
+              74,
+              46
+            ]
+          },
+          {
+            "check": "nonempty:0:cell-9",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:cell-9",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:0:cell-9",
+            "pass": true,
+            "actual_margins_ltrb": [
+              106,
+              47,
+              104,
+              47
+            ]
+          },
+          {
+            "check": "nonempty:0:cell-10",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:cell-10",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:0:cell-10",
+            "pass": true,
+            "actual_margins_ltrb": [
+              127,
+              45,
+              70,
+              47
+            ]
+          },
+          {
+            "check": "nonempty:0:cell-11",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:cell-11",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:0:cell-11",
+            "pass": true,
+            "actual_margins_ltrb": [
+              99,
+              41,
+              132,
+              47
+            ]
+          },
+          {
+            "check": "nonempty:0:cell-12",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:cell-12",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:0:cell-12",
+            "pass": true,
+            "actual_margins_ltrb": [
+              106,
+              48,
+              104,
+              45
+            ]
+          },
+          {
+            "check": "nonempty:0:cell-13",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:cell-13",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:0:cell-13",
+            "pass": true,
+            "actual_margins_ltrb": [
+              78,
+              46,
+              119,
+              46
+            ]
+          },
+          {
+            "check": "nonempty:0:cell-14",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:cell-14",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:0:cell-14",
+            "pass": true,
+            "actual_margins_ltrb": [
+              88,
+              46,
+              83,
+              50
+            ]
+          },
+          {
+            "check": "nonempty:0:cell-15",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:cell-15",
+            "pass": true
+          },
+          {
+            "check": "alpha_safe_margin:0:cell-15",
+            "pass": true,
+            "actual_margins_ltrb": [
+              82,
+              42,
+              110,
+              49
+            ]
+          },
+          {
+            "check": "frame_count",
+            "pass": true,
+            "expected": 16,
+            "actual": 16
+          },
+          {
+            "check": "duration_count",
+            "pass": true
+          },
+          {
+            "check": "positive_durations",
+            "pass": true
+          }
+        ],
+        "findings": [],
+        "verified_paths": [
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-atlas.png",
+            "sha256": "40cb63367dd598c4df43fd8d87f07d88008ef4bad180f25895986a8ae8a3cc00",
+            "bytes": 4041699
+          }
+        ],
+        "revision": 71,
+        "spec_complete": true,
+        "artifact_kind": "atlas",
+        "requested_spec_sha256": "d31d1a6bac934d72f13b2d014df4d10adf6898067686e42618de18ef9a415fc1",
+        "resolved_expectations": {
+          "alpha": true,
+          "width": 2048,
+          "height": 3072,
+          "frame_count": 16,
+          "columns": 4,
+          "rows": 4,
+          "gap_px": 0,
+          "margin_px": 0,
+          "minimum_alpha_margin_px": 16,
+          "margin_alpha_threshold": 128,
+          "durations_ms": [
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200
+          ],
+          "allow_empty_frames": [],
+          "allow_empty_cells": []
+        }
+      },
+      "gif": {
+        "group_name": "gif",
+        "format_status": "pass",
+        "checks": [
+          {
+            "check": "width:0",
+            "pass": true
+          },
+          {
+            "check": "height:0",
+            "pass": true
+          },
+          {
+            "check": "nonempty:0:frame-0",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:frame-0",
+            "pass": true
+          },
+          {
+            "check": "nonempty:0:frame-1",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:frame-1",
+            "pass": true
+          },
+          {
+            "check": "nonempty:0:frame-2",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:frame-2",
+            "pass": true
+          },
+          {
+            "check": "nonempty:0:frame-3",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:frame-3",
+            "pass": true
+          },
+          {
+            "check": "nonempty:0:frame-4",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:frame-4",
+            "pass": true
+          },
+          {
+            "check": "nonempty:0:frame-5",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:frame-5",
+            "pass": true
+          },
+          {
+            "check": "nonempty:0:frame-6",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:frame-6",
+            "pass": true
+          },
+          {
+            "check": "nonempty:0:frame-7",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:frame-7",
+            "pass": true
+          },
+          {
+            "check": "nonempty:0:frame-8",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:frame-8",
+            "pass": true
+          },
+          {
+            "check": "nonempty:0:frame-9",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:frame-9",
+            "pass": true
+          },
+          {
+            "check": "nonempty:0:frame-10",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:frame-10",
+            "pass": true
+          },
+          {
+            "check": "nonempty:0:frame-11",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:frame-11",
+            "pass": true
+          },
+          {
+            "check": "nonempty:0:frame-12",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:frame-12",
+            "pass": true
+          },
+          {
+            "check": "nonempty:0:frame-13",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:frame-13",
+            "pass": true
+          },
+          {
+            "check": "nonempty:0:frame-14",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:frame-14",
+            "pass": true
+          },
+          {
+            "check": "nonempty:0:frame-15",
+            "pass": true
+          },
+          {
+            "check": "alpha:0:frame-15",
+            "pass": true
+          },
+          {
+            "check": "frame_count",
+            "pass": true,
+            "expected": 16,
+            "actual": 16
+          },
+          {
+            "check": "duration_count",
+            "pass": true
+          },
+          {
+            "check": "positive_durations",
+            "pass": true
+          }
+        ],
+        "findings": [],
+        "verified_paths": [
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360.gif",
+            "sha256": "8c161354648ccd1aff821a1febd4c079657672a50dbbf260850c16660ca33d10",
+            "bytes": 814024
+          }
+        ],
+        "revision": 71,
+        "spec_complete": true,
+        "artifact_kind": "preview",
+        "requested_spec_sha256": "d31d1a6bac934d72f13b2d014df4d10adf6898067686e42618de18ef9a415fc1",
+        "resolved_expectations": {
+          "alpha": true,
+          "width": 512,
+          "height": 768,
+          "frame_count": 16,
+          "columns": 0,
+          "rows": 0,
+          "gap_px": 0,
+          "margin_px": 0,
+          "minimum_alpha_margin_px": 0,
+          "margin_alpha_threshold": 4,
+          "durations_ms": [
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200,
+            200
+          ],
+          "allow_empty_frames": [],
+          "allow_empty_cells": []
+        }
+      },
+      "contact": {
+        "group_name": "contact",
+        "format_status": "pass",
+        "checks": [
+          {
+            "check": "width:0",
+            "pass": true
+          },
+          {
+            "check": "height:0",
+            "pass": true
+          },
+          {
+            "check": "nonempty:0:frame-0",
+            "pass": true
+          },
+          {
+            "check": "frame_count",
+            "pass": true,
+            "expected": 1,
+            "actual": 1
+          }
+        ],
+        "findings": [],
+        "verified_paths": [
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-contact.png",
+            "sha256": "6d9d504ab2adcef9f0065c4b5ca83b13f405fc4189c98c09a0862cf3af032f96",
+            "bytes": 1068809
+          }
+        ],
+        "revision": 71,
+        "spec_complete": true,
+        "artifact_kind": "preview",
+        "requested_spec_sha256": "d31d1a6bac934d72f13b2d014df4d10adf6898067686e42618de18ef9a415fc1",
+        "resolved_expectations": {
+          "alpha": false,
+          "width": 1024,
+          "height": 1632,
+          "frame_count": 1,
+          "columns": 0,
+          "rows": 0,
+          "gap_px": 0,
+          "margin_px": 0,
+          "minimum_alpha_margin_px": 0,
+          "margin_alpha_threshold": 4,
+          "durations_ms": null,
+          "allow_empty_frames": [],
+          "allow_empty_cells": []
+        }
+      }
+    },
+    "checks": [
+      {
+        "check": "width:0",
+        "pass": true
+      },
+      {
+        "check": "height:0",
+        "pass": true
+      },
+      {
+        "check": "nonempty:0:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:0:frame-0",
+        "pass": true,
+        "actual_margins_ltrb": [
+          82,
+          48,
+          118,
+          47
+        ]
+      },
+      {
+        "check": "width:1",
+        "pass": true
+      },
+      {
+        "check": "height:1",
+        "pass": true
+      },
+      {
+        "check": "nonempty:1:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha:1:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:1:frame-0",
+        "pass": true,
+        "actual_margins_ltrb": [
+          78,
+          47,
+          116,
+          47
+        ]
+      },
+      {
+        "check": "width:2",
+        "pass": true
+      },
+      {
+        "check": "height:2",
+        "pass": true
+      },
+      {
+        "check": "nonempty:2:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha:2:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:2:frame-0",
+        "pass": true,
+        "actual_margins_ltrb": [
+          100,
+          46,
+          93,
+          46
+        ]
+      },
+      {
+        "check": "width:3",
+        "pass": true
+      },
+      {
+        "check": "height:3",
+        "pass": true
+      },
+      {
+        "check": "nonempty:3:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha:3:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:3:frame-0",
+        "pass": true,
+        "actual_margins_ltrb": [
+          93,
+          46,
+          137,
+          46
+        ]
+      },
+      {
+        "check": "width:4",
+        "pass": true
+      },
+      {
+        "check": "height:4",
+        "pass": true
+      },
+      {
+        "check": "nonempty:4:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha:4:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:4:frame-0",
+        "pass": true,
+        "actual_margins_ltrb": [
+          113,
+          47,
+          120,
+          46
+        ]
+      },
+      {
+        "check": "width:5",
+        "pass": true
+      },
+      {
+        "check": "height:5",
+        "pass": true
+      },
+      {
+        "check": "nonempty:5:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha:5:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:5:frame-0",
+        "pass": true,
+        "actual_margins_ltrb": [
+          108,
+          47,
+          90,
+          47
+        ]
+      },
+      {
+        "check": "width:6",
+        "pass": true
+      },
+      {
+        "check": "height:6",
+        "pass": true
+      },
+      {
+        "check": "nonempty:6:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha:6:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:6:frame-0",
+        "pass": true,
+        "actual_margins_ltrb": [
+          142,
+          46,
+          47,
+          48
+        ]
+      },
+      {
+        "check": "width:7",
+        "pass": true
+      },
+      {
+        "check": "height:7",
+        "pass": true
+      },
+      {
+        "check": "nonempty:7:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha:7:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:7:frame-0",
+        "pass": true,
+        "actual_margins_ltrb": [
+          108,
+          46,
+          94,
+          47
+        ]
+      },
+      {
+        "check": "width:8",
+        "pass": true
+      },
+      {
+        "check": "height:8",
+        "pass": true
+      },
+      {
+        "check": "nonempty:8:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha:8:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:8:frame-0",
+        "pass": true,
+        "actual_margins_ltrb": [
+          128,
+          48,
+          74,
+          46
+        ]
+      },
+      {
+        "check": "width:9",
+        "pass": true
+      },
+      {
+        "check": "height:9",
+        "pass": true
+      },
+      {
+        "check": "nonempty:9:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha:9:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:9:frame-0",
+        "pass": true,
+        "actual_margins_ltrb": [
+          106,
+          47,
+          104,
+          47
+        ]
+      },
+      {
+        "check": "width:10",
+        "pass": true
+      },
+      {
+        "check": "height:10",
+        "pass": true
+      },
+      {
+        "check": "nonempty:10:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha:10:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:10:frame-0",
+        "pass": true,
+        "actual_margins_ltrb": [
+          127,
+          45,
+          70,
+          47
+        ]
+      },
+      {
+        "check": "width:11",
+        "pass": true
+      },
+      {
+        "check": "height:11",
+        "pass": true
+      },
+      {
+        "check": "nonempty:11:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha:11:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:11:frame-0",
+        "pass": true,
+        "actual_margins_ltrb": [
+          99,
+          41,
+          132,
+          47
+        ]
+      },
+      {
+        "check": "width:12",
+        "pass": true
+      },
+      {
+        "check": "height:12",
+        "pass": true
+      },
+      {
+        "check": "nonempty:12:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha:12:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:12:frame-0",
+        "pass": true,
+        "actual_margins_ltrb": [
+          106,
+          48,
+          104,
+          45
+        ]
+      },
+      {
+        "check": "width:13",
+        "pass": true
+      },
+      {
+        "check": "height:13",
+        "pass": true
+      },
+      {
+        "check": "nonempty:13:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha:13:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:13:frame-0",
+        "pass": true,
+        "actual_margins_ltrb": [
+          78,
+          46,
+          119,
+          46
+        ]
+      },
+      {
+        "check": "width:14",
+        "pass": true
+      },
+      {
+        "check": "height:14",
+        "pass": true
+      },
+      {
+        "check": "nonempty:14:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha:14:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:14:frame-0",
+        "pass": true,
+        "actual_margins_ltrb": [
+          88,
+          46,
+          83,
+          50
+        ]
+      },
+      {
+        "check": "width:15",
+        "pass": true
+      },
+      {
+        "check": "height:15",
+        "pass": true
+      },
+      {
+        "check": "nonempty:15:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha:15:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:15:frame-0",
+        "pass": true,
+        "actual_margins_ltrb": [
+          82,
+          42,
+          110,
+          49
+        ]
+      },
+      {
+        "check": "frame_count",
+        "pass": true,
+        "expected": 16,
+        "actual": 16
+      },
+      {
+        "check": "duration_count",
+        "pass": true
+      },
+      {
+        "check": "positive_durations",
+        "pass": true
+      },
+      {
+        "check": "sheet_nonempty:0",
+        "pass": true
+      },
+      {
+        "check": "sheet_alpha:0",
+        "pass": true
+      },
+      {
+        "check": "width:0",
+        "pass": true
+      },
+      {
+        "check": "height:0",
+        "pass": true
+      },
+      {
+        "check": "static_atlas:0",
+        "pass": true
+      },
+      {
+        "check": "grid_divisibility:0",
+        "pass": true
+      },
+      {
+        "check": "slot_capacity:0",
+        "pass": true
+      },
+      {
+        "check": "nonempty:0:cell-0",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:cell-0",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:0:cell-0",
+        "pass": true,
+        "actual_margins_ltrb": [
+          82,
+          48,
+          118,
+          47
+        ]
+      },
+      {
+        "check": "nonempty:0:cell-1",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:cell-1",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:0:cell-1",
+        "pass": true,
+        "actual_margins_ltrb": [
+          78,
+          47,
+          116,
+          47
+        ]
+      },
+      {
+        "check": "nonempty:0:cell-2",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:cell-2",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:0:cell-2",
+        "pass": true,
+        "actual_margins_ltrb": [
+          100,
+          46,
+          93,
+          46
+        ]
+      },
+      {
+        "check": "nonempty:0:cell-3",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:cell-3",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:0:cell-3",
+        "pass": true,
+        "actual_margins_ltrb": [
+          93,
+          46,
+          137,
+          46
+        ]
+      },
+      {
+        "check": "nonempty:0:cell-4",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:cell-4",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:0:cell-4",
+        "pass": true,
+        "actual_margins_ltrb": [
+          113,
+          47,
+          120,
+          46
+        ]
+      },
+      {
+        "check": "nonempty:0:cell-5",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:cell-5",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:0:cell-5",
+        "pass": true,
+        "actual_margins_ltrb": [
+          108,
+          47,
+          90,
+          47
+        ]
+      },
+      {
+        "check": "nonempty:0:cell-6",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:cell-6",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:0:cell-6",
+        "pass": true,
+        "actual_margins_ltrb": [
+          142,
+          46,
+          47,
+          48
+        ]
+      },
+      {
+        "check": "nonempty:0:cell-7",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:cell-7",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:0:cell-7",
+        "pass": true,
+        "actual_margins_ltrb": [
+          108,
+          46,
+          94,
+          47
+        ]
+      },
+      {
+        "check": "nonempty:0:cell-8",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:cell-8",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:0:cell-8",
+        "pass": true,
+        "actual_margins_ltrb": [
+          128,
+          48,
+          74,
+          46
+        ]
+      },
+      {
+        "check": "nonempty:0:cell-9",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:cell-9",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:0:cell-9",
+        "pass": true,
+        "actual_margins_ltrb": [
+          106,
+          47,
+          104,
+          47
+        ]
+      },
+      {
+        "check": "nonempty:0:cell-10",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:cell-10",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:0:cell-10",
+        "pass": true,
+        "actual_margins_ltrb": [
+          127,
+          45,
+          70,
+          47
+        ]
+      },
+      {
+        "check": "nonempty:0:cell-11",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:cell-11",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:0:cell-11",
+        "pass": true,
+        "actual_margins_ltrb": [
+          99,
+          41,
+          132,
+          47
+        ]
+      },
+      {
+        "check": "nonempty:0:cell-12",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:cell-12",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:0:cell-12",
+        "pass": true,
+        "actual_margins_ltrb": [
+          106,
+          48,
+          104,
+          45
+        ]
+      },
+      {
+        "check": "nonempty:0:cell-13",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:cell-13",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:0:cell-13",
+        "pass": true,
+        "actual_margins_ltrb": [
+          78,
+          46,
+          119,
+          46
+        ]
+      },
+      {
+        "check": "nonempty:0:cell-14",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:cell-14",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:0:cell-14",
+        "pass": true,
+        "actual_margins_ltrb": [
+          88,
+          46,
+          83,
+          50
+        ]
+      },
+      {
+        "check": "nonempty:0:cell-15",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:cell-15",
+        "pass": true
+      },
+      {
+        "check": "alpha_safe_margin:0:cell-15",
+        "pass": true,
+        "actual_margins_ltrb": [
+          82,
+          42,
+          110,
+          49
+        ]
+      },
+      {
+        "check": "frame_count",
+        "pass": true,
+        "expected": 16,
+        "actual": 16
+      },
+      {
+        "check": "duration_count",
+        "pass": true
+      },
+      {
+        "check": "positive_durations",
+        "pass": true
+      },
+      {
+        "check": "width:0",
+        "pass": true
+      },
+      {
+        "check": "height:0",
+        "pass": true
+      },
+      {
+        "check": "nonempty:0:frame-0",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:frame-0",
+        "pass": true
+      },
+      {
+        "check": "nonempty:0:frame-1",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:frame-1",
+        "pass": true
+      },
+      {
+        "check": "nonempty:0:frame-2",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:frame-2",
+        "pass": true
+      },
+      {
+        "check": "nonempty:0:frame-3",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:frame-3",
+        "pass": true
+      },
+      {
+        "check": "nonempty:0:frame-4",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:frame-4",
+        "pass": true
+      },
+      {
+        "check": "nonempty:0:frame-5",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:frame-5",
+        "pass": true
+      },
+      {
+        "check": "nonempty:0:frame-6",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:frame-6",
+        "pass": true
+      },
+      {
+        "check": "nonempty:0:frame-7",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:frame-7",
+        "pass": true
+      },
+      {
+        "check": "nonempty:0:frame-8",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:frame-8",
+        "pass": true
+      },
+      {
+        "check": "nonempty:0:frame-9",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:frame-9",
+        "pass": true
+      },
+      {
+        "check": "nonempty:0:frame-10",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:frame-10",
+        "pass": true
+      },
+      {
+        "check": "nonempty:0:frame-11",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:frame-11",
+        "pass": true
+      },
+      {
+        "check": "nonempty:0:frame-12",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:frame-12",
+        "pass": true
+      },
+      {
+        "check": "nonempty:0:frame-13",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:frame-13",
+        "pass": true
+      },
+      {
+        "check": "nonempty:0:frame-14",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:frame-14",
+        "pass": true
+      },
+      {
+        "check": "nonempty:0:frame-15",
+        "pass": true
+      },
+      {
+        "check": "alpha:0:frame-15",
+        "pass": true
+      },
+      {
+        "check": "frame_count",
+        "pass": true,
+        "expected": 16,
+        "actual": 16
+      },
+      {
+        "check": "duration_count",
+        "pass": true
+      },
+      {
+        "check": "positive_durations",
+        "pass": true
+      },
+      {
+        "check": "width:0",
+        "pass": true
+      },
+      {
+        "check": "height:0",
+        "pass": true
+      },
+      {
+        "check": "nonempty:0:frame-0",
+        "pass": true
+      },
+      {
+        "check": "frame_count",
+        "pass": true,
+        "expected": 1,
+        "actual": 1
+      }
+    ],
+    "visual_review_status": "pass",
+    "semantic_status": "pass",
+    "overall_status": "pass",
+    "verified_paths": [
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0000.png",
+        "sha256": "19c756747e01d2120b970678c608bce3727a0e77201e85d2d692841565edcae0",
+        "bytes": 276493
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0001.png",
+        "sha256": "c4b0d80abf7bca1975b612dd852defe8ecfa290057332f3c2aeed35cc5eb1143",
+        "bytes": 275997
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0002.png",
+        "sha256": "9f69fd1cb48a8257965ba572c5d7bcaa7f728b78a7d37c0667b468ded92a7781",
+        "bytes": 277536
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0003.png",
+        "sha256": "ac1bb481cf7f0c0fd4985aa2d38bdc4095ce294d1582b738e5fd68e874e67b4c",
+        "bytes": 229716
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0004.png",
+        "sha256": "b046e53a48ad0b9276c11fc9b6f6b0e77b71fce4bad0e73b7a7f0e3f0be939a6",
+        "bytes": 227304
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0005.png",
+        "sha256": "0fc9a8e1e9b9e95f941e92fa91d3152c17c39c8fc7ee45533685934f428f59f6",
+        "bytes": 241338
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0006.png",
+        "sha256": "88c5865da1b1532e348c770742d01cd53631487eb11981f792143a6f3b3898b5",
+        "bytes": 252317
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0007.png",
+        "sha256": "bd8479120e63b09137355f3fea74a74b65f0b36a33cbba662d6e7185799ff518",
+        "bytes": 246354
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0008.png",
+        "sha256": "3cb14c72c7c1b961bf5a2c0cff3d87d95c92b043ec91aff25fd01540bd9b369e",
+        "bytes": 256512
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0009.png",
+        "sha256": "62383342f9a48509d85ed1af26631a73975ff05391bf0206bf2bf039f6e4f77a",
+        "bytes": 262294
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0010.png",
+        "sha256": "fb05faf01150c6c6cfb8370bca60a916cafb92812190f4d0a91c4e1b9b12fca7",
+        "bytes": 251902
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0011.png",
+        "sha256": "76086ea0ebcb110d0f5f5288f8c4fd8fe0595cd84bbea67fefb09e09fa53febe",
+        "bytes": 244824
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0012.png",
+        "sha256": "65b624e01db68b4baf9c31dfd3565972d0a2eec8b8e5d6cee353db8f0923f439",
+        "bytes": 239898
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0013.png",
+        "sha256": "a0a5d2dc927f9c9a3005a615bff47de2f5e9151ccfa69f1b86b4eba4328427bd",
+        "bytes": 244542
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0014.png",
+        "sha256": "5a21262b58fee3afbd504058db668f546e0c7d2b0b85e43074b674166bfeadec",
+        "bytes": 261635
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0015.png",
+        "sha256": "da19f404c405cfac57c11e5a98e7001286d695920ee3f28e1ebc6df2f5b52bf9",
+        "bytes": 270728
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-atlas.png",
+        "sha256": "40cb63367dd598c4df43fd8d87f07d88008ef4bad180f25895986a8ae8a3cc00",
+        "bytes": 4041699
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360.gif",
+        "sha256": "8c161354648ccd1aff821a1febd4c079657672a50dbbf260850c16660ca33d10",
+        "bytes": 814024
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-contact.png",
+        "sha256": "6d9d504ab2adcef9f0065c4b5ca83b13f405fc4189c98c09a0862cf3af032f96",
+        "bytes": 1068809
+      }
+    ],
+    "objective_findings": [],
+    "reviews": [
+      {
+        "at": "2026-10-19T15:25:46.349Z",
+        "scope": "visual",
+        "status": "pass",
+        "findings": [
+          "Reviewed all 16 final PNG figures through full atlas and contact sheet; separately opened left profile, back, right profile, near-front and GIF. Inspected all four active raw 2x2 sources.",
+          "Full bodies stay inside canvas. Reviewed hat tops, shoe contacts and manual body axes; full-alpha PNGs retained. Black cape, white sleeve and floral skirt retained on fixed physical sides.",
+          "All GIF frames decoded and viewed in playback contact sheet. No blank frames; final-to-first returns from near-front to front.",
+          "Qualified preview quality: small rose, face, hat, fold and silhouette variations remain. Fine low-alpha edge fringe exists in PNGs; GIF edges are binary. Frame 4-to-5 has a larger angle jump. This pass is for a complete generated turntable preview, not production acceptance."
+        ],
+        "inspected_paths": [
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0000.png",
+            "sha256": "19c756747e01d2120b970678c608bce3727a0e77201e85d2d692841565edcae0"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0001.png",
+            "sha256": "c4b0d80abf7bca1975b612dd852defe8ecfa290057332f3c2aeed35cc5eb1143"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0002.png",
+            "sha256": "9f69fd1cb48a8257965ba572c5d7bcaa7f728b78a7d37c0667b468ded92a7781"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0003.png",
+            "sha256": "ac1bb481cf7f0c0fd4985aa2d38bdc4095ce294d1582b738e5fd68e874e67b4c"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0004.png",
+            "sha256": "b046e53a48ad0b9276c11fc9b6f6b0e77b71fce4bad0e73b7a7f0e3f0be939a6"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0005.png",
+            "sha256": "0fc9a8e1e9b9e95f941e92fa91d3152c17c39c8fc7ee45533685934f428f59f6"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0006.png",
+            "sha256": "88c5865da1b1532e348c770742d01cd53631487eb11981f792143a6f3b3898b5"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0007.png",
+            "sha256": "bd8479120e63b09137355f3fea74a74b65f0b36a33cbba662d6e7185799ff518"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0008.png",
+            "sha256": "3cb14c72c7c1b961bf5a2c0cff3d87d95c92b043ec91aff25fd01540bd9b369e"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0009.png",
+            "sha256": "62383342f9a48509d85ed1af26631a73975ff05391bf0206bf2bf039f6e4f77a"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0010.png",
+            "sha256": "fb05faf01150c6c6cfb8370bca60a916cafb92812190f4d0a91c4e1b9b12fca7"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0011.png",
+            "sha256": "76086ea0ebcb110d0f5f5288f8c4fd8fe0595cd84bbea67fefb09e09fa53febe"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0012.png",
+            "sha256": "65b624e01db68b4baf9c31dfd3565972d0a2eec8b8e5d6cee353db8f0923f439"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0013.png",
+            "sha256": "a0a5d2dc927f9c9a3005a615bff47de2f5e9151ccfa69f1b86b4eba4328427bd"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0014.png",
+            "sha256": "5a21262b58fee3afbd504058db668f546e0c7d2b0b85e43074b674166bfeadec"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0015.png",
+            "sha256": "da19f404c405cfac57c11e5a98e7001286d695920ee3f28e1ebc6df2f5b52bf9"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-atlas.png",
+            "sha256": "40cb63367dd598c4df43fd8d87f07d88008ef4bad180f25895986a8ae8a3cc00"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360.gif",
+            "sha256": "8c161354648ccd1aff821a1febd4c079657672a50dbbf260850c16660ca33d10"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-contact.png",
+            "sha256": "6d9d504ab2adcef9f0065c4b5ca83b13f405fc4189c98c09a0862cf3af032f96"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\raw\\group-1-initial-v2.png",
+            "sha256": "27f4deb24512039b920e6842d94be9d14641292614815a9dab630eadbec27a4f"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\raw\\group-2-initial-v2.png",
+            "sha256": "e158a576660dc37199f3808fc85f53c149814984afd3993953774ef2e2603a9c"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\raw\\group-3-p3fix-v2.png",
+            "sha256": "c7136233cae575c0bc4c2721b416a4f344e414853c030a43be9e52ff9d7a3907"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\raw\\group-4-p4fix2-v2.png",
+            "sha256": "49d15ce0b7b870f8f3bcb0220ce052a9129ab3c75ba99ec41cc4a33b1794390c"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\work\\previews\\gif-playback-contact.png",
+            "sha256": "a76b8f9f493e1618c64fda7d54b1bef1ab851c0747cc44021d55e7b71dc23b08"
+          }
+        ]
+      },
+      {
+        "at": "2026-10-19T15:25:47.106Z",
+        "scope": "semantic",
+        "status": "pass",
+        "findings": [
+          "Visually confirmed ordered complete revolution: front, front-left, left profile, rear-left, back, rear-right, right profile, front-right, then front. Head and torso direction in repaired group 3 agree.",
+          "Reference identity cues retained: short dark-blue hair, pale blue streaks, tilted flower hat, mint-white black gown, blue gems. No image mirroring used; cape stays anatomical left and flower cascade anatomical right.",
+          "Yaw labels are nominal targets, not measured angles: several steps are uneven, particularly frames 4-to-5, and some near-front views differ less than requested 22.5 degrees.",
+          "Loop covers a complete circle and connects near-front to front; minor feature changes remain at the seam. This is a reviewable 16-frame animation candidate, not a rigid 3D turntable or approved engine asset."
+        ],
+        "inspected_paths": [
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0000.png",
+            "sha256": "19c756747e01d2120b970678c608bce3727a0e77201e85d2d692841565edcae0"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0001.png",
+            "sha256": "c4b0d80abf7bca1975b612dd852defe8ecfa290057332f3c2aeed35cc5eb1143"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0002.png",
+            "sha256": "9f69fd1cb48a8257965ba572c5d7bcaa7f728b78a7d37c0667b468ded92a7781"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0003.png",
+            "sha256": "ac1bb481cf7f0c0fd4985aa2d38bdc4095ce294d1582b738e5fd68e874e67b4c"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0004.png",
+            "sha256": "b046e53a48ad0b9276c11fc9b6f6b0e77b71fce4bad0e73b7a7f0e3f0be939a6"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0005.png",
+            "sha256": "0fc9a8e1e9b9e95f941e92fa91d3152c17c39c8fc7ee45533685934f428f59f6"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0006.png",
+            "sha256": "88c5865da1b1532e348c770742d01cd53631487eb11981f792143a6f3b3898b5"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0007.png",
+            "sha256": "bd8479120e63b09137355f3fea74a74b65f0b36a33cbba662d6e7185799ff518"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0008.png",
+            "sha256": "3cb14c72c7c1b961bf5a2c0cff3d87d95c92b043ec91aff25fd01540bd9b369e"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0009.png",
+            "sha256": "62383342f9a48509d85ed1af26631a73975ff05391bf0206bf2bf039f6e4f77a"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0010.png",
+            "sha256": "fb05faf01150c6c6cfb8370bca60a916cafb92812190f4d0a91c4e1b9b12fca7"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0011.png",
+            "sha256": "76086ea0ebcb110d0f5f5288f8c4fd8fe0595cd84bbea67fefb09e09fa53febe"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0012.png",
+            "sha256": "65b624e01db68b4baf9c31dfd3565972d0a2eec8b8e5d6cee353db8f0923f439"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0013.png",
+            "sha256": "a0a5d2dc927f9c9a3005a615bff47de2f5e9151ccfa69f1b86b4eba4328427bd"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0014.png",
+            "sha256": "5a21262b58fee3afbd504058db668f546e0c7d2b0b85e43074b674166bfeadec"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-frames\\frame-0015.png",
+            "sha256": "da19f404c405cfac57c11e5a98e7001286d695920ee3f28e1ebc6df2f5b52bf9"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-atlas.png",
+            "sha256": "40cb63367dd598c4df43fd8d87f07d88008ef4bad180f25895986a8ae8a3cc00"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360.gif",
+            "sha256": "8c161354648ccd1aff821a1febd4c079657672a50dbbf260850c16660ca33d10"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O10_氧像素360旋转\\交付\\oxygen-pixel-360-v001-1b99d3fc\\oxygen-pixel-360-contact.png",
+            "sha256": "6d9d504ab2adcef9f0065c4b5ca83b13f405fc4189c98c09a0862cf3af032f96"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\raw\\group-1-initial-v2.png",
+            "sha256": "27f4deb24512039b920e6842d94be9d14641292614815a9dab630eadbec27a4f"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\raw\\group-2-initial-v2.png",
+            "sha256": "e158a576660dc37199f3808fc85f53c149814984afd3993953774ef2e2603a9c"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\raw\\group-3-p3fix-v2.png",
+            "sha256": "c7136233cae575c0bc4c2721b416a4f344e414853c030a43be9e52ff9d7a3907"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\raw\\group-4-p4fix2-v2.png",
+            "sha256": "49d15ce0b7b870f8f3bcb0220ce052a9129ab3c75ba99ec41cc4a33b1794390c"
+          },
+          {
+            "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\work\\previews\\gif-playback-contact.png",
+            "sha256": "a76b8f9f493e1618c64fda7d54b1bef1ab851c0747cc44021d55e7b71dc23b08"
+          }
+        ]
+      }
+    ],
+    "readiness_findings": []
+  },
+  "included_task_dir": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc"
+}

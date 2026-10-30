@@ -1,0 +1,18 @@
+{
+  "task_id": "fr-20261018-e857e438",
+  "record": {
+    "label": "yaw-337.5-corrected",
+    "plan_id": "direction-16",
+    "plan_sha256": "311e7a297d3cdf92cd69fff4705856233a289d4b0c3b86b57b119c4671333f7c",
+    "generation_tool_declared": "codex_builtin_imagegen",
+    "generation_source_caveat": "The local server records the caller declaration; it cannot independently inspect the Codex host tool history.",
+    "source_path": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a14d38-6675-7863-885c-e920465b521f\\exec-4acf7b8f-145d-46aa-9e4f-b82447e2042f.png",
+    "task_path": "raw/yaw-337-5-corrected.png",
+    "sha256": "37b7b81a9560472aeab1fa9f168fde4685e73b1928d07f6a74c42399c94e0162",
+    "bytes": 1595943,
+    "prompt_text": "Create one precise full-body view of Oxygen from reference image 1 in the same relaxed neutral pose. Image 2 is another view only for identity. Required angle: NEARLY STRAIGHT FRONT view, ONLY 22.5 degrees toward screen RIGHT from direct front. Both eyes fully visible, nose only slightly right of face center. Broad frontal chest, almost front shoulders. Not three-quarter, not profile. The right white sleeve is a little closer than left black cape. Head does not turn separately. Keep the exact slim body, fine anime linework and original asymmetric black/white/mint dress. Anatomical left cape, right white puff sleeve, right skirt flower vine/ruffles. Only change viewing yaw. Portrait 1024x1536, single person, full hat-to-shoes visible with clear margins, true transparent background, no text. No separate head turn. Keep ornaments, hat and flowers structurally unchanged. Body/feet/head same view.",
+    "recorded_at": "2026-10-18T06:02:33.391Z"
+  },
+  "remaining_plan_count": 0,
+  "next_step": "Inspect the actual generated image, then process it locally."
+}

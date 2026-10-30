@@ -1,0 +1,44 @@
+[
+  {
+    "alphaThreshold": 128,
+    "alpha": "0/255",
+    "direction": "downleft",
+    "sourceSize": [
+      1536,
+      1024
+    ],
+    "actualHeight": 192,
+    "canvas": [
+      105,
+      208
+    ],
+    "sourceBounds": [
+      222,
+      21,
+      459,
+      985
+    ],
+    "resampling": "nearest"
+  },
+  {
+    "alphaThreshold": 128,
+    "alpha": "0/255",
+    "direction": "downright",
+    "sourceSize": [
+      1536,
+      1024
+    ],
+    "actualHeight": 192,
+    "canvas": [
+      117,
+      208
+    ],
+    "sourceBounds": [
+      844,
+      21,
+      516,
+      985
+    ],
+    "resampling": "nearest"
+  }
+]

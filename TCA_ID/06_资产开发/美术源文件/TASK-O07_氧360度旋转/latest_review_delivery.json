@@ -1,0 +1,52 @@
+{
+  "task_id": "fr-20261018-20fd9a08",
+  "parent_tasks": [
+    "fr-20261018-e857e438",
+    "fr-20261018-ea765584",
+    "fr-20261018-3804622d"
+  ],
+  "status": "needs_fix",
+  "goal_achieved": false,
+  "video": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-smooth-v4-20fd9a08\\oxygen-360-review-v4.mp4",
+  "gif": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-smooth-v4-20fd9a08\\oxygen-rotation-review.gif",
+  "frames_dir": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-smooth-v4-20fd9a08\\oxygen-192-transparent-png",
+  "contact": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-smooth-v4-20fd9a08\\oxygen-rotation-24-keys.png",
+  "format_checks": [
+    {
+      "group": "transparent-png",
+      "status": "pass",
+      "findings": []
+    },
+    {
+      "group": "gif-preview",
+      "status": "pass",
+      "findings": []
+    },
+    {
+      "group": "key-contact",
+      "status": "pass",
+      "findings": []
+    }
+  ],
+  "visual_findings": [
+    "All 192 frames inspected as six filmstrips and critical transitions at native scale. Browser playback confirmed actual video rendering.",
+    "Major optical smears at two transitions were replaced with 12 direct ImageGen cleanup drawings. Rotation is much denser than original 16-frame candidate, but not production-smooth.",
+    "Remaining blockers: local garment/flower/hand detail flicker, uneven angular speed near back, posture and cloth contour variations around frames 57-63 and 137-144. Direct cleanup trades smearing for local temporal detail changes. Do not approve as a finished smooth turntable.",
+    "The 8s loop has no duplicated closure hold, but remaining decorative changes and mild loop-boundary contour change require temporal-consistent animation production. PNG preserves full alpha; GIF is 512x768 preview with quantized timing."
+  ],
+  "video_probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "width": 1024,
+        "height": 1536,
+        "r_frame_rate": "24/1",
+        "duration": "8.000000",
+        "nb_frames": "192"
+      }
+    ]
+  },
+  "packaging": "Cannot package task: Missing or stale visual visual review of all selected deliverables. | Missing or stale semantic visual review of all selected deliverables.",
+  "next_requirement": "A workflow with explicit temporal pose/cloth consistency, or actual animation repair, rather than more unconstrained independent still generation."
+}

@@ -1,0 +1,403 @@
+{
+  "schema_version": "1.0",
+  "task_id": "fr-20261018-e857e438",
+  "atlas_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-atlas.png",
+  "atlas_size": [
+    4096,
+    6144
+  ],
+  "columns": 4,
+  "rows": 4,
+  "cell_width": 1024,
+  "cell_height": 1536,
+  "gap_px": 0,
+  "margin_px": 0,
+  "frame_count": 16,
+  "frame_order": "row-major",
+  "frames": [
+    {
+      "index": 0,
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable\\frame-0000.png",
+      "row": 0,
+      "column": 0,
+      "source_size": [
+        1024,
+        1536
+      ],
+      "sheet_offset": [
+        0,
+        0
+      ],
+      "cell_origin": [
+        0,
+        0
+      ],
+      "cell_size": [
+        1024,
+        1536
+      ],
+      "anchor": "image_canvas_center",
+      "sha256": "e186fd2675b108db569c2e3cc46f1998c6cf3898c60ad43f9206e7b7c3ff9eff"
+    },
+    {
+      "index": 1,
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable\\frame-0001.png",
+      "row": 0,
+      "column": 1,
+      "source_size": [
+        1024,
+        1536
+      ],
+      "sheet_offset": [
+        1024,
+        0
+      ],
+      "cell_origin": [
+        1024,
+        0
+      ],
+      "cell_size": [
+        1024,
+        1536
+      ],
+      "anchor": "image_canvas_center",
+      "sha256": "b91531c13c1ada26c333ae6c9ba0462e684548ec6c7169ceb08cb8e0504ec6dd"
+    },
+    {
+      "index": 2,
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable\\frame-0002.png",
+      "row": 0,
+      "column": 2,
+      "source_size": [
+        1024,
+        1536
+      ],
+      "sheet_offset": [
+        2048,
+        0
+      ],
+      "cell_origin": [
+        2048,
+        0
+      ],
+      "cell_size": [
+        1024,
+        1536
+      ],
+      "anchor": "image_canvas_center",
+      "sha256": "43868ff9e1ed66aefd27b9908598bea73195ecf1caadee35c6e256dd7918449c"
+    },
+    {
+      "index": 3,
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable\\frame-0003.png",
+      "row": 0,
+      "column": 3,
+      "source_size": [
+        1024,
+        1536
+      ],
+      "sheet_offset": [
+        3072,
+        0
+      ],
+      "cell_origin": [
+        3072,
+        0
+      ],
+      "cell_size": [
+        1024,
+        1536
+      ],
+      "anchor": "image_canvas_center",
+      "sha256": "38af164e8f40918d4dbd5fdce417d4cbdc6af96113f8601a7c6dee14dfe9f975"
+    },
+    {
+      "index": 4,
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable\\frame-0004.png",
+      "row": 1,
+      "column": 0,
+      "source_size": [
+        1024,
+        1536
+      ],
+      "sheet_offset": [
+        0,
+        1536
+      ],
+      "cell_origin": [
+        0,
+        1536
+      ],
+      "cell_size": [
+        1024,
+        1536
+      ],
+      "anchor": "image_canvas_center",
+      "sha256": "7c6cdcd3e94354aef71b5b729d658ec3c8c1e103df71b2c99d370d422686ae7a"
+    },
+    {
+      "index": 5,
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable\\frame-0005.png",
+      "row": 1,
+      "column": 1,
+      "source_size": [
+        1024,
+        1536
+      ],
+      "sheet_offset": [
+        1024,
+        1536
+      ],
+      "cell_origin": [
+        1024,
+        1536
+      ],
+      "cell_size": [
+        1024,
+        1536
+      ],
+      "anchor": "image_canvas_center",
+      "sha256": "46de7f5065bf291b06e653a1a76949f9ec1fad37bd6ab208aa1ab7e97e6616b1"
+    },
+    {
+      "index": 6,
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable\\frame-0006.png",
+      "row": 1,
+      "column": 2,
+      "source_size": [
+        1024,
+        1536
+      ],
+      "sheet_offset": [
+        2048,
+        1536
+      ],
+      "cell_origin": [
+        2048,
+        1536
+      ],
+      "cell_size": [
+        1024,
+        1536
+      ],
+      "anchor": "image_canvas_center",
+      "sha256": "2b204d9a9433d4f3ba55f78b22526ae5a12001979edada216255f000f0e82da3"
+    },
+    {
+      "index": 7,
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable\\frame-0007.png",
+      "row": 1,
+      "column": 3,
+      "source_size": [
+        1024,
+        1536
+      ],
+      "sheet_offset": [
+        3072,
+        1536
+      ],
+      "cell_origin": [
+        3072,
+        1536
+      ],
+      "cell_size": [
+        1024,
+        1536
+      ],
+      "anchor": "image_canvas_center",
+      "sha256": "bd7f31a00cc7923546cb1922643d3bb1d6ba086c471450028f43f1460358bc8d"
+    },
+    {
+      "index": 8,
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable\\frame-0008.png",
+      "row": 2,
+      "column": 0,
+      "source_size": [
+        1024,
+        1536
+      ],
+      "sheet_offset": [
+        0,
+        3072
+      ],
+      "cell_origin": [
+        0,
+        3072
+      ],
+      "cell_size": [
+        1024,
+        1536
+      ],
+      "anchor": "image_canvas_center",
+      "sha256": "a0f71cf3f529ec5eb2cb9cef686d5bed397f852bc9df77db8ee0ddbf505c77a9"
+    },
+    {
+      "index": 9,
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable\\frame-0009.png",
+      "row": 2,
+      "column": 1,
+      "source_size": [
+        1024,
+        1536
+      ],
+      "sheet_offset": [
+        1024,
+        3072
+      ],
+      "cell_origin": [
+        1024,
+        3072
+      ],
+      "cell_size": [
+        1024,
+        1536
+      ],
+      "anchor": "image_canvas_center",
+      "sha256": "5ab94e05c9478ae404206200c6ece84ac6ba25a45e58668aa2a279c3fadc4b9a"
+    },
+    {
+      "index": 10,
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable\\frame-0010.png",
+      "row": 2,
+      "column": 2,
+      "source_size": [
+        1024,
+        1536
+      ],
+      "sheet_offset": [
+        2048,
+        3072
+      ],
+      "cell_origin": [
+        2048,
+        3072
+      ],
+      "cell_size": [
+        1024,
+        1536
+      ],
+      "anchor": "image_canvas_center",
+      "sha256": "e2f3add49dc9a05b696e9d76b9b42124707019bddf40e80020f81e1ae2cb9612"
+    },
+    {
+      "index": 11,
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable\\frame-0011.png",
+      "row": 2,
+      "column": 3,
+      "source_size": [
+        1024,
+        1536
+      ],
+      "sheet_offset": [
+        3072,
+        3072
+      ],
+      "cell_origin": [
+        3072,
+        3072
+      ],
+      "cell_size": [
+        1024,
+        1536
+      ],
+      "anchor": "image_canvas_center",
+      "sha256": "b8090b61dde4a3af392ad2b756a19fd6b4829f545b04b4c8cabe7249eb9087f3"
+    },
+    {
+      "index": 12,
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable\\frame-0012.png",
+      "row": 3,
+      "column": 0,
+      "source_size": [
+        1024,
+        1536
+      ],
+      "sheet_offset": [
+        0,
+        4608
+      ],
+      "cell_origin": [
+        0,
+        4608
+      ],
+      "cell_size": [
+        1024,
+        1536
+      ],
+      "anchor": "image_canvas_center",
+      "sha256": "24aff758b5bc43fd84279d1d1c138bfc1e188d9b94d0debd874a8e0a27674e52"
+    },
+    {
+      "index": 13,
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable\\frame-0013.png",
+      "row": 3,
+      "column": 1,
+      "source_size": [
+        1024,
+        1536
+      ],
+      "sheet_offset": [
+        1024,
+        4608
+      ],
+      "cell_origin": [
+        1024,
+        4608
+      ],
+      "cell_size": [
+        1024,
+        1536
+      ],
+      "anchor": "image_canvas_center",
+      "sha256": "38ce64d1dc26ccb67a325f55577f3bcb9ea780bcfb0d7d4c2329a06174f0c623"
+    },
+    {
+      "index": 14,
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable\\frame-0014.png",
+      "row": 3,
+      "column": 2,
+      "source_size": [
+        1024,
+        1536
+      ],
+      "sheet_offset": [
+        2048,
+        4608
+      ],
+      "cell_origin": [
+        2048,
+        4608
+      ],
+      "cell_size": [
+        1024,
+        1536
+      ],
+      "anchor": "image_canvas_center",
+      "sha256": "1bfa9f537a8c0ca654b3a396b2145d4cdd5c16e71f4216e71910dac0fcdc0145"
+    },
+    {
+      "index": 15,
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable\\frame-0015.png",
+      "row": 3,
+      "column": 3,
+      "source_size": [
+        1024,
+        1536
+      ],
+      "sheet_offset": [
+        3072,
+        4608
+      ],
+      "cell_origin": [
+        3072,
+        4608
+      ],
+      "cell_size": [
+        1024,
+        1536
+      ],
+      "anchor": "image_canvas_center",
+      "sha256": "12bf78506c8027c7469616312c16c2d30f29d3445518256786fca59c70f3986f"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "source_objects": 6254,
+  "export_meshes": 1552,
+  "export_triangles": 1152582,
+  "glb_bytes": 117995932,
+  "render_style": "3D hand-built stylized environment for pixel-sprite integration",
+  "assets": "All environment geometry and materials original to this project. Blender MCP bridge is separate tooling."
+}

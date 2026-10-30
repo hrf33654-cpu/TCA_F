@@ -1,0 +1,32 @@
+[
+  {
+    "direction": "downleft",
+    "actualHeight": 192,
+    "alphaThreshold": 128,
+    "sourceBounds": [
+      187,
+      27,
+      479,
+      977
+    ],
+    "canvas": [
+      110,
+      208
+    ]
+  },
+  {
+    "direction": "downright",
+    "actualHeight": 192,
+    "alphaThreshold": 128,
+    "sourceBounds": [
+      852,
+      26,
+      483,
+      977
+    ],
+    "canvas": [
+      111,
+      208
+    ]
+  }
+]

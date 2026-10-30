@@ -1,0 +1,19 @@
+{
+  "source": "Original deterministic pixel drawing",
+  "seed": 271027,
+  "size": 64,
+  "textures": [
+    "bark.png",
+    "canvas.png",
+    "chestnut.png",
+    "earth.png",
+    "grass.png",
+    "limestone.png",
+    "moss.png",
+    "oak.png",
+    "path.png",
+    "plaster.png",
+    "slate.png",
+    "woodland_crown.png"
+  ]
+}

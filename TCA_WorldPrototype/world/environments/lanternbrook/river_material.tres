@@ -1,0 +1,10 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3]
+
+[ext_resource type="Shader" path="res://world/environments/lanternbrook/river.gdshader" id="1_shader"]
+
+[resource]
+shader = ExtResource("1_shader")
+shader_parameter/flow_speed = 1.15
+shader_parameter/highlight_strength = 0.42
+shader_parameter/deep_color = Color(0.10, 0.38, 0.35, 1)
+shader_parameter/shallow_color = Color(0.22, 0.52, 0.44, 1)

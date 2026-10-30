@@ -1,0 +1,19 @@
+{
+  "status": "pass",
+  "colorsBefore": 3689,
+  "colorsAfter": 34,
+  "alphaUnchanged": true,
+  "canvas": [
+    104,
+    208
+  ],
+  "subjectHeight": 192,
+  "savedAsepriteCompositeEqualsFinalExport": true,
+  "visualReview": "Eyes, highlights, nose and mouth defined on separate layer; outline and asymmetric costume preserved; reduced cloth speckling. User acceptance pending.",
+  "finalPNG": "exports/oxygen-front-h192-refined-v002-final.png",
+  "sha256": {
+    "oxygen-front-h192-refined-v002.aseprite": "eaa6e3053fb4634360e7df106e66c01274f8add5e2947ec7177a339f80e3276d",
+    "exports\\oxygen-front-h192-refined-v002-final.png": "a182440405af1d148245d902fbd4be96bb24623ef46cb53dd544cd75be99aa0b",
+    "exports\\oxygen-front-h192-v001-v002-comparison.png": "e6e15ffb77030a1c77c61c60c851c90709a775c83cdd41096bf5254b80e6a5cf"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "status": "passed",
+  "source": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O11_氧正面_Aseprite忠实提取\\references\\oxygen-user-reference.png",
+  "nativeSize": [
+    661,
+    1379
+  ],
+  "nativeSubjectHeight": 1331,
+  "nativeRetainedPixels": 459621,
+  "nativeRetainedRGBMismatchCount": 0,
+  "liveAsepriteExportEqualsNativePNG": true,
+  "smallSize": [
+    104,
+    208
+  ],
+  "smallSubjectHeight": 192,
+  "smallExactlyMatchesRecordedNearestSampling": true,
+  "alphaValues": [
+    0,
+    255
+  ],
+  "visualReview": "Reference front identity, facial details, hat, blue-white hair streaks, left cape, right floral ruffles and black skirt retained; heading and other views excluded. Background antialiasing comes from the supplied raster; no RGB recoloring or invented details.",
+  "scope": "Front static view only; user visual acceptance and engine/animation validation are separate.",
+  "sha256": {
+    "oxygen-front-faithful-v001.aseprite": "e0cd117ce59c549c2cd8ee7f486af7dda8bc7f53cad87c9d45862f4cc0aacfef",
+    "oxygen-front-h192-v001.aseprite": "ea0524527c58cd848e0f15b272e43e203d7bafd5b1dc4a1c31e6832b97dbc3fa",
+    "exports\\oxygen-front-h192-preview4x-checker.png": "58932bce39a77040947a2925931797c975610ddbcc3583472b3be1eb6c9fb9a5",
+    "exports\\oxygen-front-h192-preview4x.png": "905757f0cac3040637645c338dec068d71d34076b3677b8a9175993e7a27ca28",
+    "exports\\oxygen-front-h192.png": "dc44e61756824db73883572d4af05875141346b78271afedc6001e5bdebedd50",
+    "exports\\oxygen-front-original-resolution.png": "5bfde1f74c74751114d70ff8c1b4fd104f97225808574d506c23e0581d6690fc"
+  }
+}

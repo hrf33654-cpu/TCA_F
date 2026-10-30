@@ -1,0 +1,18 @@
+{
+  "task_id": "fr-20261018-e857e438",
+  "record": {
+    "label": "yaw-337.5-final",
+    "plan_id": "direction-16",
+    "plan_sha256": "311e7a297d3cdf92cd69fff4705856233a289d4b0c3b86b57b119c4671333f7c",
+    "generation_tool_declared": "codex_builtin_imagegen",
+    "generation_source_caveat": "The local server records the caller declaration; it cannot independently inspect the Codex host tool history.",
+    "source_path": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a14d38-6675-7863-885c-e920465b521f\\exec-e679532b-29e5-4407-b061-9883314b2da2.png",
+    "task_path": "raw/yaw-337-5-final.png",
+    "sha256": "73b39a8f4ad5b28b8ce1b264c7b016c7ca1a50e24bfe8997f17440d77fdc464a",
+    "bytes": 1590308,
+    "prompt_text": "Create one full-body view of the exact Oxygen character on model sheet Image 1. Image 2 only supports identity, DO NOT copy its angle. Required view: ALMOST STRAIGHT FRONT with a tiny turn toward SCREEN RIGHT (22.5 degrees). BOTH eyes equally visible, far eye at least 90 percent width of near eye. Nose at face center just slightly right. Both shoulders broad nearly frontal. Must clearly be LESS rotated than 45-degree three-quarter. Whole head and torso same slight turn. Fine clean anime linework, original slim body and modest chest. Relaxed standing arms at sides, same original dress. Cape anatomical LEFT, white puff sleeve anatomical RIGHT, flower vine and ruffles anatomical RIGHT. No mirroring, no additional subjects, no sheet, no text. True transparent background, portrait 1024x1536, entire hat and both shoes inside clear margins. Rigid turntable pose, no separate head movement, no wind. Keep fine costume ornament scale as reference.",
+    "recorded_at": "2026-10-18T06:06:20.120Z"
+  },
+  "remaining_plan_count": 0,
+  "next_step": "Inspect the actual generated image, then process it locally."
+}

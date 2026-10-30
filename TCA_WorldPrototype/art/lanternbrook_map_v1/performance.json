@@ -1,0 +1,96 @@
+{
+	"adapter": "NVIDIA GeForce RTX 4060 Laptop GPU",
+	"measurements": [
+		{
+			"actual_size": "(1280, 720)",
+			"average_ms": 6.061,
+			"draw_calls": 1189.0,
+			"p95_ms": 6.497,
+			"region": 1,
+			"requested_size": "(1280, 720)",
+			"video_adapter": "NVIDIA GeForce RTX 4060 Laptop GPU"
+		},
+		{
+			"actual_size": "(1280, 720)",
+			"average_ms": 6.05596666666667,
+			"draw_calls": 1161.0,
+			"p95_ms": 6.535,
+			"region": 2,
+			"requested_size": "(1280, 720)",
+			"video_adapter": "NVIDIA GeForce RTX 4060 Laptop GPU"
+		},
+		{
+			"actual_size": "(1280, 720)",
+			"average_ms": 6.06364444444444,
+			"draw_calls": 1138.0,
+			"p95_ms": 6.584,
+			"region": 3,
+			"requested_size": "(1280, 720)",
+			"video_adapter": "NVIDIA GeForce RTX 4060 Laptop GPU"
+		},
+		{
+			"actual_size": "(1280, 720)",
+			"average_ms": 6.05367777777778,
+			"draw_calls": 1018.0,
+			"p95_ms": 6.668,
+			"region": 4,
+			"requested_size": "(1280, 720)",
+			"video_adapter": "NVIDIA GeForce RTX 4060 Laptop GPU"
+		},
+		{
+			"actual_size": "(1280, 720)",
+			"average_ms": 6.06327777777778,
+			"draw_calls": 826.0,
+			"p95_ms": 6.655,
+			"region": 5,
+			"requested_size": "(1280, 720)",
+			"video_adapter": "NVIDIA GeForce RTX 4060 Laptop GPU"
+		},
+		{
+			"actual_size": "(1920, 1080)",
+			"average_ms": 6.05172222222222,
+			"draw_calls": 1189.0,
+			"p95_ms": 6.303,
+			"region": 1,
+			"requested_size": "(1920, 1080)",
+			"video_adapter": "NVIDIA GeForce RTX 4060 Laptop GPU"
+		},
+		{
+			"actual_size": "(1920, 1080)",
+			"average_ms": 6.05928888888889,
+			"draw_calls": 1161.0,
+			"p95_ms": 6.599,
+			"region": 2,
+			"requested_size": "(1920, 1080)",
+			"video_adapter": "NVIDIA GeForce RTX 4060 Laptop GPU"
+		},
+		{
+			"actual_size": "(1920, 1080)",
+			"average_ms": 6.05645555555555,
+			"draw_calls": 1138.0,
+			"p95_ms": 6.553,
+			"region": 3,
+			"requested_size": "(1920, 1080)",
+			"video_adapter": "NVIDIA GeForce RTX 4060 Laptop GPU"
+		},
+		{
+			"actual_size": "(1920, 1080)",
+			"average_ms": 6.05591111111111,
+			"draw_calls": 1018.0,
+			"p95_ms": 6.926,
+			"region": 4,
+			"requested_size": "(1920, 1080)",
+			"video_adapter": "NVIDIA GeForce RTX 4060 Laptop GPU"
+		},
+		{
+			"actual_size": "(1920, 1080)",
+			"average_ms": 6.05914444444444,
+			"draw_calls": 826.0,
+			"p95_ms": 6.487,
+			"region": 5,
+			"requested_size": "(1920, 1080)",
+			"video_adapter": "NVIDIA GeForce RTX 4060 Laptop GPU"
+		}
+	],
+	"method": "90 consecutive process-frame intervals per region after 35 warmup frames; editor/game concurrent; average and p95 wall-clock frame times"
+}

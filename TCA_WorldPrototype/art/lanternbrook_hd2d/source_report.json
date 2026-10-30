@@ -1,0 +1,22 @@
+{
+  "pixel_crowns": 217,
+  "materials": {
+    "Engine_Aged chestnut beams": "chestnut",
+    "Engine_Honey oak planks": "oak",
+    "Engine_Mossy earth": "earth",
+    "Engine_Oxidised teal slate 0": "slate",
+    "Engine_Oxidised teal slate 1": "slate",
+    "Engine_Oxidised teal slate 2": "slate",
+    "Engine_Oxidised teal slate 3": "slate",
+    "Engine_Oxidised teal slate 4": "slate",
+    "Engine_V1 Lichen dressed stone": "limestone",
+    "Engine_V1 Warm gravel path": "path",
+    "Engine_Warm lime plaster": "plaster",
+    "Engine_Weathered limestone 0": "limestone",
+    "Engine_Weathered limestone 1": "limestone",
+    "Engine_Weathered limestone 2": "limestone",
+    "Engine_Weathered limestone 3": "limestone",
+    "Engine_Woven saffron canopy": "canvas"
+  },
+  "source": "E:\\TCA_F\\TCA_WorldPrototype\\art\\lanternbrook_hd2d\\Lanternbrook_HD2D_ArtPass.blend"
+}

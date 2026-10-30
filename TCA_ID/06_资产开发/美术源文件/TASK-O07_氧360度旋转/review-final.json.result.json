@@ -1,0 +1,14 @@
+{
+  "task_id": "fr-20261018-e857e438",
+  "scope": "semantic",
+  "status": "needs_fix",
+  "format_status": "not_run",
+  "visual_review_status": "not_reviewed",
+  "semantic_status": "needs_fix",
+  "overall_status": "incomplete",
+  "findings": [
+    "Reviewed all 16 source/delivery frames via contact sheet and exported GIF via full decoded playback filmstrip; hat-to-shoe complete, transparent edges, correct broad front/left/back/right progression.",
+    "Residual defects: nominal angles are uneven, near-back views cluster; flower count, vine route, skirt folds, hand positions and hat details vary. Frame 06 is closer to back than requested 135 degrees. Loop 15 to 00 changes shoulder and ornament silhouette.",
+    "This is a 16-view generated turntable candidate for human frame selection, not a smooth rigid 360-degree production-approved animation. Preserve all outputs and rejection history. Two correction rounds have been performed."
+  ]
+}

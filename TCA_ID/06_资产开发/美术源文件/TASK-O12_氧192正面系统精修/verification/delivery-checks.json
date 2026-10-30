@@ -1,0 +1,37 @@
+{
+  "status": "passed",
+  "dimensions": [
+    104,
+    208
+  ],
+  "subjectHeight": 192,
+  "transparentBackground": true,
+  "alphaAndSilhouetteUnchanged": true,
+  "originalProjectBackupSHA256": "eaa6e3053fb4634360e7df106e66c01274f8add5e2947ec7177a339f80e3276d",
+  "backupMatchesUnmodifiedSource": true,
+  "originalThreeLayersPreservedExactly": true,
+  "fiveEditableCorrectionLayers": true,
+  "singleFrontFramePreserved": true,
+  "originalFrameDurationMs": 100,
+  "beforeUsedOpaqueColors": 34,
+  "afterUsedOpaqueColors": 43,
+  "paletteEntries": 46,
+  "MCPAndCLIRereadExportPixelIdentical": true,
+  "previewIsExactly4xNearest": true,
+  "preview2xIsExactlyNearest": true,
+  "comparisonLeftBeforeRightAfterSameDisplayScale": true,
+  "visualReviewScales": [
+    1,
+    2,
+    4,
+    8
+  ],
+  "visualReview": "Silhouette, asymmetry, hair streaks, hat, gems, white ruffles and floral arrangement retained. Rose masses separated with warm ivory against cool cloth. Black fabric uses long controlled fold planes rather than horizontal quantization bands. Hair and eye edits remain restrained. One front view only.",
+  "limits": "Artistic acceptance is for the user. 192px cannot reproduce every fine chain or petal. No side/back pixels were present or added; no animation or engine validation.",
+  "files": {
+    "character_refined.aseprite": "dcedacaad3ab5df17e8aea60fa0253be99fcd357bd229b4a9abbe37cbfded92f",
+    "character_refined.png": "2e26bd914e1c6bcbcea392d268ecdee66f1dccba2dfb895642401f0694a23f14",
+    "character_refined_4x.png": "56374e023acdb73dabdc46941afeb3e0cf00e518730be996a9d6b0f3910a5fc5",
+    "character_before_after.png": "9c2c2e3c8df61301e25e375262fa849f4365ef63c77d2803201d377196648bd7"
+  }
+}

@@ -1,0 +1,1082 @@
+[
+	{
+		"aabb": "[P: (-0.17121, -0.500105, -15.9656), S: (11.03429, 9.000106, 16.14697)]",
+		"material": "Pixel_Weathered limestone 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_2wlcn):<ShaderMaterial#-9223371993770883377>",
+		"name": "Details_0_0_Weathered limestone 2",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(0.543002, 0.652997), (0.543002, 0.339003), (3.656998, 0.652997), (3.656998, 0.339003), (3.656998, 0.339003), (0.543002, 0.652997), (3.656998, 0.652997), (0.543002, 0.339003)]"
+	},
+	{
+		"aabb": "[P: (0.65, 0.85, -5.1), S: (5.1, 6.8, 4.2)]",
+		"material": "Pixel_Warm lime plaster (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_0q042):<ShaderMaterial#-9223371993703774509>",
+		"name": "Details_0_0_Warm lime plaster",
+		"roughness": 0.97,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/plaster_v2.png",
+		"uv": "[(0.650596, 0.384165), (3.54926, -2.374301), (3.54926, 0.384165), (0.650596, -2.374301), (0.475679, 0.349211), (4.004241, -2.549338), (4.004241, 0.349211), (0.475679, -2.549338)]"
+	},
+	{
+		"aabb": "[P: (-0.015168, 0.460091, -16.045), S: (13.08017, 7.278135, 16.215)]",
+		"material": "Pixel_Aged chestnut beams (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_nf25v):<ShaderMaterial#-9223371993636665641>",
+		"name": "Details_0_0_Aged chestnut beams",
+		"roughness": 0.82,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/chestnut_handpainted_v2.png",
+		"uv": "[(2.207481, -4.39867), (1.182686, -3.400938), (1.106314, -3.478562), (2.24, -4.355), (2.272519, -4.31133), (0.049, -2.199), (0.091156, -2.164542), (0.006844, -2.233458)]"
+	},
+	{
+		"aabb": "[P: (0.1, 4.505, -5.713553), S: (6.2, 3.154008, 5.293553)]",
+		"material": "Pixel_Oxidised teal slate 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_irua6):<ShaderMaterial#-9223371993569556773>",
+		"name": "Roof_Oxidised teal slate 2",
+		"roughness": 0.72,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/slate_mineral_v2.png",
+		"uv": "[(2.239959, 0.705888), (2.059077, 0.50624), (2.239959, 0.50624), (2.239959, 0.705888), (2.059077, 0.705888), (2.059077, 0.50624), (2.239959, 0.705888), (2.059077, 0.50624)]"
+	},
+	{
+		"aabb": "[P: (0.1, 4.505, -5.713553), S: (6.2, 3.151162, 5.293553)]",
+		"material": "Pixel_Oxidised teal slate 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_vlahw):<ShaderMaterial#-9223371993502447905>",
+		"name": "Roof_Oxidised teal slate 1",
+		"roughness": 0.72,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/slate_mineral_v2.png",
+		"uv": "[(2.239959, 0.493503), (2.059077, 0.293681), (2.239959, 0.293681), (2.239959, 0.493503), (2.059077, 0.493503), (2.059077, 0.293681), (2.239959, 0.493503), (2.059077, 0.293681)]"
+	},
+	{
+		"aabb": "[P: (0.1, 4.505, -5.561788), S: (6.2, 3.162271, 5.141788)]",
+		"material": "Pixel_Oxidised teal slate 4 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_tcsto):<ShaderMaterial#-9223371993435339037>",
+		"name": "Roof_Oxidised teal slate 4",
+		"roughness": 0.72,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/slate_mineral_v2.png",
+		"uv": "[(2.239959, 0.28101), (2.059077, 0.081231), (2.239959, 0.081231), (2.239959, 0.28101), (2.059077, 0.28101), (2.059077, 0.081231), (2.239959, 0.28101), (2.059077, 0.081231)]"
+	},
+	{
+		"aabb": "[P: (0.1, 4.505, -5.713553), S: (6.2, 3.15446, 5.293553)]",
+		"material": "Pixel_Oxidised teal slate 3 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_qv3m4):<ShaderMaterial#-9223371993368230169>",
+		"name": "Roof_Oxidised teal slate 3",
+		"roughness": 0.72,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/slate_mineral_v2.png",
+		"uv": "[(2.239959, -1.206293), (2.059077, -1.406088), (2.239959, -1.406088), (2.239959, -1.206293), (2.059077, -1.206293), (2.059077, -1.406088), (2.239959, -1.206293), (2.059077, -1.406088)]"
+	},
+	{
+		"aabb": "[P: (0.1, 4.505, -5.713553), S: (6.2, 3.161445, 5.293553)]",
+		"material": "Pixel_Oxidised teal slate 0 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_0mipc):<ShaderMaterial#-9223371993301121301>",
+		"name": "Roof_Oxidised teal slate 0",
+		"roughness": 0.72,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/slate_mineral_v2.png",
+		"uv": "[(2.239959, -2.26864), (2.059077, -2.468393), (2.239959, -2.468393), (2.239959, -2.26864), (2.059077, -2.26864), (2.059077, -2.468393), (2.239959, -2.26864), (2.059077, -2.468393)]"
+	},
+	{
+		"aabb": "[P: (1.245, 2.83129, -5.74), S: (3.31, 5.038711, 6.533258)]",
+		"material": "Pixel_Oxidised teal slate 3 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_qv3m4):<ShaderMaterial#-9223371993368230169>",
+		"name": "Details_0_0_Oxidised teal slate 3",
+		"roughness": 0.72,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/slate_mineral_v2.png",
+		"uv": "[(0.181909, -4.480297), (4.018, -4.411111), (4.018, -4.480297), (0.181909, -4.411111), (4.018, -4.341789), (0.181909, -4.341789), (2.239988, 0.817986), (2.170584, -3.018107)]"
+	},
+	{
+		"aabb": "[P: (-0.133144, -0.358084, -16.18595), S: (11.25541, 9.088084, 16.29595)]",
+		"material": "Pixel_Weathered limestone 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_a14o3):<ShaderMaterial#-9223371993200457999>",
+		"name": "Details_0_0_Weathered limestone 1",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(0.112793, 0.642207), (0.405207, 0.545793), (0.405207, 0.642207), (0.112793, 0.545793), (1.677293, 0.887207), (2.802707, 0.594793), (2.802707, 0.887207), (1.677293, 0.594793)]"
+	},
+	{
+		"aabb": "[P: (-0.45, 0.56, -16.185), S: (13.66, 7.98, 16.245)]",
+		"material": "Engine_Forged dark iron (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_ctd67):<StandardMaterial3D#-9223371993133349131>",
+		"name": "Details_0_0_Forged dark iron",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(-0.315155, -1.870138), (0.573778, -1.912064), (0.573778, -1.870138), (-0.315155, -0.017811), (0.573778, 0.012767), (0.573778, -0.017811), (-0.315155, 0.012767), (0.573778, 0.054694)]"
+	},
+	{
+		"aabb": "[P: (1.375, 1.425, -5.3025), S: (4.5475, 4.875, 4.66)]",
+		"material": "TexturePass_Engine_Amber windows (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_lywbw):<ShaderMaterial#-9223371993066240263>",
+		"name": "Details_0_0_Amber windows",
+		"roughness": null,
+		"shader": "res://world/maps/lanternbrook_hd2d/window_glass_v2.gdshader",
+		"texture": "",
+		"uv": "[(0.476, -0.00975), (0.476, -0.001088), (0.468927, -0.002677), (0.468927, -0.867322), (0.476, -0.868912), (0.97475, 0.524), (0.967677, 0.531073), (0.966088, 0.524)]"
+	},
+	{
+		"aabb": "[P: (0.24, 0.47, -6.05), S: (7.910001, 5.857501, 6.26)]",
+		"material": "Pixel_Honey oak planks (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_yi00r):<ShaderMaterial#-9223371992999131395>",
+		"name": "Details_0_0_Honey oak planks",
+		"roughness": 0.79,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/chestnut_handpainted_v2.png",
+		"uv": "[(1.894733, 0.624075), (2.585086, 0.624075), (2.585086, 0.563733), (1.894733, 0.563733), (0.37571, 0.536647), (0.37571, -0.944714), (0.436082, -0.944714), (0.436082, 0.536647)]"
+	},
+	{
+		"aabb": "[P: (0.345, 1.425, -0.873668), S: (5.11, 4.875, 1.666927)]",
+		"material": "Pixel_Oxidised teal slate 0 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_0mipc):<ShaderMaterial#-9223371993301121301>",
+		"name": "Details_0_0_Oxidised teal slate 0",
+		"roughness": 0.72,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/slate_mineral_v2.png",
+		"uv": "[(0.703788, 0.530513), (0.899068, 0.530513), (0.899068, 0.475337), (0.703788, 0.475337), (0.469289, -0.004936), (0.524568, -0.865104), (0.524568, -0.004936), (0.469289, -0.865104)]"
+	},
+	{
+		"aabb": "[P: (0.945, 1.515, -0.873668), S: (4.81, 4.751667, 1.666927)]",
+		"material": "Pixel_Oxidised teal slate 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_irua6):<ShaderMaterial#-9223371993569556773>",
+		"name": "Details_0_0_Oxidised teal slate 2",
+		"roughness": 0.72,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/slate_mineral_v2.png",
+		"uv": "[(0.594221, -1.19457), (0.605885, -1.186309), (0.596308, -1.182385), (-0.542037, -0.987016), (0.585994, -1.242896), (-0.544124, -0.999201), (0.594221, -1.254565), (0.583907, -1.255081)]"
+	},
+	{
+		"aabb": "[P: (-0.033454, 0.245893, 0.0), S: (15.90543, 0.40696, 16.02037)]",
+		"material": "Pixel_Weathered limestone 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_a14o3):<ShaderMaterial#-9223371993200457999>",
+		"name": "Details_0_-1_Weathered limestone 1",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(-0.077, 0.6465), (-0.077, 0.671249), (-0.097207, 0.666707), (-0.097207, 0.570293), (-0.077, 0.5905), (-0.077, 0.565751), (1.6975, 1.077), (1.677293, 1.097207)]"
+	},
+	{
+		"aabb": "[P: (0.4, 0.0, 0.02), S: (7.175, 3.25, 4.355)]",
+		"material": "Pixel_Aged chestnut beams (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_nf25v):<ShaderMaterial#-9223371993636665641>",
+		"name": "Details_0_-1_Aged chestnut beams",
+		"roughness": 0.82,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/chestnut_handpainted_v2.png",
+		"uv": "[(-0.607179, -0.968981), (-0.512946, -1.091163), (-0.512946, -0.968981), (-0.607179, -1.091163), (0.28876, 1.607004), (4.191094, 1.512798), (4.191094, 1.607004), (0.28876, 1.512798)]"
+	},
+	{
+		"aabb": "[P: (0.345, 2.83129, -0.853258), S: (4.81, 0.397421, 1.666927)]",
+		"material": "Pixel_Oxidised teal slate 0 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_0mipc):<ShaderMaterial#-9223371993301121301>",
+		"name": "Details_0_-1_Oxidised teal slate 0",
+		"roughness": 0.72,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/slate_mineral_v2.png",
+		"uv": "[(-0.544066, -0.999154), (-0.541977, -0.986963), (-0.552314, -0.987489), (0.594212, -1.194601), (-0.564081, -1.055713), (-0.552424, -1.04749), (0.585964, -1.242889), (-0.554513, -1.059682)]"
+	},
+	{
+		"aabb": "[P: (0.645, 2.83129, -0.853258), S: (4.81, 0.397421, 1.666927)]",
+		"material": "Pixel_Oxidised teal slate 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_vlahw):<ShaderMaterial#-9223371993502447905>",
+		"name": "Details_0_-1_Oxidised teal slate 1",
+		"roughness": 0.72,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/slate_mineral_v2.png",
+		"uv": "[(-0.54412, -0.999154), (-0.542025, -0.986963), (-0.552382, -0.987489), (0.594278, -1.194601), (-0.56402, -1.055713), (-0.552382, -1.04749), (0.586015, -1.242889), (-0.554477, -1.059682)]"
+	},
+	{
+		"aabb": "[P: (0.645, 2.83129, -0.873668), S: (4.81, 0.397421, 1.666927)]",
+		"material": "Pixel_Oxidised teal slate 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_vlahw):<ShaderMaterial#-9223371993502447905>",
+		"name": "Details_0_0_Oxidised teal slate 1",
+		"roughness": 0.72,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/slate_mineral_v2.png",
+		"uv": "[(0.594278, -1.194601), (0.605915, -1.186342), (0.596373, -1.182403), (-0.542025, -0.986993), (0.586015, -1.242872), (-0.54412, -0.999191), (0.594278, -1.254548), (0.58392, -1.25507)]"
+	},
+	{
+		"aabb": "[P: (0.945, 2.412716, -0.853258), S: (4.865, 0.815994, 1.693258)]",
+		"material": "Pixel_Oxidised teal slate 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_irua6):<ShaderMaterial#-9223371993569556773>",
+		"name": "Details_0_-1_Oxidised teal slate 2",
+		"roughness": 0.72,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/slate_mineral_v2.png",
+		"uv": "[(-0.544066, -0.999154), (-0.541956, -0.986963), (-0.552382, -0.987489), (0.59421, -1.194601), (-0.564049, -1.055713), (-0.552382, -1.04749), (0.586018, -1.242889), (-0.554492, -1.059682)]"
+	},
+	{
+		"aabb": "[P: (1.245, 2.83129, -0.853258), S: (3.31, 0.397421, 1.666927)]",
+		"material": "Pixel_Oxidised teal slate 3 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_qv3m4):<ShaderMaterial#-9223371993368230169>",
+		"name": "Details_0_-1_Oxidised teal slate 3",
+		"roughness": 0.72,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/slate_mineral_v2.png",
+		"uv": "[(-0.544091, -0.999154), (-0.541953, -0.986963), (-0.552348, -0.987489), (0.594317, -1.194601), (-0.564006, -1.055713), (-0.552348, -1.04749), (0.585963, -1.242889), (-0.554486, -1.059682)]"
+	},
+	{
+		"aabb": "[P: (1.545, 2.83129, -0.853258), S: (3.31, 0.397421, 1.666927)]",
+		"material": "Pixel_Oxidised teal slate 4 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_tcsto):<ShaderMaterial#-9223371993435339037>",
+		"name": "Details_0_-1_Oxidised teal slate 4",
+		"roughness": 0.72,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/slate_mineral_v2.png",
+		"uv": "[(-0.544048, -0.999154), (-0.541977, -0.986963), (-0.552333, -0.987489), (0.594274, -1.194601), (-0.564035, -1.055713), (-0.552333, -1.04749), (0.585989, -1.242889), (-0.554507, -1.059682)]"
+	},
+	{
+		"aabb": "[P: (1.545, 2.83129, -0.873668), S: (3.31, 0.397421, 1.666927)]",
+		"material": "Pixel_Oxidised teal slate 4 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_tcsto):<ShaderMaterial#-9223371993435339037>",
+		"name": "Details_0_0_Oxidised teal slate 4",
+		"roughness": 0.72,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/slate_mineral_v2.png",
+		"uv": "[(0.594274, -1.194601), (0.605976, -1.186342), (0.596345, -1.182403), (-0.541977, -0.986993), (0.585989, -1.242872), (-0.544048, -0.999191), (0.594274, -1.254548), (0.583918, -1.25507)]"
+	},
+	{
+		"aabb": "[P: (-0.197162, -0.545025, -16.16488), S: (10.806, 1.395025, 16.08387)]",
+		"material": "Pixel_Weathered limestone 0 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_r7cfn):<ShaderMaterial#-9223371992562923753>",
+		"name": "Details_0_0_Weathered limestone 0",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(0.251739, -9.707034), (0.205593, -9.455734), (0.372553, -9.551723), (0.326407, -9.300421), (0.372553, -9.862345), (0.205593, -9.455734), (0.17323, -9.279493), (0.251739, -9.707034)]"
+	},
+	{
+		"aabb": "[P: (-0.164156, -0.509026, -16.12226), S: (11.09944, 1.423123, 16.22879)]",
+		"material": "Pixel_Weathered limestone 3 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_dfj0t):<ShaderMaterial#-9223371992495814885>",
+		"name": "Details_0_0_Weathered limestone 3",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(0.259187, -4.526371), (0.19468, -4.324831), (0.42807, -4.401813), (0.363564, -4.200271), (0.42807, -4.401813), (0.54651, -4.314459), (0.54651, -4.314459), (0.596955, -4.526371)]"
+	},
+	{
+		"aabb": "[P: (0.598943, 0.47, -0.41), S: (6.491057, 2.629465, 1.242)]",
+		"material": "Pixel_Honey oak planks (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_yi00r):<ShaderMaterial#-9223371992999131395>",
+		"name": "Details_0_-1_Honey oak planks",
+		"roughness": 0.79,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/chestnut_handpainted_v2.png",
+		"uv": "[(0.420422, -1.070965), (2.239856, -0.898108), (2.240008, -0.909969), (0.419968, -1.065034), (0.419363, -1.059103), (4.129979, -1.065034), (4.130433, -1.059103), (4.129373, -1.070965)]"
+	},
+	{
+		"aabb": "[P: (0.64, 0.495, -0.28), S: (5.171769, 2.433615, 1.12)]",
+		"material": "Pixel_Woven saffron canopy (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_fatf3):<ShaderMaterial#-9223371992395151583>",
+		"name": "Details_0_-1_Woven saffron canopy",
+		"roughness": 0.93,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/canvas.png",
+		"uv": "[(0.489976, -1.043049), (0.580982, -0.81904), (0.67894, -1.050047), (1.105908, -0.966468), (1.196913, -0.742459), (1.294995, -0.973466), (1.721963, -0.922604), (1.812969, -0.698595)]"
+	},
+	{
+		"aabb": "[P: (0.369539, 4.624993, -0.86), S: (5.660922, 3.100014, 0.22)]",
+		"material": "Pixel_Aged chestnut beams (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_nf25v):<ShaderMaterial#-9223371993636665641>",
+		"name": "Roof_Aged chestnut beams",
+		"roughness": 0.82,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/chestnut_handpainted_v2.png",
+		"uv": "[(0.524904, -2.342532), (0.579397, -4.392171), (0.524904, -4.407505), (0.524904, -2.342532), (0.579397, -2.327198), (0.579397, -4.392171), (0.275109, -2.327198), (2.239971, -4.355047)]"
+	},
+	{
+		"aabb": "[P: (3.468181, 1.585, -0.553), S: (3.221497, 1.738, 0.188)]",
+		"material": "Engine_Aged brass (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_ioapm):<StandardMaterial3D#-9223371992294488281>",
+		"name": "Details_0_0_Aged brass",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(4.350797, -1.02132), (4.360943, -1.016019), (4.514999, -1.321405), (4.514999, -1.298621), (4.370946, -1.010758), (4.659194, -1.021927), (4.360943, -1.027391), (4.67863, -1.01011)]"
+	},
+	{
+		"aabb": "[P: (5.918695, 0.983563, -4.874692), S: (0.06261, 3.650988, 1.142775)]",
+		"material": "Engine_Ivy deep green (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_jamcb):<StandardMaterial3D#-9223371992227379413>",
+		"name": "Foliage_0_0_Ivy deep green",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(4.164984, -1.913521), (4.158219, -1.836075), (4.182728, -1.865669), (2.865521, 0.196156), (2.961258, 0.196156), (2.913389, 0.234805), (2.913389, 0.234805), (2.913389, 0.196156)]"
+	},
+	{
+		"aabb": "[P: (-0.186975, 0.244129, -0.175228), S: (12.99385, 0.402522, 10.17492)]",
+		"material": "Pixel_Weathered limestone 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_2wlcn):<ShaderMaterial#-9223371993770883377>",
+		"name": "Details_0_-1_Weathered limestone 2",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(0.084012, 0.733683), (0.096423, 0.746818), (0.099579, 0.733683), (0.083534, 0.74977), (-0.115388, 0.733683), (0.082378, 2.75528), (0.096423, 2.767437), (0.083534, 2.771325)]"
+	},
+	{
+		"aabb": "[P: (-0.104998, 0.243401, 0.382776), S: (12.16713, 0.392649, 9.4653)]",
+		"material": "Pixel_Weathered limestone 0 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_r7cfn):<ShaderMaterial#-9223371992562923753>",
+		"name": "Details_0_-1_Weathered limestone 0",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(0.134012, 0.708914), (0.147566, 0.722049), (0.150382, 0.708914), (0.134312, 0.725001), (-0.073499, 0.708914), (0.135035, 2.491142), (0.147566, 2.504854), (0.134312, 2.507213)]"
+	},
+	{
+		"aabb": "[P: (0.308099, 0.252706, -0.205832), S: (11.49992, 0.40334, 9.47608)]",
+		"material": "Pixel_Weathered limestone 3 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_dfj0t):<ShaderMaterial#-9223371992495814885>",
+		"name": "Details_0_-1_Weathered limestone 3",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(-0.053339, 0.596155), (-0.067311, 0.60929), (-0.069976, 0.596155), (-0.053959, 0.612242), (2.739282, 1.055454), (2.724983, 1.067311), (2.723265, 1.053959), (2.92132, 1.072454)]"
+	},
+	{
+		"aabb": "[P: (12.19439, 0.022948, -11.4847), S: (2.236197, 1.235801, 11.17019)]",
+		"material": "Pixel_Weathered limestone 0 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_r7cfn):<ShaderMaterial#-9223371992562923753>",
+		"name": "Foliage_0_0_Weathered limestone 0",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(9.695723, -6.676232), (9.570254, -6.312963), (10.02373, -6.451525), (10.02373, -6.451525), (10.02373, -6.900724), (9.695723, -6.676232), (9.695723, -6.676232), (9.290032, -6.676232)]"
+	},
+	{
+		"aabb": "[P: (7.031975, -0.107639, -2.328509), S: (0.682775, 1.335976, 0.890838)]",
+		"material": "Pixel_Weathered limestone 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_2wlcn):<ShaderMaterial#-9223371993770883377>",
+		"name": "Foliage_0_0_Weathered limestone 2",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(5.161201, -0.318182), (5.087502, -0.006383), (5.354684, -0.125478), (1.125354, 0.816844), (1.510849, 0.816844), (1.31802, 1.075348), (1.31802, 1.075348), (1.31802, 0.816844)]"
+	},
+	{
+		"aabb": "[P: (12.43335, -0.12704, -6.694617), S: (0.814215, 1.370738, 0.669211)]",
+		"material": "Pixel_Weathered limestone 3 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_dfj0t):<ShaderMaterial#-9223371992495814885>",
+		"name": "Foliage_0_0_Weathered limestone 3",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(8.988312, 1.088911), (8.900015, 0.823644), (9.218676, 0.823644), (4.307161, 0.823644), (4.596673, 0.823644), (4.451776, 1.088911), (8.988312, -3.452014), (8.703327, -3.452014)]"
+	},
+	{
+		"aabb": "[P: (1.62619, -0.17388, 0.114395), S: (5.791315, 1.426459, 8.213497)]",
+		"material": "Pixel_Weathered limestone 0 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_r7cfn):<ShaderMaterial#-9223371992562923753>",
+		"name": "Foliage_0_-1_Weathered limestone 0",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(4.872214, 1.495753), (4.773299, 1.911767), (5.131067, 1.752739), (5.131067, 1.752739), (5.131067, 1.238766), (4.872214, 1.495753), (4.872214, 1.495753), (4.552162, 1.495753)]"
+	},
+	{
+		"aabb": "[P: (8.958563, 0.18114, 5.435708), S: (5.582044, 0.971308, 5.743723)]",
+		"material": "Pixel_Weathered limestone 3 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_dfj0t):<ShaderMaterial#-9223371992495814885>",
+		"name": "Foliage_0_-1_Weathered limestone 3",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(9.811886, 5.18924), (9.698819, 5.573589), (10.10822, 5.426799), (10.10822, 5.426799), (10.10822, 4.951683), (9.811886, 5.18924), (9.811886, 5.18924), (9.44566, 5.18924)]"
+	},
+	{
+		"aabb": "[P: (0.041458, 0.01468, 1.200096), S: (6.040835, 1.021082, 9.21446)]",
+		"material": "Pixel_Weathered limestone 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_2wlcn):<ShaderMaterial#-9223371993770883377>",
+		"name": "Foliage_0_-1_Weathered limestone 2",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(0.374104, 4.820795), (0.267313, 5.109216), (0.653319, 4.999161), (0.653319, 4.999161), (0.653319, 4.642684), (0.374104, 4.820795), (0.374104, 4.820795), (0.028812, 4.820795)]"
+	},
+	{
+		"aabb": "[P: (0.559766, 0.502945, -16.03593), S: (15.3607, 1.107055, 16.02402)]",
+		"material": "Engine_Flowers 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_xnle6):<StandardMaterial3D#-9223371991858280639>",
+		"name": "Foliage_0_0_Flowers 2",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(5.511878, -1.678682), (5.589082, -1.678682), (5.557453, -1.701462), (5.557453, -1.655902), (5.489092, -1.633123), (5.511878, -1.601293), (5.534667, -1.633123), (5.466305, -1.701462)]"
+	},
+	{
+		"aabb": "[P: (0.065866, 0.503095, -0.034217), S: (15.51342, 1.106905, 15.82305)]",
+		"material": "Engine_Flowers 0 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_u53px):<StandardMaterial3D#-9223371991791171771>",
+		"name": "Foliage_0_-1_Flowers 0",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(0.756321, 1.029314), (0.739015, 1.083014), (0.801916, 1.062416), (0.801916, 1.062416), (0.801916, 0.996211), (0.756321, 1.029314), (0.756321, 1.029314), (0.700075, 1.029314)]"
+	},
+	{
+		"aabb": "[P: (15.98477, 0.456842, -15.51867), S: (15.90466, 0.547085, 14.61121)]",
+		"material": "Engine_Flowers 0 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_u53px):<StandardMaterial3D#-9223371991791171771>",
+		"name": "Foliage_1_0_Flowers 0",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(11.47042, 0.296637), (11.53309, 0.296637), (11.50175, 0.328242), (11.47042, 0.296637), (11.50175, 0.265332), (11.53309, 0.296637), (11.40706, 0.260516), (11.47042, 0.260516)]"
+	},
+	{
+		"aabb": "[P: (-0.02324, 0.536563, 0.074973), S: (15.16242, 0.600421, 15.91778)]",
+		"material": "Engine_Flowers 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_xnle6):<StandardMaterial3D#-9223371991858280639>",
+		"name": "Foliage_0_-1_Flowers 2",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(0.089424, 8.325895), (0.152166, 8.325895), (0.120794, 8.357531), (0.089424, 8.325895), (0.120794, 8.294634), (0.152166, 8.325895), (0.026358, 8.289424), (0.089424, 8.289424)]"
+	},
+	{
+		"aabb": "[P: (0.347179, 0.567742, -16.00488), S: (15.63761, 1.042258, 15.99991)]",
+		"material": "Engine_Flowers 0 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_u53px):<StandardMaterial3D#-9223371991791171771>",
+		"name": "Foliage_0_0_Flowers 0",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(3.969501, -7.857419), (4.046675, -7.857419), (4.014918, -7.880151), (4.014918, -7.834376), (3.946623, -7.811646), (3.969501, -7.779883), (3.99204, -7.811646), (3.924086, -7.880151)]"
+	},
+	{
+		"aabb": "[P: (0.00718, 0.532776, -0.049823), S: (15.81273, 1.077224, 15.99435)]",
+		"material": "Engine_Flowers 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_0bafi):<StandardMaterial3D#-9223371991623399601>",
+		"name": "Foliage_0_-1_Flowers 1",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(0.027543, 6.015543), (0.104935, 6.015543), (0.073167, 5.992533), (0.073167, 6.038183), (0.0049, 6.060822), (0.027543, 6.092739), (0.050525, 6.060822), (0.050525, 5.969894)]"
+	},
+	{
+		"aabb": "[P: (0.408853, 0.518636, -16.02159), S: (15.31557, 1.091364, 16.04832)]",
+		"material": "Engine_Flowers 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_0bafi):<StandardMaterial3D#-9223371991623399601>",
+		"name": "Foliage_0_0_Flowers 1",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(6.493742, -10.19267), (6.571001, -10.19267), (6.539425, -10.21511), (6.539425, -10.16991), (6.470899, -10.14715), (6.493742, -10.11504), (6.516583, -10.14715), (6.448393, -10.21511)]"
+	},
+	{
+		"aabb": "[P: (16.09615, 0.478672, 0.251281), S: (15.45009, 0.554535, 15.77682)]",
+		"material": "Engine_Flowers 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_xnle6):<StandardMaterial3D#-9223371991858280639>",
+		"name": "Foliage_1_-1_Flowers 2",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(11.43795, 5.856528), (11.5013, 5.856528), (11.46962, 5.887855), (11.43795, 5.856528), (11.46962, 5.824831), (11.5013, 5.856528), (11.37527, 5.819983), (11.43795, 5.819983)]"
+	},
+	{
+		"aabb": "[P: (16.16936, 0.5228, 0.318934), S: (14.12207, 0.480927, 15.6247)]",
+		"material": "Engine_Flowers 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_0bafi):<StandardMaterial3D#-9223371991623399601>",
+		"name": "Foliage_1_-1_Flowers 1",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(11.38095, 8.247498), (11.44437, 8.247498), (11.41266, 8.279042), (11.38095, 8.247498), (11.41266, 8.215952), (11.44437, 8.247498), (11.31818, 8.211127), (11.38095, 8.211127)]"
+	},
+	{
+		"aabb": "[P: (16.03407, 0.514828, -15.97625), S: (12.49324, 0.48401, 15.79561)]",
+		"material": "Engine_Flowers 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_xnle6):<StandardMaterial3D#-9223371991858280639>",
+		"name": "Foliage_1_0_Flowers 2",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(11.56341, 0.386762), (11.62679, 0.386762), (11.5951, 0.41815), (11.56341, 0.386762), (11.5951, 0.355062), (11.62679, 0.386762), (11.50064, 0.3504), (11.56341, 0.3504)]"
+	},
+	{
+		"aabb": "[P: (16.10598, 0.470249, -31.97218), S: (15.65411, 0.554163, 15.89505)]",
+		"material": "Engine_Flowers 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_0bafi):<StandardMaterial3D#-9223371991623399601>",
+		"name": "Foliage_1_1_Flowers 1",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(11.88118, -14.68205), (11.94428, -14.68205), (11.91307, -14.65073), (11.88118, -14.68205), (11.91307, -14.71337), (11.94428, -14.68205), (11.81809, -14.71859), (11.88118, -14.71859)]"
+	},
+	{
+		"aabb": "[P: (16.73272, 0.537424, -15.36233), S: (13.93797, 0.4187, 15.2467)]",
+		"material": "Engine_Flowers 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_0bafi):<StandardMaterial3D#-9223371991623399601>",
+		"name": "Foliage_1_0_Flowers 1",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(11.7757, -1.888813), (11.8386, -1.888813), (11.80715, -1.857558), (11.7757, -1.888813), (11.80715, -1.920364), (11.8386, -1.888813), (11.7128, -1.925425), (11.7757, -1.925425)]"
+	},
+	{
+		"aabb": "[P: (-0.02904, -0.138705, -9.451994), S: (0.181643, 0.714814, 0.202703)]",
+		"material": "Engine_Leaf canopy 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_tl4w8):<StandardMaterial3D#-9223371991354964129>",
+		"name": "Details_0_0_Leaf canopy 1",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(-0.020328, 1.097093), (0.106823, 0.796868), (0.057821, 0.796868), (0.057821, 0.796868), (0.106823, 0.796868), (0.08232, 0.596718)]"
+	},
+	{
+		"aabb": "[P: (-0.02904, -0.138705, -9.249291), S: (0.321902, 0.829882, 0.045314)]",
+		"material": "Engine_Leaf canopy 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_bmjel):<StandardMaterial3D#-9223371991287855261>",
+		"name": "Details_0_0_Leaf canopy 2",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(-0.02033, 1.097093), (0.205004, 0.748521), (0.155998, 0.748521), (0.155998, 0.748521), (0.205004, 0.748521), (0.180498, 0.516162)]"
+	},
+	{
+		"aabb": "[P: (2.075, 2.24, -15.785), S: (11.065, 1.047089, 15.69)]",
+		"material": "TexturePass_Engine_Lantern honey glow (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_k1h3f):<ShaderMaterial#-9223371991220746393>",
+		"name": "Details_0_0_Lantern honey glow",
+		"roughness": null,
+		"shader": "res://world/maps/lanternbrook_hd2d/window_glass_v2.gdshader",
+		"texture": "",
+		"uv": "[(0.073896, -0.575396), (0.234104, -0.840604), (0.234104, -0.575396), (0.073896, -0.840604), (1.459896, 0.926104), (1.620104, 0.765896), (1.620104, 0.926104), (1.459896, 0.765896)]"
+	},
+	{
+		"aabb": "[P: (5.475, 1.9, 0.605), S: (2.57, 0.7, 3.82)]",
+		"material": "TexturePass_Engine_Lantern honey glow (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_k1h3f):<ShaderMaterial#-9223371991220746393>",
+		"name": "Details_0_-1_Lantern honey glow",
+		"roughness": null,
+		"shader": "res://world/maps/lanternbrook_hd2d/window_glass_v2.gdshader",
+		"texture": "",
+		"uv": "[(-0.591269, -0.547461), (-0.431068, -0.812605), (-0.431068, -0.547461), (-0.591269, -0.812605), (3.839774, 1.591053), (3.999976, 1.430817), (3.999976, 1.591053), (3.839774, 1.430817)]"
+	},
+	{
+		"aabb": "[P: (5.32, 1.8075, 0.45), S: (2.88, 1.0775, 4.130001)]",
+		"material": "Engine_Forged dark iron (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_ctd67):<StandardMaterial3D#-9223371993133349131>",
+		"name": "Details_0_-1_Forged dark iron",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(3.919946, 1.314973), (3.940967, 1.510977), (3.919946, 1.489926), (4.115966, 1.510977), (4.115966, 1.510977), (3.919946, 1.531899), (3.940967, 1.510977), (3.919946, 1.706981)]"
+	},
+	{
+		"aabb": "[P: (0.64, 0.495, -6.16), S: (7.66, 3.005, 6.420001)]",
+		"material": "Pixel_Woven saffron canopy (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_fatf3):<ShaderMaterial#-9223371992395151583>",
+		"name": "Details_0_0_Woven saffron canopy",
+		"roughness": 0.93,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/canvas.png",
+		"uv": "[(3.919877, -1.100058), (4.864938, -2.290023), (4.864938, -1.100058), (3.919877, -2.290023), (5.81, -2.290023), (5.81, -1.100058), (3.919877, -1.100058), (4.864938, -2.290023)]"
+	},
+	{
+		"aabb": "[P: (-0.057571, 0.175506, -15.58228), S: (2.113268, 0.890989, 15.34644)]",
+		"material": "Engine_Fern fresh yellow green (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_ncc7g):<StandardMaterial3D#-9223371991052974223>",
+		"name": "Details_0_0_Fern fresh yellow green",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(0.835112, -5.231593), (0.864491, -5.295391), (0.934096, -5.257294), (0.835112, -5.231593), (0.864491, -5.295391), (0.790494, -5.323813), (0.83779, -5.051991), (0.868575, -4.9891)]"
+	},
+	{
+		"aabb": "[P: (-0.034684, 0.709228, 0.059058), S: (0.151726, 0.242528, 0.582195)]",
+		"material": "Engine_Fern fresh yellow green (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_ncc7g):<StandardMaterial3D#-9223371991052974223>",
+		"name": "Details_0_-1_Fern fresh yellow green",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(-0.024279, 1.432119), (0.044505, 1.419119), (0.00775, 1.448877), (-0.024279, 1.432119), (0.044505, 1.419119), (-0.000554, 1.404881), (0.009482, 1.425751), (0.078266, 1.412752)]"
+	},
+	{
+		"aabb": "[P: (6.043449, 1.525, -4.023046), S: (0.871777, 0.355, 0.676909)]",
+		"material": "Engine_Alchemy glass 0 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_iehoh):<StandardMaterial3D#-9223371990952310921>",
+		"name": "Details_0_0_Alchemy glass 0",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(4.772851, -0.067535), (4.805794, -0.242511), (4.772851, -0.242511), (4.801658, -0.067535), (2.494895, -0.067535), (2.472587, -0.242511), (2.500508, -0.242511), (2.470371, -0.067535)]"
+	},
+	{
+		"aabb": "[P: (6.055974, 1.525, -3.851013), S: (1.607387, 0.355, 0.579376)]",
+		"material": "Engine_Alchemy glass 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_s24oh):<StandardMaterial3D#-9223371990885202053>",
+		"name": "Details_0_0_Alchemy glass 1",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(4.292382, -0.067507), (4.325288, -0.242525), (4.292382, -0.242525), (4.321196, -0.067507), (2.405793, -0.067507), (2.383529, -0.242525), (2.411524, -0.242525), (2.381237, -0.067507)]"
+	},
+	{
+		"aabb": "[P: (6.212213, 1.525, -3.973197), S: (1.483819, 0.355, 0.479556)]",
+		"material": "Engine_Alchemy glass 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_vv1ca):<StandardMaterial3D#-9223371990818093185>",
+		"name": "Details_0_0_Alchemy glass 2",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(4.981464, -0.067542), (5.014346, -0.242527), (4.981464, -0.242527), (5.010236, -0.067542), (2.764759, -0.067542), (2.742399, -0.242527), (2.770513, -0.242527), (2.740262, -0.067542)]"
+	},
+	{
+		"aabb": "[P: (6.033725, 3.04, -4.208918), S: (0.232551, 0.18, 2.459256)]",
+		"material": "Engine_Flowers 0 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_u53px):<StandardMaterial3D#-9223371991791171771>",
+		"name": "Details_0_0_Flowers 0",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(4.30487, -0.302175), (4.279837, -0.224782), (4.370731, -0.254361), (4.370731, -0.254361), (4.370731, -0.350047), (4.30487, -0.302175), (4.30487, -0.302175), (4.22348, -0.302175)]"
+	},
+	{
+		"aabb": "[P: (6.033725, 3.04, -4.285378), S: (0.232551, 0.18, 2.623724)]",
+		"material": "Engine_Flowers 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_0bafi):<StandardMaterial3D#-9223371991623399601>",
+		"name": "Details_0_0_Flowers 1",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(4.30487, -0.400014), (4.279837, -0.322568), (4.370731, -0.352167), (4.370731, -0.352167), (4.370731, -0.4478), (4.30487, -0.400014), (4.30487, -0.400014), (4.22348, -0.400014)]"
+	},
+	{
+		"aabb": "[P: (6.033725, 3.04, -4.215384), S: (0.232551, 0.18, 2.440676)]",
+		"material": "Engine_Flowers 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_xnle6):<StandardMaterial3D#-9223371991858280639>",
+		"name": "Details_0_0_Flowers 2",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(4.30487, -0.42123), (4.279837, -0.343837), (4.370731, -0.373425), (4.370731, -0.373425), (4.370731, -0.469096), (4.30487, -0.42123), (4.30487, -0.42123), (4.22348, -0.42123)]"
+	},
+	{
+		"aabb": "[P: (0.187336, 0.461751, -7.60754), S: (0.319474, 1.03921, 1.393696)]",
+		"material": "Engine_Firefly_gold (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_yrhwq):<StandardMaterial3D#-9223371990650321015>",
+		"name": "Details_0_0_Firefly_gold",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(0.140496, -3.358649), (0.137571, -3.349805), (0.147972, -3.353105), (0.147972, -3.353105), (0.147972, -3.364193), (0.140496, -3.358649), (0.140496, -3.358649), (0.13107, -3.358649)]"
+	},
+	{
+		"aabb": "[P: (0.0, 0.250421, 0.0), S: (16.23377, 0.356937, 16.12903)]",
+		"material": "Pixel_Mossy earth (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_pcw62):<ShaderMaterial#-9223371990583212147>",
+		"name": "Ground_0_-1_Mossy earth",
+		"roughness": 1.0,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/forest_floor_v2.png",
+		"uv": "[(-0.000173, 12.29032), (-0.000173, 11.83835), (0.454476, 12.29032), (0.908779, 12.29032), (1.363428, 12.29032), (2.272728, 10.03199), (-0.000173, 11.38676), (1.818077, 12.29032)]"
+	},
+	{
+		"aabb": "[P: (15.58442, 0.252108, 0.0), S: (16.23377, 0.357836, 16.12903)]",
+		"material": "Pixel_Mossy earth (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_pcw62):<ShaderMaterial#-9223371990583212147>",
+		"name": "Ground_1_-1_Mossy earth",
+		"roughness": 1.0,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/forest_floor_v2.png",
+		"uv": "[(10.90849, 12.29032), (11.36322, 11.83835), (11.36322, 12.29032), (13.18147, 9.580394), (11.81795, 12.29032), (12.27269, 12.29032), (12.72674, 12.29032), (13.18147, 12.29032)]"
+	},
+	{
+		"aabb": "[P: (0.0, -0.137901, -16.12903), S: (16.23377, 0.747723, 16.12903)]",
+		"material": "Pixel_Mossy earth (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_pcw62):<ShaderMaterial#-9223371990583212147>",
+		"name": "Ground_0_0_Mossy earth",
+		"roughness": 1.0,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/forest_floor_v2.png",
+		"uv": "[(-0.000173, 0.999747), (-0.000173, 0.548158), (0.454476, 0.999747), (0.454476, -0.355023), (0.908779, 0.999747), (-0.000173, 0.096567), (1.363428, 0.999747), (-0.000173, -0.355023)]"
+	},
+	{
+		"aabb": "[P: (15.58442, 0.250109, -16.12903), S: (16.23377, 0.358374, 16.12903)]",
+		"material": "Pixel_Mossy earth (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_pcw62):<ShaderMaterial#-9223371990583212147>",
+		"name": "Ground_1_0_Mossy earth",
+		"roughness": 1.0,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/forest_floor_v2.png",
+		"uv": "[(10.90849, 0.999747), (11.36322, 0.548158), (11.36322, 0.999747), (11.81795, 0.999747), (12.27269, 0.999747), (12.72674, 0.999747), (13.18147, 0.999747), (13.6362, -1.258203)]"
+	},
+	{
+		"aabb": "[P: (31.81818, 0.251293, -16.12903), S: (16.23377, 0.358573, 16.12903)]",
+		"material": "Pixel_Mossy earth (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_pcw62):<ShaderMaterial#-9223371990583212147>",
+		"name": "Ground_2_0_Mossy earth",
+		"roughness": 1.0,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/forest_floor_v2.png",
+		"uv": "[(22.27181, 0.999747), (27.72671, -1.709794), (22.72655, 0.999747), (23.1813, 0.999747), (22.27181, 0.548158), (23.63605, 0.999747), (22.27181, 0.096567), (24.09079, 0.999747)]"
+	},
+	{
+		"aabb": "[P: (15.58442, 0.251302, -32.25806), S: (16.23377, 0.358565, 16.12903)]",
+		"material": "Pixel_Mossy earth (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_pcw62):<ShaderMaterial#-9223371990583212147>",
+		"name": "Ground_1_1_Mossy earth",
+		"roughness": 1.0,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/forest_floor_v2.png",
+		"uv": "[(10.90849, -10.29094), (11.36322, -10.74208), (11.36322, -10.29094), (11.81795, -10.29094), (11.36322, -11.19388), (10.90849, -10.74208), (12.27269, -10.29094), (12.72674, -10.29094)]"
+	},
+	{
+		"aabb": "[P: (31.81818, 0.250598, -32.25806), S: (16.23377, 0.35847, 16.12903)]",
+		"material": "Pixel_Mossy earth (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_pcw62):<ShaderMaterial#-9223371990583212147>",
+		"name": "Ground_2_1_Mossy earth",
+		"roughness": 1.0,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/forest_floor_v2.png",
+		"uv": "[(22.27181, -10.29094), (22.27181, -10.74208), (22.72655, -10.29094), (22.27181, -11.19388), (23.1813, -10.29094), (23.63605, -10.29094), (25.90875, -11.64568), (24.09079, -10.29094)]"
+	},
+	{
+		"aabb": "[P: (48.05195, 0.252297, -32.25806), S: (1.948051, 0.356043, 16.12903)]",
+		"material": "Pixel_Mossy earth (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_pcw62):<ShaderMaterial#-9223371990583212147>",
+		"name": "Ground_3_1_Mossy earth",
+		"roughness": 1.0,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/forest_floor_v2.png",
+		"uv": "[(33.636, -10.29094), (34.08995, -10.74208), (34.08995, -10.29094), (33.636, -10.74208), (33.636, -11.19388), (33.636, -11.64568), (34.54498, -10.29094), (34.54498, -11.64568)]"
+	},
+	{
+		"aabb": "[P: (15.58442, 0.250506, -40.0), S: (16.23377, 0.358083, 8.387096)]",
+		"material": "Pixel_Mossy earth (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_pcw62):<ShaderMaterial#-9223371990583212147>",
+		"name": "Ground_1_2_Mossy earth",
+		"roughness": 1.0,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/forest_floor_v2.png",
+		"uv": "[(11.36322, -21.12909), (11.36322, -21.58146), (11.81795, -21.58146), (11.36322, -22.033), (10.90849, -21.58146), (11.81795, -21.12909), (12.27269, -21.58146), (12.72674, -21.58146)]"
+	},
+	{
+		"aabb": "[P: (31.81818, 0.251008, -40.0), S: (16.23377, 0.357363, 8.387096)]",
+		"material": "Pixel_Mossy earth (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_pcw62):<ShaderMaterial#-9223371990583212147>",
+		"name": "Ground_2_2_Mossy earth",
+		"roughness": 1.0,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/forest_floor_v2.png",
+		"uv": "[(22.27181, -21.12909), (22.27181, -21.58146), (22.72655, -21.58146), (27.72671, -23.83919), (22.27181, -22.033), (22.27181, -22.48455), (22.27181, -22.9361), (22.27181, -23.38764)]"
+	},
+	{
+		"aabb": "[P: (48.05195, 0.252297, -40.0), S: (1.948051, 0.212005, 8.387096)]",
+		"material": "Pixel_Mossy earth (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_pcw62):<ShaderMaterial#-9223371990583212147>",
+		"name": "Ground_3_2_Mossy earth",
+		"roughness": 1.0,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/forest_floor_v2.png",
+		"uv": "[(33.636, -21.12909), (33.636, -21.58146), (34.08995, -21.58146), (34.54498, -22.48455), (33.636, -22.033), (33.636, -22.48455), (34.08995, -21.12909), (34.54498, -21.58146)]"
+	},
+	{
+		"aabb": "[P: (46.77059, -0.570507, -25.9173), S: (9.357002, 3.015491, 10.4173)]",
+		"material": "Pixel_Weathered limestone 0 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_8kxqm):<ShaderMaterial#-9223371990214113373>",
+		"name": "ForegroundRock_3_1_Weathered limestone 0",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(36.79538, -9.850326), (37.91008, -10.47409), (36.36909, -10.85947), (36.07034, 0.702478), (35.25439, -0.983567), (34.99107, 0.998467), (38.69298, 0.702478), (38.33637, -0.983567)]"
+	},
+	{
+		"aabb": "[P: (47.078, -0.346245, -22.54668), S: (7.780544, 2.25203, 6.293362)]",
+		"material": "Pixel_Weathered limestone 3 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_1ubo7):<ShaderMaterial#-9223371990180558939>",
+		"name": "ForegroundRock_3_1_Weathered limestone 3",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(35.52565, -12.5803), (35.03385, -11.47885), (36.81155, -11.89962), (37.71262, -11.42231), (38.09745, -12.5803), (36.81155, -11.89962), (35.52565, -12.5803), (33.93629, -12.5803)]"
+	},
+	{
+		"aabb": "[P: (46.64439, -0.178077, -21.94572), S: (2.270351, 1.915696, 5.091434)]",
+		"material": "Pixel_Weathered limestone 3 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_pk6sd):<ShaderMaterial#-9223371990147004505>",
+		"name": "ForegroundRock_2_1_Weathered limestone 3",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(13.57962, 0.669343), (12.89831, -0.589685), (12.47824, 0.890292), (13.57962, 0.669343), (14.25988, -0.589685), (12.89831, -0.589685), (33.33853, -13.738), (34.24032, -13.26089)]"
+	},
+	{
+		"aabb": "[P: (45.60926, -0.198621, -25.52641), S: (3.483967, 1.908029, 4.452812)]",
+		"material": "Pixel_Weathered limestone 0 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_dxcnu):<ShaderMaterial#-9223371990113450071>",
+		"name": "ForegroundRock_2_1_Weathered limestone 0",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(16.3098, 0.725323), (15.74347, -0.528658), (15.39318, 0.945326), (34.01287, 0.725323), (33.04906, -0.528658), (32.73863, 0.945326), (16.3098, 0.725323), (16.87613, -0.528658)]"
+	},
+	{
+		"aabb": "[P: (47.0216, -0.440777, -30.96032), S: (6.176159, 2.087203, 7.520645)]",
+		"material": "Pixel_Weathered limestone 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_3jc40):<ShaderMaterial#-9223371990079895637>",
+		"name": "ForegroundRock_3_1_Weathered limestone 2",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(34.7293, -18.04062), (34.30165, -16.72426), (35.85089, -17.22679), (17.65605, 1.019601), (19.03942, 1.224452), (18.22587, 2.071696), (34.7293, -18.04062), (33.34254, -18.04062)]"
+	},
+	{
+		"aabb": "[P: (46.03119, -0.28492, -30.39872), S: (2.971203, 1.775488, 6.39743)]",
+		"material": "Pixel_Weathered limestone 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_wdcg5):<ShaderMaterial#-9223371990046341203>",
+		"name": "ForegroundRock_2_1_Weathered limestone 2",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(19.03904, 1.019631), (18.22566, -0.14742), (17.72318, 1.223989), (34.00019, 1.019631), (33.17949, -0.14742), (32.91464, 1.223989), (19.03904, 1.019631), (19.85242, -0.14742)]"
+	},
+	{
+		"aabb": "[P: (47.3327, -0.48454, -32.94437), S: (7.56794, 2.563985, 5.533119)]",
+		"material": "Pixel_Weathered limestone 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_pegtu):<ShaderMaterial#-9223371990012786769>",
+		"name": "ForegroundRock_3_1_Weathered limestone 1",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(36.40794, -20.77041), (36.06284, -19.4791), (37.31239, -19.9726), (20.41154, 0.799497), (21.76995, 1.051295), (20.97205, 2.092155), (36.40794, -20.77041), (35.29156, -20.77041)]"
+	},
+	{
+		"aabb": "[P: (47.3327, -0.48454, -39.16921), S: (7.56794, 2.563985, 8.069208)]",
+		"material": "Pixel_Weathered limestone 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_xnnq8):<ShaderMaterial#-9223371989979232335>",
+		"name": "ForegroundRock_3_2_Weathered limestone 1",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(36.40794, -20.7706), (37.31239, -21.56829), (36.06284, -22.0615), (35.8208, 0.799677), (35.15955, -0.633953), (34.9453, 1.051038), (37.94701, 0.799677), (37.6575, -0.633953)]"
+	},
+	{
+		"aabb": "[P: (45.20377, -0.201445, -39.16921), S: (3.513706, 1.754934, 7.715744)]",
+		"material": "Pixel_Weathered limestone 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_c2pbx):<ShaderMaterial#-9223371989945677901>",
+		"name": "ForegroundRock_2_2_Weathered limestone 1",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(33.74318, -23.50068), (32.58172, -23.50068), (33.38412, -22.04088), (33.74318, -23.50068), (33.38412, -24.95969), (32.58172, -23.50068), (24.49939, 0.650604), (23.59811, -0.330258)]"
+	},
+	{
+		"aabb": "[P: (46.03325, 0.214706, -32.91541), S: (2.171593, 0.922634, 2.084618)]",
+		"material": "Pixel_Weathered limestone 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_ckj25):<ShaderMaterial#-9223371989912123467>",
+		"name": "ForegroundRock_2_1_Weathered limestone 1",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(33.13273, 0.650989), (32.44484, -0.330078), (33.74339, -0.330078), (32.44484, -0.330078), (33.1626, -1.483349), (33.74339, -0.330078), (23.03983, 0.823192), (22.13877, -0.330078)]"
+	},
+	{
+		"aabb": "[P: (47.20697, -0.968005, -41.51126), S: (4.862972, 3.061204, 5.222511)]",
+		"material": "Pixel_Weathered limestone 3 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_cmqlq):<ShaderMaterial#-9223371989878569033>",
+		"name": "ForegroundRock_3_2_Weathered limestone 3",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(33.81047, -26.23023), (33.35996, -25.31653), (34.99067, -25.66528), (26.26872, 1.66463), (27.2298, 1.964502), (26.66472, 3.207901), (33.81047, -26.23023), (34.99067, -26.79519)]"
+	},
+	{
+		"aabb": "[P: (31.3382, -2.434639, -43.09496), S: (17.60741, 6.376191, 6.806213)]",
+		"material": "Pixel_Weathered limestone 3 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_b4lxa):<ShaderMaterial#-9223371989845014599>",
+		"name": "ForegroundRock_2_2_Weathered limestone 3",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(33.81127, -26.23004), (32.35265, -26.23004), (33.36062, -25.31637), (33.81127, -26.23004), (33.36062, -27.14458), (32.35265, -26.23004), (27.22918, 1.664164), (26.66455, -0.046932)]"
+	},
+	{
+		"aabb": "[P: (47.01583, -0.937197, -47.12495), S: (6.520477, 2.877527, 8.64991)]",
+		"material": "Pixel_Weathered limestone 0 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_56uwe):<ShaderMaterial#-9223371989811460165>",
+		"name": "ForegroundRock_3_2_Weathered limestone 0",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(35.06593, -28.96016), (34.65377, -27.44662), (36.14246, -28.02462), (28.36793, 1.714365), (29.9591, 1.996178), (29.02444, 3.165609), (35.06593, -28.96016), (33.73376, -28.96016)]"
+	},
+	{
+		"aabb": "[P: (31.35155, -2.231129, -46.74158), S: (17.20355, 5.831482, 10.48683)]",
+		"material": "Pixel_Weathered limestone 0 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_kg3as):<ShaderMaterial#-9223371989777905731>",
+		"name": "ForegroundRock_2_2_Weathered limestone 0",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(29.95935, 1.714105), (29.02369, 0.105589), (28.44608, 1.99692), (29.95935, 1.714105), (30.89501, 0.105589), (29.02369, 0.105589), (31.55076, -1.502925), (30.89501, -2.954216)]"
+	},
+	{
+		"aabb": "[P: (30.31115, -1.958508, -42.69005), S: (2.229553, 5.423973, 4.612465)]",
+		"material": "Pixel_Weathered limestone 3 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_00peg):<ShaderMaterial#-9223371989744351297>",
+		"name": "ForegroundRock_1_2_Weathered limestone 3",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(28.26777, 1.87767), (27.68202, 0.214186), (27.3191, 2.169643), (22.55301, 1.87767), (21.93632, 0.214186), (21.73713, 2.169643), (28.26777, 1.87767), (28.85444, 0.214186)]"
+	},
+	{
+		"aabb": "[P: (34.15327, -2.051901, -45.83493), S: (14.62978, 6.632722, 7.824078)]",
+		"material": "Pixel_Weathered limestone 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_mcpud):<ShaderMaterial#-9223371989710796863>",
+		"name": "ForegroundRock_2_2_Weathered limestone 2",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(25.89948, -28.42656), (25.55943, -27.09715), (26.79045, -27.60476), (28.02767, 1.348025), (29.4251, 1.651318), (28.60338, 2.908992), (25.89948, -28.42656), (24.79766, -28.42656)]"
+	},
+	{
+		"aabb": "[P: (47.73743, -0.26895, -43.1541), S: (1.04562, 1.420146, 3.544464)]",
+		"material": "Pixel_Weathered limestone 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_qcoda):<ShaderMaterial#-9223371989677242429>",
+		"name": "ForegroundRock_3_2_Weathered limestone 2",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(27.72616, 1.767222), (28.2378, 0.257183), (28.96702, 2.032375), (29.69623, 0.257183), (28.96702, -1.252918), (30.14703, -1.518009), (28.2378, 0.257183), (27.787, -1.518009)]"
+	},
+	{
+		"aabb": "[P: (-0.232881, 0.295322, -0.230602), S: (16.48288, 0.359183, 16.27642)]",
+		"material": "Pixel_V1 Warm gravel path (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_wewg1):<ShaderMaterial#-9223371989610133561>",
+		"name": "Details_0_-1_V1 Warm gravel path",
+		"roughness": 0.98,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/path_soil_v2.png",
+		"uv": "[(11.32675, 12.11448), (10.96051, 11.96927), (11.19553, 11.85206), (11.09208, 12.23207), (11.28474, 11.99167), (10.90497, 11.93717), (11.10978, 11.77292), (11.07993, 12.15592)]"
+	},
+	{
+		"aabb": "[P: (1.352, 0.300658, -21.5), S: (12.148, 0.340992, 5.5)]",
+		"material": "Pixel_V1 Warm gravel path (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_wewg1):<ShaderMaterial#-9223371989610133561>",
+		"name": "Details_0_1_V1 Warm gravel path",
+		"roughness": 0.98,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/path_soil_v2.png",
+		"uv": "[(0.94637, -10.55031), (0.94637, -10.81272), (1.231882, -10.55031), (1.517393, -10.55031), (1.803192, -10.55031), (2.659728, -11.07514), (2.088704, -10.55031), (2.374216, -10.55031)]"
+	},
+	{
+		"aabb": "[P: (2.061876, 0.29581, -16.0), S: (11.43812, 0.35829, 16.2278)]",
+		"material": "Pixel_V1 Warm gravel path (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_wewg1):<ShaderMaterial#-9223371989610133561>",
+		"name": "Details_0_0_V1 Warm gravel path",
+		"roughness": 0.98,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/path_soil_v2.png",
+		"uv": "[(7.349904, -10.2), (7.612343, -10.2), (7.349904, -9.920156), (7.874784, -10.2), (8.399952, -9.920156), (8.137223, -10.2), (8.399952, -10.2), (8.662392, -10.2)]"
+	},
+	{
+		"aabb": "[P: (2.3, 0.43, -0.215), S: (1.8, 0.18, 0.395)]",
+		"material": "Pixel_Weathered limestone 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_a14o3):<ShaderMaterial#-9223371993200457999>",
+		"name": "WalkSurface_0_-1_Weathered limestone 1",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(-0.108545, 0.681487), (-0.108545, 0.69387), (-0.118687, 0.691578), (0.150424, 0.681487), (-0.118687, 0.580371), (-0.108545, 0.590496), (0.150424, 0.590496), (-0.108545, 0.578114)]"
+	},
+	{
+		"aabb": "[P: (2.3, 0.43, -0.7), S: (1.8, 0.46, 0.855)]",
+		"material": "Pixel_Weathered limestone 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_a14o3):<ShaderMaterial#-9223371993200457999>",
+		"name": "WalkSurface_0_0_Weathered limestone 1",
+		"roughness": 0.88,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/limestone_handpainted_v2.png",
+		"uv": "[(0.150424, 0.681473), (0.160566, 0.691588), (0.150424, 0.693855), (-0.108545, 0.693855), (0.150424, 0.590473), (-0.108545, 0.681473), (0.160566, 0.580392), (0.150424, 0.578125)]"
+	},
+	{
+		"aabb": "[P: (-17.48222, 3.197685, -31.50132), S: (47.86222, 0.453294, 61.88132)]",
+		"material": "Engine_Forged dark iron (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_ctd67):<StandardMaterial3D#-9223371993133349131>",
+		"name": "Roof_Forged dark iron",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(20.99991, 21.73394), (21.02068, 21.99963), (20.99991, 21.97856), (20.99991, 21.73394), (21.266, 21.99963), (21.02068, 21.99963), (21.266, 21.99963), (20.99991, 22.02069)]"
+	},
+	{
+		"aabb": "[P: (17.53308, 0.600978, 11.435), S: (0.130001, 2.5, 0.129999)]",
+		"material": "Pixel_Aged chestnut beams (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_nf25v):<ShaderMaterial#-9223371993636665641>",
+		"name": "Details_1_-1_Aged chestnut beams",
+		"roughness": 0.82,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/chestnut_handpainted_v2.png",
+		"uv": "[(-8.08972, 0.573354), (-8.010507, -1.164881), (-8.010507, 0.573354), (-8.08972, -1.164881), (12.27895, 9.089458), (12.35817, 9.010384), (12.35817, 9.089458), (12.27895, 9.010384)]"
+	},
+	{
+		"aabb": "[P: (17.38808, 2.970978, 11.29), S: (0.419998, 0.5, 0.42)]",
+		"material": "Engine_Forged dark iron (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_ctd67):<StandardMaterial3D#-9223371993133349131>",
+		"name": "Details_1_-1_Forged dark iron",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(-8.189704, -1.087147), (-8.179817, -1.097247), (-7.910585, -1.087147), (-7.910585, -1.422367), (-8.189704, -1.422367), (12.18901, -1.097247), (12.17875, -1.087147), (12.45825, -1.087147)]"
+	},
+	{
+		"aabb": "[P: (17.45808, 3.055978, 11.265), S: (0.279999, 0.33, 0.470001)]",
+		"material": "TexturePass_Engine_Lantern honey glow (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_k1h3f):<ShaderMaterial#-9223371991220746393>",
+		"name": "Details_1_-1_Lantern honey glow",
+		"roughness": null,
+		"shader": "res://world/maps/lanternbrook_hd2d/window_glass_v2.gdshader",
+		"texture": "",
+		"uv": "[(-8.2075, -1.368134), (-8.203459, -1.367226), (-8.203459, -1.142143), (-8.2075, -1.141235), (-8.2075, -1.363185), (-8.2075, -1.368134), (-8.211542, -1.367226), (-8.211542, -1.142143)]"
+	},
+	{
+		"aabb": "[P: (16.0, 1.099724, -18.36), S: (2.0, 0.75, 0.684999)]",
+		"material": "Pixel_Honey oak planks (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_yi00r):<ShaderMaterial#-9223371992999131395>",
+		"name": "Details_1_1_Honey oak planks",
+		"roughness": 0.79,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/chestnut_handpainted_v2.png",
+		"uv": "[(11.21165, 0.136808), (11.21165, 0.218134), (12.58784, 0.218134), (12.58784, 0.136808), (12.58784, -11.3844), (12.57177, -11.7997), (12.58784, -11.81597), (11.21165, -11.81597)]"
+	},
+	{
+		"aabb": "[P: (16.18, 0.524724, -18.225), S: (1.639999, 0.6, 0.450001)]",
+		"material": "Pixel_Aged chestnut beams (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::ShaderMaterial_nf25v):<ShaderMaterial#-9223371993636665641>",
+		"name": "Details_1_1_Aged chestnut beams",
+		"roughness": 0.82,
+		"shader": "res://world/maps/lanternbrook_hd2d/pixel_surface.gdshader",
+		"texture": "res://world/maps/lanternbrook_hd2d/textures/chestnut_handpainted_v2.png",
+		"uv": "[(12.44959, 0.624964), (12.45971, 0.614922), (12.75004, 0.624964), (12.75004, 0.220037), (12.44959, 0.220037), (11.33305, -11.45002), (11.41633, -11.75022), (11.41633, -11.45002)]"
+	},
+	{
+		"aabb": "[P: (16.60561, 0.490439, -31.839), S: (15.41011, 0.381797, 15.44405)]",
+		"material": "Engine_Flowers 0 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_u53px):<StandardMaterial3D#-9223371991791171771>",
+		"name": "Foliage_1_1_Flowers 0",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(14.53885, -12.39623), (14.61614, -12.39623), (14.58468, -12.41897), (14.53885, -12.39623), (14.58468, -12.3735), (14.61614, -12.39623), (14.53885, -12.39623), (14.53885, -12.47354)]"
+	},
+	{
+		"aabb": "[P: (31.9619, 0.455436, -13.20844), S: (12.84778, 0.515699, 13.07413)]",
+		"material": "Engine_Flowers 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_0bafi):<StandardMaterial3D#-9223371991623399601>",
+		"name": "Foliage_2_0_Flowers 1",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(31.28924, -7.389292), (31.36678, -7.389292), (31.33423, -7.411941), (31.28924, -7.389292), (31.33423, -7.366392), (31.36678, -7.389292), (31.28924, -7.389292), (31.28924, -7.466548)]"
+	},
+	{
+		"aabb": "[P: (31.98322, 0.509593, -31.9941), S: (12.68379, 0.439476, 15.87393)]",
+		"material": "Engine_Flowers 0 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_u53px):<StandardMaterial3D#-9223371991791171771>",
+		"name": "Foliage_2_1_Flowers 0",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(31.18866, -20.90158), (31.2669, -20.90158), (31.23446, -20.92443), (31.18866, -20.90158), (31.23446, -20.87873), (31.2669, -20.90158), (31.18866, -20.90158), (31.18866, -20.97863)]"
+	},
+	{
+		"aabb": "[P: (32.01225, 0.524251, -36.07825), S: (13.01105, 0.415653, 4.116653)]",
+		"material": "Engine_Flowers 0 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_u53px):<StandardMaterial3D#-9223371991791171771>",
+		"name": "Foliage_2_2_Flowers 0",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(22.48582, -23.20886), (22.56277, -23.20886), (22.53103, -23.23181), (22.48582, -23.20886), (22.53103, -23.18592), (22.56277, -23.20886), (22.48582, -23.20886), (22.48582, -23.28584)]"
+	},
+	{
+		"aabb": "[P: (32.21982, 0.46914, -29.6283), S: (11.62499, 0.522555, 13.05141)]",
+		"material": "Engine_Flowers 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_xnle6):<StandardMaterial3D#-9223371991858280639>",
+		"name": "Foliage_2_1_Flowers 2",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(28.72442, -19.62595), (28.80216, -19.62595), (28.77032, -19.64884), (28.72442, -19.62595), (28.77032, -19.60306), (28.80216, -19.62595), (28.72442, -19.62595), (28.72442, -19.70306)]"
+	},
+	{
+		"aabb": "[P: (15.9746, 0.552782, -30.88277), S: (15.63516, 0.372556, 12.79129)]",
+		"material": "Engine_Flowers 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_xnle6):<StandardMaterial3D#-9223371991858280639>",
+		"name": "Foliage_1_1_Flowers 2",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(16.90093, -11.74154), (16.97859, -11.74154), (16.94685, -11.7642), (16.90093, -11.74154), (16.94685, -11.71889), (16.97859, -11.74154), (16.90093, -11.74154), (16.90093, -11.81894)]"
+	},
+	{
+		"aabb": "[P: (32.05571, 0.466239, -31.24884), S: (12.68155, 0.423317, 12.50923)]",
+		"material": "Engine_Flowers 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_0bafi):<StandardMaterial3D#-9223371991623399601>",
+		"name": "Foliage_2_1_Flowers 1",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(23.05496, -18.70316), (23.13238, -18.70316), (23.10084, -18.72609), (23.05496, -18.70316), (23.10084, -18.68022), (23.13238, -18.70316), (23.05496, -18.70316), (23.05496, -18.78024)]"
+	},
+	{
+		"aabb": "[P: (32.09039, 0.518894, -15.16752), S: (12.92164, 0.339682, 15.16904)]",
+		"material": "Engine_Flowers 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_xnle6):<StandardMaterial3D#-9223371991858280639>",
+		"name": "Foliage_2_0_Flowers 2",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(27.50154, -6.568091), (27.57846, -6.568091), (27.54673, -6.590691), (27.50154, -6.568091), (27.54673, -6.545198), (27.57846, -6.568091), (27.50154, -6.568091), (27.50154, -6.645282)]"
+	},
+	{
+		"aabb": "[P: (32.2272, 0.556548, -35.93386), S: (11.32561, 0.401531, 3.761677)]",
+		"material": "Engine_Flowers 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_xnle6):<StandardMaterial3D#-9223371991858280639>",
+		"name": "Foliage_2_2_Flowers 2",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(30.40882, -24.07704), (30.48697, -24.07704), (30.45441, -24.09915), (30.40882, -24.07704), (30.45441, -24.05419), (30.48697, -24.07704), (30.40882, -24.07704), (30.40882, -24.1537)]"
+	},
+	{
+		"aabb": "[P: (15.98272, 0.52631, -36.01443), S: (15.38606, 0.315699, 3.388149)]",
+		"material": "Engine_Flowers 0 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_u53px):<StandardMaterial3D#-9223371991791171771>",
+		"name": "Foliage_1_2_Flowers 0",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(18.94797, -21.9352), (19.0257, -21.9352), (18.99354, -21.95736), (18.94797, -21.9352), (18.99354, -21.91229), (19.0257, -21.9352), (18.94797, -21.9352), (18.94797, -22.01204)]"
+	},
+	{
+		"aabb": "[P: (32.30276, 0.486657, -16.00609), S: (12.44702, 0.52063, 15.01414)]",
+		"material": "Engine_Flowers 0 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_u53px):<StandardMaterial3D#-9223371991791171771>",
+		"name": "Foliage_2_0_Flowers 0",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(29.50563, -8.077927), (29.58306, -8.077927), (29.55152, -8.100659), (29.50563, -8.077927), (29.55152, -8.055193), (29.58306, -8.077927), (29.50563, -8.077927), (29.50563, -8.155156)]"
+	},
+	{
+		"aabb": "[P: (33.33103, 0.5884, -35.8147), S: (10.5364, 0.342578, 3.695705)]",
+		"material": "Engine_Flowers 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_0bafi):<StandardMaterial3D#-9223371991623399601>",
+		"name": "Foliage_2_2_Flowers 1",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(28.08325, -22.07077), (28.1601, -22.07077), (28.12823, -22.0928), (28.08325, -22.07077), (28.12823, -22.04799), (28.1601, -22.07077), (28.08325, -22.07077), (28.08325, -22.1479)]"
+	},
+	{
+		"aabb": "[P: (16.83247, 0.510999, -36.09116), S: (14.31364, 0.347887, 3.119522)]",
+		"material": "Engine_Flowers 1 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_0bafi):<StandardMaterial3D#-9223371991623399601>",
+		"name": "Foliage_1_2_Flowers 1",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(21.72443, -23.02868), (21.80228, -23.02868), (21.77034, -23.05164), (21.72443, -23.02868), (21.77034, -23.00647), (21.80228, -23.02868), (21.72443, -23.02868), (21.72443, -23.10644)]"
+	},
+	{
+		"aabb": "[P: (25.93685, 0.520569, -34.52185), S: (4.464231, 0.207111, 2.522863)]",
+		"material": "Engine_Flowers 2 (res://world/maps/lanternbrook_hd2d/art_courtyard.scn::StandardMaterial3D_xnle6):<StandardMaterial3D#-9223371991858280639>",
+		"name": "Foliage_1_2_Flowers 2",
+		"roughness": 0,
+		"shader": "",
+		"texture": "",
+		"uv": "[(18.2329, -22.38764), (18.31018, -22.38764), (18.27836, -22.41026), (18.2329, -22.38764), (18.27836, -22.36502), (18.31018, -22.38764), (18.2329, -22.38764), (18.2329, -22.4654)]"
+	}
+]

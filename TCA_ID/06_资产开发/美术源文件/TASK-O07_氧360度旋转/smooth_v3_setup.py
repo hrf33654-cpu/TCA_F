@@ -1,0 +1,12 @@
+import json,sys
+from pathlib import Path
+ROOT=Path('E:/projects/TCA_ID');BASE=Path(__file__).parent
+sys.path.insert(0,r'C:/Users/Lenovo/.codex/plugins/cache/frameronin-local/frameronin-imagegen/1.1.0');from server.main import HANDLERS
+from server import assurance
+s=json.loads((BASE/'smooth_v2_state.json').read_text(encoding='utf-8'));old=Path(s['task']['task_dir']);t=json.loads((old/'task.json').read_text(encoding='utf-8'));a=assurance.active_results(t,old)
+refs=[{'path':str(old/a[p['plan_id']]['task_path']),'role':'reference','description':p['label']+'; existing ImageGen source from parent fr-20261018-ea765584.'} for p in s['plan']['plans']]
+r=HANDLERS['fr_create_task'](workspace_root=str(ROOT),name='oxygen-360-smooth-v3',asset_type='directions',brief='Finish the smooth Oxygen turntable. Reuse 24 existing source keys and redraw two failed transition midpoints at output frames 60 and 140. Output 192 true temporal frames, 24fps, 8-second seamless loop. Native alpha PNG 1024x1536. Same original v002 character design. No camera pitch change, mirroring, pixelation or garment redesign. RIFE interpolates only existing valid motion and never claims to restore identity.',style='Original clean anime model sheet, fine linework and restrained cel shading, black-white-pale mint, left cape, right sleeve/vine.',references=refs,directions=[p['label'] for p in s['plan']['plans']]+['transition at frame 60, between yaw110 and125','transition at frame 140, between yaw250 and270'],animation={'frame_count':192,'durations_ms':[1000/24]*192,'loop':True,'fps':24},layout={'cell_width':1024,'cell_height':1536,'frame_count':192,'columns':16,'rows':12,'resampling':'lanczos','direction_convention':'front -> left-facing profile -> back -> right-facing profile -> front; headings approximate'},alpha_required=True,output_dir=str(BASE/'交付'))
+p=HANDLERS['fr_build_generation_plan'](workspace_root=str(ROOT),task_id=r['task_id'])
+for i in range(24):HANDLERS['fr_reuse_plan_reference'](workspace_root=str(ROOT),task_id=r['task_id'],plan_id=p['plans'][i]['plan_id'],reference_index=i,reason='Preserve an already generated source key; parent task contains exact original prompt and immutable image. This is reuse, not a new generation.')
+out={'task':r,'plans':[{'plan_id':x['plan_id'],'label':x['label']} for x in p['plans']],'parent':s['task']['task_id']}
+(BASE/'smooth_v3_state.json').write_text(json.dumps(out,ensure_ascii=False,indent=2),encoding='utf-8');print(json.dumps(out,ensure_ascii=True))

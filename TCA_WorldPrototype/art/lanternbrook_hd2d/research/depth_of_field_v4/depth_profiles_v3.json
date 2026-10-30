@@ -1,0 +1,11 @@
+{
+  "description": "Distances in map meters around the camera focus plane; blend spatially during inspection. Positive transitions soften toward foreground/background.",
+  "profiles": [
+    {"id":"entrance", "near_clear":5.5, "far_clear":8.0, "near_transition":15.0, "far_transition":24.0, "amount":0.115},
+    {"id":"courtyard", "near_clear":6.0, "far_clear":9.0, "near_transition":16.0, "far_transition":25.0, "amount":0.12},
+    {"id":"bridge", "near_clear":7.0, "far_clear":10.0, "near_transition":17.0, "far_transition":26.0, "amount":0.105},
+    {"id":"riverside", "near_clear":5.0, "far_clear":8.0, "near_transition":16.0, "far_transition":26.0, "amount":0.11},
+    {"id":"ruins", "near_clear":6.0, "far_clear":12.0, "near_transition":17.0, "far_transition":28.0, "amount":0.115},
+    {"id":"return", "near_clear":6.0, "far_clear":9.0, "near_transition":17.0, "far_transition":26.0, "amount":0.105}
+  ]
+}

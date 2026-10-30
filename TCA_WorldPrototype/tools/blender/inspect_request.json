@@ -1,0 +1,4 @@
+{
+  "user_prompt": "你启动blender和对应mcp，帮我做一个好看的hd2d用的场景吧先，一定要好看，你可以任意去网上找资源或是自己建模，角色先不做，只做场景，一定要好看",
+  "code": "import bpy, json\ng=bpy.data.node_groups.get('Lanternbrook_soft_highlights')\nfor n in g.nodes:\n    print(n.bl_idname, [(s.name, str(getattr(s, 'default_value', ''))) for s in n.inputs])\nprint('compositing',hasattr(bpy.context.scene,'compositing_node_group'))"
+}

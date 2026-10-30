@@ -1,0 +1,18 @@
+{
+  "task_id": "fr-20261018-e857e438",
+  "record": {
+    "label": "smooth-repair-6",
+    "plan_id": "direction-07",
+    "plan_sha256": "f969ec821ca76544a0443043354bb772dc4226701b281827f1661181a71ef43d",
+    "generation_tool_declared": "codex_builtin_imagegen",
+    "generation_source_caveat": "The local server records the caller declaration; it cannot independently inspect the Codex host tool history.",
+    "source_path": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a14d38-6675-7863-885c-e920465b521f\\exec-833327ef-5c34-427b-bd3d-e92237ca62ca.png",
+    "task_path": "raw/smooth-repair-6.png",
+    "sha256": "514d6f5f234fc05b8eae4276bd4e167737938ff8a1271d2982abbed84b55f97c",
+    "bytes": 1536452,
+    "prompt_text": "Edit the character's viewing angle to make a precise in-between turntable keyframe. Image 1 and Image 2 are the two endpoint views of the SAME character and same dress. Required pose: Exactly halfway between Image 1 LEFT PROFILE and Image 2 DIRECT BACK: rear LEFT three-quarter at 135 degrees. Head torso skirt feet all turn together. Show broad left side cape and a half-width back bodice; far white sleeve narrower and partially occluded, not equal to direct back. Back of head with NO eye or face visible. Do not give straight back or look-back pose.\nPreserve existing fine clean anime drawing and original outfit exactly. Do not redesign flowers, ruffles, bodice, hat, chain, hands or hair; reposition only by perspective and occlusion. Character stands still, arms down in same relaxed pose, skirt hangs under gravity with no wind. Same level orthographic camera. Keep full body vertically from y=90 to y=1450 centered at x=512 on a 1024x1536 transparent canvas. ONE complete character, no labels, no sheet, no floor, no background glow. True transparent alpha. Keep slim neutral proportions and modest chest. Cape on anatomical left and flowers/ruffles on anatomical right, never mirrored.",
+    "recorded_at": "2026-10-18T06:18:01.689Z"
+  },
+  "remaining_plan_count": 0,
+  "next_step": "Inspect the actual generated image, then process it locally."
+}

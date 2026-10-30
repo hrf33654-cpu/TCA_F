@@ -1,0 +1,480 @@
+{
+  "schema_version": "1.0",
+  "task_id": "fr-20261019-1b99d3fc",
+  "frame_count": 16,
+  "frame_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "canvas_size": [
+    512,
+    768
+  ],
+  "durations_ms": [
+    200.0,
+    200.0,
+    200.0,
+    200.0,
+    200.0,
+    200.0,
+    200.0,
+    200.0,
+    200.0,
+    200.0,
+    200.0,
+    200.0,
+    200.0,
+    200.0,
+    200.0,
+    200.0
+  ],
+  "frames": [
+    {
+      "index": 0,
+      "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\exports\\oxygen-pixel-360-frames\\frame-0000.png",
+      "file": "frame-0000.png",
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\work\\frames\\frame-00-aligned-v2\\frame-0000.png",
+      "sha256": "19c756747e01d2120b970678c608bce3727a0e77201e85d2d692841565edcae0",
+      "size": [
+        512,
+        768
+      ],
+      "duration_ms": 200.0,
+      "alpha": {
+        "has_alpha_channel": true,
+        "alpha_min": 0,
+        "alpha_max": 254,
+        "transparent_pixels": 256237,
+        "partial_alpha_pixels": 136979,
+        "opaque_pixels": 0,
+        "nontransparent_bbox": [
+          71,
+          47,
+          482,
+          727
+        ],
+        "empty": false
+      }
+    },
+    {
+      "index": 1,
+      "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\exports\\oxygen-pixel-360-frames\\frame-0001.png",
+      "file": "frame-0001.png",
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\work\\frames\\frame-01-aligned-v2\\frame-0000.png",
+      "sha256": "c4b0d80abf7bca1975b612dd852defe8ecfa290057332f3c2aeed35cc5eb1143",
+      "size": [
+        512,
+        768
+      ],
+      "duration_ms": 200.0,
+      "alpha": {
+        "has_alpha_channel": true,
+        "alpha_min": 0,
+        "alpha_max": 254,
+        "transparent_pixels": 255634,
+        "partial_alpha_pixels": 137582,
+        "opaque_pixels": 0,
+        "nontransparent_bbox": [
+          30,
+          45,
+          475,
+          727
+        ],
+        "empty": false
+      }
+    },
+    {
+      "index": 2,
+      "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\exports\\oxygen-pixel-360-frames\\frame-0002.png",
+      "file": "frame-0002.png",
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\work\\frames\\frame-02-aligned-v2\\frame-0000.png",
+      "sha256": "9f69fd1cb48a8257965ba572c5d7bcaa7f728b78a7d37c0667b468ded92a7781",
+      "size": [
+        512,
+        768
+      ],
+      "duration_ms": 200.0,
+      "alpha": {
+        "has_alpha_channel": true,
+        "alpha_min": 0,
+        "alpha_max": 254,
+        "transparent_pixels": 252923,
+        "partial_alpha_pixels": 140293,
+        "opaque_pixels": 0,
+        "nontransparent_bbox": [
+          81,
+          45,
+          467,
+          727
+        ],
+        "empty": false
+      }
+    },
+    {
+      "index": 3,
+      "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\exports\\oxygen-pixel-360-frames\\frame-0003.png",
+      "file": "frame-0003.png",
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\work\\frames\\frame-03-aligned-v2\\frame-0000.png",
+      "sha256": "ac1bb481cf7f0c0fd4985aa2d38bdc4095ce294d1582b738e5fd68e874e67b4c",
+      "size": [
+        512,
+        768
+      ],
+      "duration_ms": 200.0,
+      "alpha": {
+        "has_alpha_channel": true,
+        "alpha_min": 0,
+        "alpha_max": 254,
+        "transparent_pixels": 277004,
+        "partial_alpha_pixels": 116212,
+        "opaque_pixels": 0,
+        "nontransparent_bbox": [
+          42,
+          45,
+          463,
+          727
+        ],
+        "empty": false
+      }
+    },
+    {
+      "index": 4,
+      "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\exports\\oxygen-pixel-360-frames\\frame-0004.png",
+      "file": "frame-0004.png",
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\work\\frames\\frame-04-aligned-v2\\frame-0000.png",
+      "sha256": "b046e53a48ad0b9276c11fc9b6f6b0e77b71fce4bad0e73b7a7f0e3f0be939a6",
+      "size": [
+        512,
+        768
+      ],
+      "duration_ms": 200.0,
+      "alpha": {
+        "has_alpha_channel": true,
+        "alpha_min": 0,
+        "alpha_max": 254,
+        "transparent_pixels": 278944,
+        "partial_alpha_pixels": 114272,
+        "opaque_pixels": 0,
+        "nontransparent_bbox": [
+          0,
+          44,
+          470,
+          731
+        ],
+        "empty": false
+      }
+    },
+    {
+      "index": 5,
+      "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\exports\\oxygen-pixel-360-frames\\frame-0005.png",
+      "file": "frame-0005.png",
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\work\\frames\\frame-05-aligned\\frame-0000.png",
+      "sha256": "0fc9a8e1e9b9e95f941e92fa91d3152c17c39c8fc7ee45533685934f428f59f6",
+      "size": [
+        512,
+        768
+      ],
+      "duration_ms": 200.0,
+      "alpha": {
+        "has_alpha_channel": true,
+        "alpha_min": 0,
+        "alpha_max": 254,
+        "transparent_pixels": 262634,
+        "partial_alpha_pixels": 130582,
+        "opaque_pixels": 0,
+        "nontransparent_bbox": [
+          22,
+          40,
+          471,
+          730
+        ],
+        "empty": false
+      }
+    },
+    {
+      "index": 6,
+      "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\exports\\oxygen-pixel-360-frames\\frame-0006.png",
+      "file": "frame-0006.png",
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\work\\frames\\frame-06-aligned\\frame-0000.png",
+      "sha256": "88c5865da1b1532e348c770742d01cd53631487eb11981f792143a6f3b3898b5",
+      "size": [
+        512,
+        768
+      ],
+      "duration_ms": 200.0,
+      "alpha": {
+        "has_alpha_channel": true,
+        "alpha_min": 0,
+        "alpha_max": 254,
+        "transparent_pixels": 255575,
+        "partial_alpha_pixels": 137641,
+        "opaque_pixels": 0,
+        "nontransparent_bbox": [
+          7,
+          40,
+          478,
+          737
+        ],
+        "empty": false
+      }
+    },
+    {
+      "index": 7,
+      "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\exports\\oxygen-pixel-360-frames\\frame-0007.png",
+      "file": "frame-0007.png",
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\work\\frames\\frame-07-aligned\\frame-0000.png",
+      "sha256": "bd8479120e63b09137355f3fea74a74b65f0b36a33cbba662d6e7185799ff518",
+      "size": [
+        512,
+        768
+      ],
+      "duration_ms": 200.0,
+      "alpha": {
+        "has_alpha_channel": true,
+        "alpha_min": 0,
+        "alpha_max": 254,
+        "transparent_pixels": 256543,
+        "partial_alpha_pixels": 136673,
+        "opaque_pixels": 0,
+        "nontransparent_bbox": [
+          11,
+          44,
+          452,
+          735
+        ],
+        "empty": false
+      }
+    },
+    {
+      "index": 8,
+      "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\exports\\oxygen-pixel-360-frames\\frame-0008.png",
+      "file": "frame-0008.png",
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\work\\frames\\frame-08-aligned\\frame-0000.png",
+      "sha256": "3cb14c72c7c1b961bf5a2c0cff3d87d95c92b043ec91aff25fd01540bd9b369e",
+      "size": [
+        512,
+        768
+      ],
+      "duration_ms": 200.0,
+      "alpha": {
+        "has_alpha_channel": true,
+        "alpha_min": 0,
+        "alpha_max": 254,
+        "transparent_pixels": 254634,
+        "partial_alpha_pixels": 138582,
+        "opaque_pixels": 0,
+        "nontransparent_bbox": [
+          0,
+          44,
+          483,
+          733
+        ],
+        "empty": false
+      }
+    },
+    {
+      "index": 9,
+      "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\exports\\oxygen-pixel-360-frames\\frame-0009.png",
+      "file": "frame-0009.png",
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\work\\frames\\frame-09-aligned\\frame-0000.png",
+      "sha256": "62383342f9a48509d85ed1af26631a73975ff05391bf0206bf2bf039f6e4f77a",
+      "size": [
+        512,
+        768
+      ],
+      "duration_ms": 200.0,
+      "alpha": {
+        "has_alpha_channel": true,
+        "alpha_min": 0,
+        "alpha_max": 254,
+        "transparent_pixels": 255720,
+        "partial_alpha_pixels": 137496,
+        "opaque_pixels": 0,
+        "nontransparent_bbox": [
+          11,
+          41,
+          478,
+          731
+        ],
+        "empty": false
+      }
+    },
+    {
+      "index": 10,
+      "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\exports\\oxygen-pixel-360-frames\\frame-0010.png",
+      "file": "frame-0010.png",
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\work\\frames\\frame-10-aligned\\frame-0000.png",
+      "sha256": "fb05faf01150c6c6cfb8370bca60a916cafb92812190f4d0a91c4e1b9b12fca7",
+      "size": [
+        512,
+        768
+      ],
+      "duration_ms": 200.0,
+      "alpha": {
+        "has_alpha_channel": true,
+        "alpha_min": 0,
+        "alpha_max": 254,
+        "transparent_pixels": 259357,
+        "partial_alpha_pixels": 133859,
+        "opaque_pixels": 0,
+        "nontransparent_bbox": [
+          0,
+          35,
+          476,
+          746
+        ],
+        "empty": false
+      }
+    },
+    {
+      "index": 11,
+      "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\exports\\oxygen-pixel-360-frames\\frame-0011.png",
+      "file": "frame-0011.png",
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\work\\frames\\frame-11-aligned\\frame-0000.png",
+      "sha256": "76086ea0ebcb110d0f5f5288f8c4fd8fe0595cd84bbea67fefb09e09fa53febe",
+      "size": [
+        512,
+        768
+      ],
+      "duration_ms": 200.0,
+      "alpha": {
+        "has_alpha_channel": true,
+        "alpha_min": 0,
+        "alpha_max": 254,
+        "transparent_pixels": 275442,
+        "partial_alpha_pixels": 117774,
+        "opaque_pixels": 0,
+        "nontransparent_bbox": [
+          5,
+          38,
+          417,
+          746
+        ],
+        "empty": false
+      }
+    },
+    {
+      "index": 12,
+      "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\exports\\oxygen-pixel-360-frames\\frame-0012.png",
+      "file": "frame-0012.png",
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\work\\frames\\frame-12-aligned\\frame-0000.png",
+      "sha256": "65b624e01db68b4baf9c31dfd3565972d0a2eec8b8e5d6cee353db8f0923f439",
+      "size": [
+        512,
+        768
+      ],
+      "duration_ms": 200.0,
+      "alpha": {
+        "has_alpha_channel": true,
+        "alpha_min": 0,
+        "alpha_max": 254,
+        "transparent_pixels": 277920,
+        "partial_alpha_pixels": 115296,
+        "opaque_pixels": 0,
+        "nontransparent_bbox": [
+          23,
+          45,
+          455,
+          727
+        ],
+        "empty": false
+      }
+    },
+    {
+      "index": 13,
+      "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\exports\\oxygen-pixel-360-frames\\frame-0013.png",
+      "file": "frame-0013.png",
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\work\\frames\\frame-13-aligned\\frame-0000.png",
+      "sha256": "a0a5d2dc927f9c9a3005a615bff47de2f5e9151ccfa69f1b86b4eba4328427bd",
+      "size": [
+        512,
+        768
+      ],
+      "duration_ms": 200.0,
+      "alpha": {
+        "has_alpha_channel": true,
+        "alpha_min": 0,
+        "alpha_max": 254,
+        "transparent_pixels": 277285,
+        "partial_alpha_pixels": 115931,
+        "opaque_pixels": 0,
+        "nontransparent_bbox": [
+          24,
+          44,
+          396,
+          725
+        ],
+        "empty": false
+      }
+    },
+    {
+      "index": 14,
+      "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\exports\\oxygen-pixel-360-frames\\frame-0014.png",
+      "file": "frame-0014.png",
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\work\\frames\\frame-14-aligned\\frame-0000.png",
+      "sha256": "5a21262b58fee3afbd504058db668f546e0c7d2b0b85e43074b674166bfeadec",
+      "size": [
+        512,
+        768
+      ],
+      "duration_ms": 200.0,
+      "alpha": {
+        "has_alpha_channel": true,
+        "alpha_min": 0,
+        "alpha_max": 254,
+        "transparent_pixels": 266086,
+        "partial_alpha_pixels": 127130,
+        "opaque_pixels": 0,
+        "nontransparent_bbox": [
+          30,
+          43,
+          456,
+          723
+        ],
+        "empty": false
+      }
+    },
+    {
+      "index": 15,
+      "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\exports\\oxygen-pixel-360-frames\\frame-0015.png",
+      "file": "frame-0015.png",
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261019-1b99d3fc\\work\\frames\\frame-15-aligned\\frame-0000.png",
+      "sha256": "da19f404c405cfac57c11e5a98e7001286d695920ee3f28e1ebc6df2f5b52bf9",
+      "size": [
+        512,
+        768
+      ],
+      "duration_ms": 200.0,
+      "alpha": {
+        "has_alpha_channel": true,
+        "alpha_min": 0,
+        "alpha_max": 254,
+        "transparent_pixels": 262209,
+        "partial_alpha_pixels": 131007,
+        "opaque_pixels": 0,
+        "nontransparent_bbox": [
+          28,
+          34,
+          458,
+          722
+        ],
+        "empty": false
+      }
+    }
+  ],
+  "timing_authority": "This ordered list is authoritative; GIF timing may be rounded to 10 ms."
+}

@@ -1,0 +1,21 @@
+{
+  "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a149ef-c266-7820-be94-8a2af2166f32\\exec-2f79b94e-3409-4179-b10e-1cdd224db7dc.png",
+  "sourceSize": [
+    1254,
+    1254
+  ],
+  "alphaBounds": [
+    0,
+    0,
+    1234,
+    1254
+  ],
+  "exportSize": [
+    205,
+    208
+  ],
+  "targetCharacterHeight": 192,
+  "method": "alpha-bound crop, nearest-neighbor sample, 8px temporary margins",
+  "previewScale": 4,
+  "status": "visual review pending; not pixel-by-pixel cleanup or engine approval"
+}

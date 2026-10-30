@@ -1,0 +1,94 @@
+Use both uploaded images together.
+
+Image A is the costume reference sheet.
+Image B is the confirmed OXYGEN character model sheet.
+
+Edit Image B by dressing the OXYGEN character in the exact outfit shown in Image A.
+
+This is a costume transfer and character-sheet edit, NOT a redesign, NOT a new composition, and NOT a different character.
+
+PRESERVE IMAGE B:
+Preserve the exact same OXYGEN character identity, face, expression, eye colors, beauty mark, hairstyle, exact outer hair silhouette and hair length, black/blue/white hair color placement, body shape, body proportions, age, neutral stance, and recognizable features.
+Preserve the exact sheet layout and composition of Image B: the three full-body views (FRONT, STRICT LEFT SIDE, BACK), the facial closeups, the hair color key section, the labels, title, character information, horizontal guide lines, white background, spacing, and overall arrangement.
+Keep scale and placement unchanged.
+Do not crop the sheet.
+Do not redraw this as a new page.
+Do not replace the character with a different-looking woman.
+
+COSTUME TRANSFER FROM IMAGE A:
+Dress the OXYGEN character in the same outfit design as shown in Image A, adapted faithfully onto her body while keeping her own identity and proportions.
+
+Transfer the full costume design language and recognizable construction from Image A, including:
+- the black, white, and pale mint / icy aqua color scheme
+- the formal gothic-inspired asymmetrical silhouette
+- the hat / headpiece with ribbon, floral, and lace detailing
+- the ornate collar and chest decoration
+- the fitted waistcoat / corset-like bodice structure
+- the asymmetrical shoulder and sleeve treatment
+- the cape / draped outer layer
+- the gloves
+- the layered hip drapery
+- the long skirt with ruffles
+- the floral ornaments
+- the jeweled brooch-like accessories and chain details
+- the elegant decorative trim and layered fabric treatment
+
+The goal is for OXYGEN to be wearing the outfit from Image A, not a simplified generic version.
+Keep the outfit recognizable and faithful to the costume study.
+
+CHARACTER PRESERVATION:
+The person must remain clearly OXYGEN from Image B.
+Do not change her face.
+Do not change her hairstyle.
+Do not change her body proportions.
+Do not sexualize her.
+Do not make her chest, waist, hips, or legs more exaggerated.
+Do not change her age or expression.
+Do not beautify or stylize her into a different person.
+
+THREE-VIEW CONSISTENCY:
+The FRONT, STRICT LEFT SIDE, and BACK full-body views in Image B must all show the same transferred costume consistently.
+The clothing construction must wrap correctly around the body and remain physically coherent across front, side, and back.
+Do not invent inconsistent details between views.
+Use Image A as the source for how the costume is built and how the layers, cape, skirt, decorations, gloves, and accessories should appear from different directions.
+
+IMPORTANT VIEW RULES:
+- FRONT view: show the costume clearly from the front.
+- STRICT LEFT SIDE view: preserve the strict side profile; do not rotate into a 3/4 angle.
+- BACK view: show the back construction of the same costume consistently.
+Keep the original pose orientation from Image B exactly.
+
+HEAD / HAIR / ACCESSORY HANDLING:
+Preserve OXYGEN’s exact hairstyle and hair colors from Image B.
+If the costume headpiece from Image A is included, place it naturally onto OXYGEN without replacing or redesigning her hair.
+The hair must still read as the same OXYGEN hairstyle underneath / around the costume headwear.
+Do not remove her blue and white streak placement.
+
+FACE CLOSEUPS AND SIDE FACE PANEL:
+Preserve the original face identity in the closeup panels.
+Keep the same woman, same gaze, same facial structure, and same hair identity.
+These panels should remain recognizable as OXYGEN.
+If appropriate, lightly reflect the costume styling in a restrained way, but do not let the costume obscure identity.
+Do not replace the face closeups with unrelated costume detail panels.
+
+HAIR COLOR KEY SECTION:
+Preserve the hair color key section as OXYGEN’s hair reference.
+Do not replace it with costume details.
+Keep the same hair color placement and recognizable hair silhouette.
+
+STYLE / RENDERING:
+Match the polished anime-style character-sheet finish already present in Image B.
+Clean linework, refined cel-style shading, crisp costume construction, elegant material separation, and readable layered clothing design.
+Maintain the white background and model-sheet clarity.
+Render the whole page cleanly and professionally.
+
+NON-NEGOTIABLE PRIORITIES:
+1. Preserve OXYGEN’s identity exactly.
+2. Preserve Image B’s sheet layout exactly.
+3. Transfer the outfit from Image A faithfully onto OXYGEN.
+4. Maintain strict front / side / back consistency.
+5. Keep the result as the same OXYGEN character sheet, now wearing the costume from Image A.
+
+Final result:
+Image B should remain the OXYGEN character model sheet, but now the character is fully dressed in the costume from Image A, with the outfit adapted consistently across the three full-body views while preserving OXYGEN’s original face, hair, body, and sheet structure.
+Execution: image 1=A, clothing source ONLY. Image 2=B, exact EDIT TARGET and final page layout. Render the FINAL PAGE using image B's 3 full-length figures plus original RIGHT COLUMN of face/head/hair references, NOT image A's bottom detail strip. Preserve the right reference column from B unchanged, bare neck and hatless hair reference; put the hat only on full-body figures. Transfer A costume onto B's existing 18-year-old adult woman without copying A mannequin anatomy/pose or scale. Fit long skirt around existing legs, maintain B feet baseline and relaxed arm positions. Wearer's LEFT shoulder wears cape (front screen right; back screen left), wearer's RIGHT side has flower/vine waterfall skirt ruffles (front screen left; back screen right). Hands emerge below cape hem, not through its side. Preserve original blue/white hair underneath hat. No urban tactical outfit elements. No extra detail panels, no layout switch, no grey mannequins, no body proportion changes.

@@ -1,0 +1,466 @@
+{
+  "selected": [
+    "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0000.png",
+    "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0001.png",
+    "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0002.png",
+    "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0003.png",
+    "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0004.png",
+    "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0005.png",
+    "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0006.png",
+    "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0007.png",
+    "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0008.png",
+    "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0009.png",
+    "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0010.png",
+    "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0011.png",
+    "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0012.png",
+    "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0013.png",
+    "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0014.png",
+    "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0015.png",
+    "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-atlas-v2.png",
+    "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-preview-v2.gif",
+    "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\previews\\oxygen-360-contact-v2.png"
+  ],
+  "verification": [
+    {
+      "group": "png-frames",
+      "status": "pass",
+      "findings": []
+    },
+    {
+      "group": "atlas",
+      "status": "pass",
+      "findings": []
+    },
+    {
+      "group": "gif-preview",
+      "status": "pass",
+      "findings": []
+    },
+    {
+      "group": "contact-preview",
+      "status": "pass",
+      "findings": []
+    }
+  ],
+  "manifest": {
+    "task_id": "fr-20261018-e857e438",
+    "reference": "TASK-O04 v002 explicitly supplied by user",
+    "frame_count": 16,
+    "frame_size": [
+      1024,
+      1536
+    ],
+    "duration_ms": 250,
+    "cycle_seconds": 4,
+    "loop": true,
+    "angle_note": "Yaw names are nominal requested targets; generated views are approximate, not geometrically measured. Camera is level as supplied reference, not exploration pitch.",
+    "frames": [
+      {
+        "index": 0,
+        "target_yaw_deg": 0.0,
+        "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0000.png",
+        "prompt_plan": "direction-01"
+      },
+      {
+        "index": 1,
+        "target_yaw_deg": 22.5,
+        "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0001.png",
+        "prompt_plan": "direction-02"
+      },
+      {
+        "index": 2,
+        "target_yaw_deg": 45.0,
+        "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0002.png",
+        "prompt_plan": "direction-03"
+      },
+      {
+        "index": 3,
+        "target_yaw_deg": 67.5,
+        "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0003.png",
+        "prompt_plan": "direction-04"
+      },
+      {
+        "index": 4,
+        "target_yaw_deg": 90.0,
+        "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0004.png",
+        "prompt_plan": "direction-05"
+      },
+      {
+        "index": 5,
+        "target_yaw_deg": 112.5,
+        "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0005.png",
+        "prompt_plan": "direction-06"
+      },
+      {
+        "index": 6,
+        "target_yaw_deg": 135.0,
+        "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0006.png",
+        "prompt_plan": "direction-07"
+      },
+      {
+        "index": 7,
+        "target_yaw_deg": 157.5,
+        "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0007.png",
+        "prompt_plan": "direction-08"
+      },
+      {
+        "index": 8,
+        "target_yaw_deg": 180.0,
+        "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0008.png",
+        "prompt_plan": "direction-09"
+      },
+      {
+        "index": 9,
+        "target_yaw_deg": 202.5,
+        "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0009.png",
+        "prompt_plan": "direction-10"
+      },
+      {
+        "index": 10,
+        "target_yaw_deg": 225.0,
+        "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0010.png",
+        "prompt_plan": "direction-11"
+      },
+      {
+        "index": 11,
+        "target_yaw_deg": 247.5,
+        "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0011.png",
+        "prompt_plan": "direction-12"
+      },
+      {
+        "index": 12,
+        "target_yaw_deg": 270.0,
+        "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0012.png",
+        "prompt_plan": "direction-13"
+      },
+      {
+        "index": 13,
+        "target_yaw_deg": 292.5,
+        "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0013.png",
+        "prompt_plan": "direction-14"
+      },
+      {
+        "index": 14,
+        "target_yaw_deg": 315.0,
+        "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0014.png",
+        "prompt_plan": "direction-15"
+      },
+      {
+        "index": 15,
+        "target_yaw_deg": 337.5,
+        "png": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0015.png",
+        "prompt_plan": "direction-16"
+      }
+    ],
+    "mp4": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-turntable.mp4",
+    "gif": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-preview-v2.gif",
+    "atlas": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-atlas-v2.png",
+    "contact": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\previews\\oxygen-360-contact-v2.png",
+    "visual_limitations": [
+      "Flower number, vine routing, dress fold pattern, glove/hand and hat details vary across views.",
+      "Some intermediate yaw steps are uneven; this is a generated directional-reference candidate, not a rigid 3D model turntable or approved production animation.",
+      "Original PNGs retain full alpha; GIF has binary transparency, MP4 has a neutral preview background."
+    ],
+    "prompt_source": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\task.json"
+  },
+  "gif_review": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\previews\\final-gif-playback-review.jpg",
+  "gif_extracted": {
+    "task_id": "fr-20261018-e857e438",
+    "source": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-preview-v2.gif",
+    "frame_count": 16,
+    "durations_ms": [
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250
+    ],
+    "empty_frames": [],
+    "frames": [
+      {
+        "index": 0,
+        "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\gif-playback-review\\frame-0000.png",
+        "duration_ms": 250,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "alpha_bbox": [
+          166,
+          112,
+          785,
+          1444
+        ],
+        "empty": false,
+        "sha256": "fa374c448862019ca627b6f6ccf9595950495ff048c6e3b2edbd03c051880c20"
+      },
+      {
+        "index": 1,
+        "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\gif-playback-review\\frame-0001.png",
+        "duration_ms": 250,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "alpha_bbox": [
+          129,
+          74,
+          873,
+          1443
+        ],
+        "empty": false,
+        "sha256": "07a5a8aa84c12ff94d409cc28f20db7206419128e734097a9fb61e7b48a8f726"
+      },
+      {
+        "index": 2,
+        "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\gif-playback-review\\frame-0002.png",
+        "duration_ms": 250,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "alpha_bbox": [
+          191,
+          79,
+          826,
+          1442
+        ],
+        "empty": false,
+        "sha256": "4b2a645d0f4bc2c5879ee46e7d9fdab4421a83f85da93237511cd92a2cbf9f04"
+      },
+      {
+        "index": 3,
+        "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\gif-playback-review\\frame-0003.png",
+        "duration_ms": 250,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "alpha_bbox": [
+          196,
+          91,
+          839,
+          1447
+        ],
+        "empty": false,
+        "sha256": "e215d7f44c6c89740a16feb8197318d5e9f517cd2d4c26b54e5d36f05a002f4d"
+      },
+      {
+        "index": 4,
+        "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\gif-playback-review\\frame-0004.png",
+        "duration_ms": 250,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "alpha_bbox": [
+          247,
+          91,
+          768,
+          1446
+        ],
+        "empty": false,
+        "sha256": "1d9a333a45f9b1d14bf2d7683e0b6de5ccf9a5a6ae2b296b59967568f95ebac7"
+      },
+      {
+        "index": 5,
+        "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\gif-playback-review\\frame-0005.png",
+        "duration_ms": 250,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "alpha_bbox": [
+          246,
+          96,
+          857,
+          1442
+        ],
+        "empty": false,
+        "sha256": "8373e941f41b915e575a0ddf85afec48dfbc08c7b8bb9040b80c538427f2e211"
+      },
+      {
+        "index": 6,
+        "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\gif-playback-review\\frame-0006.png",
+        "duration_ms": 250,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "alpha_bbox": [
+          263,
+          95,
+          877,
+          1441
+        ],
+        "empty": false,
+        "sha256": "bfbfff672ce1529f4f85f8546ac2aa238a3d9b00803bf03c0e7ca79f99d962d5"
+      },
+      {
+        "index": 7,
+        "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\gif-playback-review\\frame-0007.png",
+        "duration_ms": 250,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "alpha_bbox": [
+          261,
+          88,
+          859,
+          1430
+        ],
+        "empty": false,
+        "sha256": "5cf0d1faf9f06ce476b8e638db0de262563ba6818e7fd8c829bfbc7a8b35e2b1"
+      },
+      {
+        "index": 8,
+        "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\gif-playback-review\\frame-0008.png",
+        "duration_ms": 250,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "alpha_bbox": [
+          234,
+          93,
+          865,
+          1443
+        ],
+        "empty": false,
+        "sha256": "ce77530618285890e9a6bda2e5c0c7957a9b37ec07b398aaf8fcfc997d93d36a"
+      },
+      {
+        "index": 9,
+        "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\gif-playback-review\\frame-0009.png",
+        "duration_ms": 250,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "alpha_bbox": [
+          219,
+          94,
+          866,
+          1445
+        ],
+        "empty": false,
+        "sha256": "4f7641e60732b7f73444b7bc8ff86411e20f6e939f6045fdb5e370dbaf316628"
+      },
+      {
+        "index": 10,
+        "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\gif-playback-review\\frame-0010.png",
+        "duration_ms": 250,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "alpha_bbox": [
+          249,
+          75,
+          858,
+          1427
+        ],
+        "empty": false,
+        "sha256": "bc4e775ab7030ac8101ca1621ce8241c5d269df9a919c3a8dbdd30e1d0a94136"
+      },
+      {
+        "index": 11,
+        "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\gif-playback-review\\frame-0011.png",
+        "duration_ms": 250,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "alpha_bbox": [
+          245,
+          106,
+          826,
+          1442
+        ],
+        "empty": false,
+        "sha256": "3e357739d98a23d7e80cfcd9c81c011afb188fe9f1aa8f1d759076597a456753"
+      },
+      {
+        "index": 12,
+        "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\gif-playback-review\\frame-0012.png",
+        "duration_ms": 250,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "alpha_bbox": [
+          227,
+          100,
+          801,
+          1408
+        ],
+        "empty": false,
+        "sha256": "9a9f29dc7ae8895bc24b87a1e14fe38336f7ca417cf84e650bcef999764e1453"
+      },
+      {
+        "index": 13,
+        "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\gif-playback-review\\frame-0013.png",
+        "duration_ms": 250,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "alpha_bbox": [
+          194,
+          74,
+          828,
+          1436
+        ],
+        "empty": false,
+        "sha256": "9a7149afb6e1b528084d502106139cdaf95450c1ad0e178c81bb79c351b195df"
+      },
+      {
+        "index": 14,
+        "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\gif-playback-review\\frame-0014.png",
+        "duration_ms": 250,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "alpha_bbox": [
+          198,
+          96,
+          816,
+          1445
+        ],
+        "empty": false,
+        "sha256": "b3ccc62df139a95dbe70b548306c07d3c4d20dc82331a451a5b47637edeb2044"
+      },
+      {
+        "index": 15,
+        "path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\gif-playback-review\\frame-0015.png",
+        "duration_ms": 250,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "alpha_bbox": [
+          202,
+          76,
+          822,
+          1440
+        ],
+        "empty": false,
+        "sha256": "53cbb0a2fecce309922a7d87d6e1bd012658ce471cd30e611a70ee365492f872"
+      }
+    ],
+    "next_step": "Review frame order and timing before any edit."
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "code": "import bpy, pathlib, traceback\ndef build_tca():\n    try:\n        p = pathlib.Path(r'E:\\TCA_F\\TCA_WorldPrototype\\tools\\blender\\build_hamlet.py')\n        exec(compile(p.read_text(encoding='utf8'), str(p), 'exec'), {})\n    except Exception:\n        pathlib.Path(r'E:\\TCA_F\\TCA_WorldPrototype\\art\\alchemist_hamlet\\build_error.txt').write_text(traceback.format_exc(), encoding='utf8')\n    return None\nbpy.app.timers.register(build_tca, first_interval=1.0)\nprint('Scene build scheduled in live Blender')",
+  "user_prompt": "你启动blender和对应mcp，帮我做一个好看的hd2d用的场景吧先，一定要好看，你可以任意去网上找资源或是自己建模，角色先不做，只做场景，一定要好看"
+}

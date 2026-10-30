@@ -1,0 +1,32 @@
+{
+	"camera_distance": 96,
+	"camera_pitch": 20,
+	"foliage": [
+		{
+			"instances": 161,
+			"invalid_transforms": 0,
+			"name": "FernBeds"
+		},
+		{
+			"instances": 42,
+			"invalid_transforms": 0,
+			"name": "ReedsBeds"
+		},
+		{
+			"instances": 128,
+			"invalid_transforms": 0,
+			"name": "BlueflowersBeds"
+		},
+		{
+			"instances": 217,
+			"invalid_transforms": 0,
+			"name": "PixelTreeTrunks"
+		},
+		{
+			"instances": 2264,
+			"invalid_transforms": 0,
+			"name": "RoadsidePixelGrass"
+		}
+	],
+	"passed": true
+}

@@ -1,0 +1,17 @@
+{
+  "sourceBoundsAtAlpha128": [
+    297,
+    9,
+    567,
+    1232
+  ],
+  "canvas": [
+    104,
+    208
+  ],
+  "actualOccupiedHeight": 192,
+  "alpha": "binary 0/255; removed sub-128 alpha fringe",
+  "resampling": "nearest neighbor",
+  "visualStatus": "pending user",
+  "version": "v002"
+}

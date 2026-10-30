@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://s5tf3dly86np"]
+
+[ext_resource type="PackedScene" path="res://world/environments/lanternbrook/lanternbrook.tscn" id="1_env"]
+
+[node name="Main" type="Node" unique_id=1577094203]
+
+[node name="Lanternbrook" parent="." unique_id=186477876 instance=ExtResource("1_env")]
+transform = Transform3D(0.5544813, 0, 0.8321962, 0, 1, 0, -0.8321962, 0, 0.5544813, -18.42178, -0.5428128, 8.8734665)

@@ -1,0 +1,18 @@
+{
+  "task_id": "fr-20261018-e857e438",
+  "record": {
+    "label": "smooth-repair-5",
+    "plan_id": "direction-06",
+    "plan_sha256": "3becbc57debf7aa70aca6f120ad7e57305f68e37bcda6d1b078a7d425d614080",
+    "generation_tool_declared": "codex_builtin_imagegen",
+    "generation_source_caveat": "The local server records the caller declaration; it cannot independently inspect the Codex host tool history.",
+    "source_path": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a14d38-6675-7863-885c-e920465b521f\\exec-b04c2432-6603-451a-8477-fa2df748f4d4.png",
+    "task_path": "raw/smooth-repair-5.png",
+    "sha256": "6f42d1193560199ccc0c66d6e4b0aa480c718560c3a639acdc2770a8af3731ee",
+    "bytes": 1482258,
+    "prompt_text": "Edit the character's viewing angle to make a precise in-between turntable keyframe. Image 1 and Image 2 are the two endpoint views of the SAME character and same dress. Required pose: Start from Image 1's LEFT SIDE PROFILE. Turn the ENTIRE rigid character only 22.5 degrees AWAY from camera toward the back in Image 2. This is 112.5 degrees from frontal. Body should remain strongly NARROW SIDE-ON, NOT broad back. Camera is looking primarily at the black LEFT cape side; the white RIGHT sleeve is mostly occluded on far side. Show a thin strip of back bodice, and no eye. Face nose may just barely silhouette on screen LEFT. Do not turn head separately.\nPreserve existing fine clean anime drawing and original outfit exactly. Do not redesign flowers, ruffles, bodice, hat, chain, hands or hair; reposition only by perspective and occlusion. Character stands still, arms down in same relaxed pose, skirt hangs under gravity with no wind. Same level orthographic camera. Keep full body vertically from y=90 to y=1450 centered at x=512 on a 1024x1536 transparent canvas. ONE complete character, no labels, no sheet, no floor, no background glow. True transparent alpha. Keep slim neutral proportions and modest chest. Cape on anatomical left and flowers/ruffles on anatomical right, never mirrored.",
+    "recorded_at": "2026-10-18T06:18:01.421Z"
+  },
+  "remaining_plan_count": 0,
+  "next_step": "Inspect the actual generated image, then process it locally."
+}

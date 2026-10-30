@@ -1,0 +1,18 @@
+{
+  "task_id": "fr-20261018-e857e438",
+  "record": {
+    "label": "yaw-135-final",
+    "plan_id": "direction-07",
+    "plan_sha256": "f969ec821ca76544a0443043354bb772dc4226701b281827f1661181a71ef43d",
+    "generation_tool_declared": "codex_builtin_imagegen",
+    "generation_source_caveat": "The local server records the caller declaration; it cannot independently inspect the Codex host tool history.",
+    "source_path": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a14d38-6675-7863-885c-e920465b521f\\exec-37576170-2179-44c3-b1df-ea9bf7631183.png",
+    "task_path": "raw/yaw-135-final.png",
+    "sha256": "360ffdd00b3024abb98e28386c865254ca064e41294722a4c0f25319ee515089",
+    "bytes": 1477181,
+    "prompt_text": "Create one full-body view of the exact Oxygen character on model sheet Image 1. Image 2 only supports identity, DO NOT copy its angle. Required view: REAR LEFT THREE QUARTER, 135 degrees from front. Show back of head and back of torso, same direction. NO eye, NO nose, NO mouth visible at all. The character looks away diagonally toward upper LEFT of image. Head does not look back over shoulder. Side of black cape nearest viewer. Fine clean anime linework, original slim body and modest chest. Relaxed standing arms at sides, same original dress. Cape anatomical LEFT, white puff sleeve anatomical RIGHT, flower vine and ruffles anatomical RIGHT. No mirroring, no additional subjects, no sheet, no text. True transparent background, portrait 1024x1536, entire hat and both shoes inside clear margins. Rigid turntable pose, no separate head movement, no wind. Keep fine costume ornament scale as reference.",
+    "recorded_at": "2026-10-18T06:06:19.613Z"
+  },
+  "remaining_plan_count": 0,
+  "next_step": "Inspect the actual generated image, then process it locally."
+}

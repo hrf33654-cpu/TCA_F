@@ -1,0 +1,136 @@
+{
+	"adapter": "NVIDIA GeForce RTX 4060 Laptop GPU",
+	"failures": [],
+	"godot": "4.6.2-stable (official)",
+	"maximum_pan_step_m": 0.107841491699219,
+	"method": "Rendered Forward+; 30 warmup then 90 wall-clock frame intervals per tuned view. Map geometry, collision and navigation unchanged. No character gameplay acceptance.",
+	"passed": true,
+	"performance": [
+		{
+			"amount": 0.114999957382679,
+			"average_ms": 7.64436666666667,
+			"far": 104.000015258789,
+			"focus_depth": 95.9999923706055,
+			"near": 90.4999771118164,
+			"p95_ms": 8.55,
+			"region": 1,
+			"resolution": "(1280, 720)"
+		},
+		{
+			"amount": 0.119881361722946,
+			"average_ms": 8.94955555555556,
+			"far": 105.00740814209,
+			"focus_depth": 95.9999923706055,
+			"near": 89.9925918579102,
+			"p95_ms": 9.909,
+			"region": 2,
+			"resolution": "(1280, 720)"
+		},
+		{
+			"amount": 0.1051165163517,
+			"average_ms": 8.90842222222222,
+			"far": 105.99153137207,
+			"focus_depth": 96.0,
+			"near": 89.0084915161133,
+			"p95_ms": 9.856,
+			"region": 3,
+			"resolution": "(1280, 720)"
+		},
+		{
+			"amount": 0.109995886683464,
+			"average_ms": 5.87154444444444,
+			"far": 103.251884460449,
+			"focus_depth": 95.9999847412109,
+			"near": 91.4669418334961,
+			"p95_ms": 6.643,
+			"region": 4,
+			"resolution": "(1280, 720)"
+		},
+		{
+			"amount": 0.114999555051327,
+			"average_ms": 5.85645555555556,
+			"far": 107.99974822998,
+			"focus_depth": 96.0,
+			"near": 90.0000305175781,
+			"p95_ms": 6.374,
+			"region": 5,
+			"resolution": "(1280, 720)"
+		},
+		{
+			"amount": 0.105006724596024,
+			"average_ms": 5.89878888888889,
+			"far": 104.155517578125,
+			"focus_depth": 95.9999923706055,
+			"near": 90.5632705688477,
+			"p95_ms": 6.411,
+			"region": 6,
+			"resolution": "(1280, 720)"
+		},
+		{
+			"amount": 0.114999957382679,
+			"average_ms": 5.92954444444444,
+			"far": 104.000015258789,
+			"focus_depth": 95.9999923706055,
+			"near": 90.4999771118164,
+			"p95_ms": 6.369,
+			"region": 1,
+			"resolution": "(1920, 1080)"
+		},
+		{
+			"amount": 0.119881361722946,
+			"average_ms": 5.94453333333333,
+			"far": 105.00740814209,
+			"focus_depth": 95.9999923706055,
+			"near": 89.9925918579102,
+			"p95_ms": 6.428,
+			"region": 2,
+			"resolution": "(1920, 1080)"
+		},
+		{
+			"amount": 0.1051165163517,
+			"average_ms": 5.95054444444445,
+			"far": 105.99153137207,
+			"focus_depth": 96.0,
+			"near": 89.0084915161133,
+			"p95_ms": 6.381,
+			"region": 3,
+			"resolution": "(1920, 1080)"
+		},
+		{
+			"amount": 0.109995886683464,
+			"average_ms": 6.27862222222222,
+			"far": 103.251884460449,
+			"focus_depth": 95.9999847412109,
+			"near": 91.4669418334961,
+			"p95_ms": 7.352,
+			"region": 4,
+			"resolution": "(1920, 1080)"
+		},
+		{
+			"amount": 0.114999555051327,
+			"average_ms": 5.85016666666666,
+			"far": 107.99974822998,
+			"focus_depth": 96.0,
+			"near": 90.0000305175781,
+			"p95_ms": 6.532,
+			"region": 5,
+			"resolution": "(1920, 1080)"
+		},
+		{
+			"amount": 0.105006724596024,
+			"average_ms": 5.9432,
+			"far": 104.155517578125,
+			"focus_depth": 95.9999923706055,
+			"near": 90.5632705688477,
+			"p95_ms": 6.41,
+			"region": 6,
+			"resolution": "(1920, 1080)"
+		}
+	],
+	"screenshots": 61,
+	"settings": {
+		"rendering/camera/depth_of_field/depth_of_field_bokeh_quality": 1,
+		"rendering/camera/depth_of_field/depth_of_field_bokeh_shape": 1,
+		"rendering/camera/depth_of_field/depth_of_field_use_jitter": false
+	}
+}

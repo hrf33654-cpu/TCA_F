@@ -1,0 +1,18 @@
+{
+  "task_id": "fr-20261018-e857e438",
+  "record": {
+    "label": "smooth-repair-10",
+    "plan_id": "direction-11",
+    "plan_sha256": "4a89f8b000491f4e6be7e5e73f7731bcc3bd16415259b0af14ec6ed3506ee040",
+    "generation_tool_declared": "codex_builtin_imagegen",
+    "generation_source_caveat": "The local server records the caller declaration; it cannot independently inspect the Codex host tool history.",
+    "source_path": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a14d38-6675-7863-885c-e920465b521f\\exec-66f6841a-9b7e-4cd3-bd84-c0f63098122c.png",
+    "task_path": "raw/smooth-repair-10.png",
+    "sha256": "20d1f71fe0b96641d1f1b5e661f6624220593511a53403b14bccf46320e7d564",
+    "bytes": 1476550,
+    "prompt_text": "Edit the character's viewing angle to make a precise in-between turntable keyframe. Image 1 and Image 2 are the two endpoint views of the SAME character and same dress. Required pose: Exactly halfway between Image 1 DIRECT BACK and Image 2 RIGHT PROFILE: rear RIGHT three-quarter at 225 degrees. Turn HEAD TORSO SKIRT FEET TOGETHER. Near white right sleeve is dominant, far black cape partially occluded behind torso. Back bodice is visibly narrower than a straight back. No visible eye; rear of head, right cheek contour just visible toward screen RIGHT.\nPreserve existing fine clean anime drawing and original outfit exactly. Do not redesign flowers, ruffles, bodice, hat, chain, hands or hair; reposition only by perspective and occlusion. Character stands still, arms down in same relaxed pose, skirt hangs under gravity with no wind. Same level orthographic camera. Keep full body vertically from y=90 to y=1450 centered at x=512 on a 1024x1536 transparent canvas. ONE complete character, no labels, no sheet, no floor, no background glow. True transparent alpha. Keep slim neutral proportions and modest chest. Cape on anatomical left and flowers/ruffles on anatomical right, never mirrored.",
+    "recorded_at": "2026-10-18T06:18:01.983Z"
+  },
+  "remaining_plan_count": 0,
+  "next_step": "Inspect the actual generated image, then process it locally."
+}

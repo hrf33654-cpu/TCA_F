@@ -1,0 +1,234 @@
+{
+  "task_id": "fr-20261019-1b99d3fc",
+  "frame_count": 16,
+  "frame_size": [
+    512,
+    768
+  ],
+  "atlas_size": [
+    2048,
+    3072
+  ],
+  "durations_ms": [
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "loop": true,
+  "cycle_seconds": 3.2,
+  "order": "front -> screen left profile -> back -> screen right profile -> front",
+  "yaw_note": "22.5-degree targets are nominal; generated views are approximate and angular steps are not uniform.",
+  "transforms": [
+    {
+      "index": 0,
+      "reviewed_hat_top": 1,
+      "reviewed_shoe_contact": 760,
+      "reviewed_body_axis": 256,
+      "scale": 0.8853754940711462,
+      "offset": {
+        "x": -1,
+        "y": 3
+      },
+      "nominal_yaw": 0.0
+    },
+    {
+      "index": 1,
+      "reviewed_hat_top": 3,
+      "reviewed_shoe_contact": 760,
+      "reviewed_body_axis": 256,
+      "scale": 0.8877146631439894,
+      "offset": {
+        "x": 1,
+        "y": 2
+      },
+      "nominal_yaw": 22.5
+    },
+    {
+      "index": 2,
+      "reviewed_hat_top": 3,
+      "reviewed_shoe_contact": 760,
+      "reviewed_body_axis": 263,
+      "scale": 0.8877146631439894,
+      "offset": {
+        "x": -5,
+        "y": 2
+      },
+      "nominal_yaw": 45.0
+    },
+    {
+      "index": 3,
+      "reviewed_hat_top": 3,
+      "reviewed_shoe_contact": 760,
+      "reviewed_body_axis": 266,
+      "scale": 0.8877146631439894,
+      "offset": {
+        "x": -8,
+        "y": 2
+      },
+      "nominal_yaw": 67.5
+    },
+    {
+      "index": 4,
+      "reviewed_hat_top": 32,
+      "reviewed_shoe_contact": 754,
+      "reviewed_body_axis": 278,
+      "scale": 0.9307479224376731,
+      "offset": {
+        "x": -18,
+        "y": -8
+      },
+      "nominal_yaw": 90.0
+    },
+    {
+      "index": 5,
+      "reviewed_hat_top": 28,
+      "reviewed_shoe_contact": 754,
+      "reviewed_body_axis": 258,
+      "scale": 0.9256198347107438,
+      "offset": {
+        "x": -2,
+        "y": -6
+      },
+      "nominal_yaw": 112.5
+    },
+    {
+      "index": 6,
+      "reviewed_hat_top": 20,
+      "reviewed_shoe_contact": 750,
+      "reviewed_body_axis": 270,
+      "scale": 0.9205479452054794,
+      "offset": {
+        "x": -13,
+        "y": 0
+      },
+      "nominal_yaw": 135.0
+    },
+    {
+      "index": 7,
+      "reviewed_hat_top": 20,
+      "reviewed_shoe_contact": 752,
+      "reviewed_body_axis": 270,
+      "scale": 0.9180327868852459,
+      "offset": {
+        "x": -13,
+        "y": -2
+      },
+      "nominal_yaw": 157.5
+    },
+    {
+      "index": 8,
+      "reviewed_hat_top": 26,
+      "reviewed_shoe_contact": 738,
+      "reviewed_body_axis": 285,
+      "scale": 0.9438202247191011,
+      "offset": {
+        "x": -14,
+        "y": 1
+      },
+      "nominal_yaw": 180.0
+    },
+    {
+      "index": 9,
+      "reviewed_hat_top": 28,
+      "reviewed_shoe_contact": 738,
+      "reviewed_body_axis": 260,
+      "scale": 0.9464788732394366,
+      "offset": {
+        "x": -4,
+        "y": 1
+      },
+      "nominal_yaw": 202.5
+    },
+    {
+      "index": 10,
+      "reviewed_hat_top": 17,
+      "reviewed_shoe_contact": 740,
+      "reviewed_body_axis": 294,
+      "scale": 0.9294605809128631,
+      "offset": {
+        "x": -18,
+        "y": 5
+      },
+      "nominal_yaw": 225.0
+    },
+    {
+      "index": 11,
+      "reviewed_hat_top": 18,
+      "reviewed_shoe_contact": 740,
+      "reviewed_body_axis": 270,
+      "scale": 0.9307479224376731,
+      "offset": {
+        "x": -13,
+        "y": 5
+      },
+      "nominal_yaw": 247.5
+    },
+    {
+      "index": 12,
+      "reviewed_hat_top": 26,
+      "reviewed_shoe_contact": 750,
+      "reviewed_body_axis": 280,
+      "scale": 0.9281767955801105,
+      "offset": {
+        "x": -18,
+        "y": -4
+      },
+      "nominal_yaw": 270.0
+    },
+    {
+      "index": 13,
+      "reviewed_hat_top": 28,
+      "reviewed_shoe_contact": 750,
+      "reviewed_body_axis": 250,
+      "scale": 0.9307479224376731,
+      "offset": {
+        "x": 5,
+        "y": -4
+      },
+      "nominal_yaw": 292.5
+    },
+    {
+      "index": 14,
+      "reviewed_hat_top": 16,
+      "reviewed_shoe_contact": 752,
+      "reviewed_body_axis": 286,
+      "scale": 0.9130434782608695,
+      "offset": {
+        "x": -22,
+        "y": -1
+      },
+      "nominal_yaw": 315.0
+    },
+    {
+      "index": 15,
+      "reviewed_hat_top": 18,
+      "reviewed_shoe_contact": 752,
+      "reviewed_body_axis": 250,
+      "scale": 0.9155313351498637,
+      "offset": {
+        "x": 5,
+        "y": 0
+      },
+      "nominal_yaw": 337.5
+    }
+  ],
+  "limitations": [
+    "Rose shapes, hat ornaments, face and folds vary slightly across views.",
+    "Some angular steps are uneven, notably profile-to-back; first-to-last transitions contain minor detail changes.",
+    "This is a complete generated 2D turntable preview, not a rigid 3D model or engine-approved animation.",
+    "GIF has binary transparency. PNG sequence retains full RGBA alpha. MP4 uses a neutral background."
+  ]
+}

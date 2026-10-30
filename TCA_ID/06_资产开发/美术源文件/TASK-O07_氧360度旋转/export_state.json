@@ -1,0 +1,666 @@
+{
+  "sequence": {
+    "task_id": "fr-20261018-e857e438",
+    "frame_count": 16,
+    "canvas_size": [
+      1024,
+      1536
+    ],
+    "durations_ms": [
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0
+    ],
+    "frames_dir": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-png-v2",
+    "metadata": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-png-v2\\sequence.json",
+    "delivery_files": [
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0000.png",
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-png-v2\\frame-0000.png",
+        "relative_path": "oxygen-360-png-v2/frame-0000.png",
+        "sha256": "e186fd2675b108db569c2e3cc46f1998c6cf3898c60ad43f9206e7b7c3ff9eff",
+        "bytes": 844581
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0001.png",
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-png-v2\\frame-0001.png",
+        "relative_path": "oxygen-360-png-v2/frame-0001.png",
+        "sha256": "b91531c13c1ada26c333ae6c9ba0462e684548ec6c7169ceb08cb8e0504ec6dd",
+        "bytes": 943072
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0002.png",
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-png-v2\\frame-0002.png",
+        "relative_path": "oxygen-360-png-v2/frame-0002.png",
+        "sha256": "43868ff9e1ed66aefd27b9908598bea73195ecf1caadee35c6e256dd7918449c",
+        "bytes": 887330
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0003.png",
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-png-v2\\frame-0003.png",
+        "relative_path": "oxygen-360-png-v2/frame-0003.png",
+        "sha256": "38af164e8f40918d4dbd5fdce417d4cbdc6af96113f8601a7c6dee14dfe9f975",
+        "bytes": 848941
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0004.png",
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-png-v2\\frame-0004.png",
+        "relative_path": "oxygen-360-png-v2/frame-0004.png",
+        "sha256": "7c6cdcd3e94354aef71b5b729d658ec3c8c1e103df71b2c99d370d422686ae7a",
+        "bytes": 703547
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0005.png",
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-png-v2\\frame-0005.png",
+        "relative_path": "oxygen-360-png-v2/frame-0005.png",
+        "sha256": "46de7f5065bf291b06e653a1a76949f9ec1fad37bd6ab208aa1ab7e97e6616b1",
+        "bytes": 811559
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0006.png",
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-png-v2\\frame-0006.png",
+        "relative_path": "oxygen-360-png-v2/frame-0006.png",
+        "sha256": "fabc1994c781153ca46cfd15c94076ab3a1051591c33f4e7fae2029e87abae5d",
+        "bytes": 783697
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0007.png",
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-png-v2\\frame-0007.png",
+        "relative_path": "oxygen-360-png-v2/frame-0007.png",
+        "sha256": "bd7f31a00cc7923546cb1922643d3bb1d6ba086c471450028f43f1460358bc8d",
+        "bytes": 744696
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0008.png",
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-png-v2\\frame-0008.png",
+        "relative_path": "oxygen-360-png-v2/frame-0008.png",
+        "sha256": "a0f71cf3f529ec5eb2cb9cef686d5bed397f852bc9df77db8ee0ddbf505c77a9",
+        "bytes": 784290
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0009.png",
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-png-v2\\frame-0009.png",
+        "relative_path": "oxygen-360-png-v2/frame-0009.png",
+        "sha256": "5ab94e05c9478ae404206200c6ece84ac6ba25a45e58668aa2a279c3fadc4b9a",
+        "bytes": 863986
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0010.png",
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-png-v2\\frame-0010.png",
+        "relative_path": "oxygen-360-png-v2/frame-0010.png",
+        "sha256": "829a20ff28b025d11f84bc3553491955d87dc39aedb7ae6c0975e9a4aba887ee",
+        "bytes": 801666
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0011.png",
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-png-v2\\frame-0011.png",
+        "relative_path": "oxygen-360-png-v2/frame-0011.png",
+        "sha256": "b8090b61dde4a3af392ad2b756a19fd6b4829f545b04b4c8cabe7249eb9087f3",
+        "bytes": 750640
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0012.png",
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-png-v2\\frame-0012.png",
+        "relative_path": "oxygen-360-png-v2/frame-0012.png",
+        "sha256": "24aff758b5bc43fd84279d1d1c138bfc1e188d9b94d0debd874a8e0a27674e52",
+        "bytes": 710737
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0013.png",
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-png-v2\\frame-0013.png",
+        "relative_path": "oxygen-360-png-v2/frame-0013.png",
+        "sha256": "38ce64d1dc26ccb67a325f55577f3bcb9ea780bcfb0d7d4c2329a06174f0c623",
+        "bytes": 861446
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0014.png",
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-png-v2\\frame-0014.png",
+        "relative_path": "oxygen-360-png-v2/frame-0014.png",
+        "sha256": "1bfa9f537a8c0ca654b3a396b2145d4cdd5c16e71f4216e71910dac0fcdc0145",
+        "bytes": 850108
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\frame-0015.png",
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-png-v2\\frame-0015.png",
+        "relative_path": "oxygen-360-png-v2/frame-0015.png",
+        "sha256": "c8d62d41e02a7c8fd1c1572a8cd4c6f54accebf1298d4a37977127f3b329c610",
+        "bytes": 863144
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-png-v2\\sequence.json",
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-png-v2\\sequence.json",
+        "relative_path": "oxygen-360-png-v2/sequence.json",
+        "sha256": "74dc5a2182a27e0e9af4986ea72edd7b139246f0ea056b0e8ab0c13047acaa04",
+        "bytes": 14101
+      }
+    ]
+  },
+  "atlas": {
+    "task_id": "fr-20261018-e857e438",
+    "atlas": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-atlas-v2.png",
+    "metadata": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-atlas-v2.json",
+    "atlas_size": [
+      4096,
+      6144
+    ],
+    "frame_count": 16,
+    "frames": [
+      {
+        "index": 0,
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0000.png",
+        "row": 0,
+        "column": 0,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "sheet_offset": [
+          0,
+          0
+        ],
+        "cell_origin": [
+          0,
+          0
+        ],
+        "cell_size": [
+          1024,
+          1536
+        ],
+        "anchor": "image_canvas_center",
+        "sha256": "e186fd2675b108db569c2e3cc46f1998c6cf3898c60ad43f9206e7b7c3ff9eff"
+      },
+      {
+        "index": 1,
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0001.png",
+        "row": 0,
+        "column": 1,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "sheet_offset": [
+          1024,
+          0
+        ],
+        "cell_origin": [
+          1024,
+          0
+        ],
+        "cell_size": [
+          1024,
+          1536
+        ],
+        "anchor": "image_canvas_center",
+        "sha256": "b91531c13c1ada26c333ae6c9ba0462e684548ec6c7169ceb08cb8e0504ec6dd"
+      },
+      {
+        "index": 2,
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0002.png",
+        "row": 0,
+        "column": 2,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "sheet_offset": [
+          2048,
+          0
+        ],
+        "cell_origin": [
+          2048,
+          0
+        ],
+        "cell_size": [
+          1024,
+          1536
+        ],
+        "anchor": "image_canvas_center",
+        "sha256": "43868ff9e1ed66aefd27b9908598bea73195ecf1caadee35c6e256dd7918449c"
+      },
+      {
+        "index": 3,
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0003.png",
+        "row": 0,
+        "column": 3,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "sheet_offset": [
+          3072,
+          0
+        ],
+        "cell_origin": [
+          3072,
+          0
+        ],
+        "cell_size": [
+          1024,
+          1536
+        ],
+        "anchor": "image_canvas_center",
+        "sha256": "38af164e8f40918d4dbd5fdce417d4cbdc6af96113f8601a7c6dee14dfe9f975"
+      },
+      {
+        "index": 4,
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0004.png",
+        "row": 1,
+        "column": 0,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "sheet_offset": [
+          0,
+          1536
+        ],
+        "cell_origin": [
+          0,
+          1536
+        ],
+        "cell_size": [
+          1024,
+          1536
+        ],
+        "anchor": "image_canvas_center",
+        "sha256": "7c6cdcd3e94354aef71b5b729d658ec3c8c1e103df71b2c99d370d422686ae7a"
+      },
+      {
+        "index": 5,
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0005.png",
+        "row": 1,
+        "column": 1,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "sheet_offset": [
+          1024,
+          1536
+        ],
+        "cell_origin": [
+          1024,
+          1536
+        ],
+        "cell_size": [
+          1024,
+          1536
+        ],
+        "anchor": "image_canvas_center",
+        "sha256": "46de7f5065bf291b06e653a1a76949f9ec1fad37bd6ab208aa1ab7e97e6616b1"
+      },
+      {
+        "index": 6,
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0006.png",
+        "row": 1,
+        "column": 2,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "sheet_offset": [
+          2048,
+          1536
+        ],
+        "cell_origin": [
+          2048,
+          1536
+        ],
+        "cell_size": [
+          1024,
+          1536
+        ],
+        "anchor": "image_canvas_center",
+        "sha256": "fabc1994c781153ca46cfd15c94076ab3a1051591c33f4e7fae2029e87abae5d"
+      },
+      {
+        "index": 7,
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0007.png",
+        "row": 1,
+        "column": 3,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "sheet_offset": [
+          3072,
+          1536
+        ],
+        "cell_origin": [
+          3072,
+          1536
+        ],
+        "cell_size": [
+          1024,
+          1536
+        ],
+        "anchor": "image_canvas_center",
+        "sha256": "bd7f31a00cc7923546cb1922643d3bb1d6ba086c471450028f43f1460358bc8d"
+      },
+      {
+        "index": 8,
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0008.png",
+        "row": 2,
+        "column": 0,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "sheet_offset": [
+          0,
+          3072
+        ],
+        "cell_origin": [
+          0,
+          3072
+        ],
+        "cell_size": [
+          1024,
+          1536
+        ],
+        "anchor": "image_canvas_center",
+        "sha256": "a0f71cf3f529ec5eb2cb9cef686d5bed397f852bc9df77db8ee0ddbf505c77a9"
+      },
+      {
+        "index": 9,
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0009.png",
+        "row": 2,
+        "column": 1,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "sheet_offset": [
+          1024,
+          3072
+        ],
+        "cell_origin": [
+          1024,
+          3072
+        ],
+        "cell_size": [
+          1024,
+          1536
+        ],
+        "anchor": "image_canvas_center",
+        "sha256": "5ab94e05c9478ae404206200c6ece84ac6ba25a45e58668aa2a279c3fadc4b9a"
+      },
+      {
+        "index": 10,
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0010.png",
+        "row": 2,
+        "column": 2,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "sheet_offset": [
+          2048,
+          3072
+        ],
+        "cell_origin": [
+          2048,
+          3072
+        ],
+        "cell_size": [
+          1024,
+          1536
+        ],
+        "anchor": "image_canvas_center",
+        "sha256": "829a20ff28b025d11f84bc3553491955d87dc39aedb7ae6c0975e9a4aba887ee"
+      },
+      {
+        "index": 11,
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0011.png",
+        "row": 2,
+        "column": 3,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "sheet_offset": [
+          3072,
+          3072
+        ],
+        "cell_origin": [
+          3072,
+          3072
+        ],
+        "cell_size": [
+          1024,
+          1536
+        ],
+        "anchor": "image_canvas_center",
+        "sha256": "b8090b61dde4a3af392ad2b756a19fd6b4829f545b04b4c8cabe7249eb9087f3"
+      },
+      {
+        "index": 12,
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0012.png",
+        "row": 3,
+        "column": 0,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "sheet_offset": [
+          0,
+          4608
+        ],
+        "cell_origin": [
+          0,
+          4608
+        ],
+        "cell_size": [
+          1024,
+          1536
+        ],
+        "anchor": "image_canvas_center",
+        "sha256": "24aff758b5bc43fd84279d1d1c138bfc1e188d9b94d0debd874a8e0a27674e52"
+      },
+      {
+        "index": 13,
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0013.png",
+        "row": 3,
+        "column": 1,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "sheet_offset": [
+          1024,
+          4608
+        ],
+        "cell_origin": [
+          1024,
+          4608
+        ],
+        "cell_size": [
+          1024,
+          1536
+        ],
+        "anchor": "image_canvas_center",
+        "sha256": "38ce64d1dc26ccb67a325f55577f3bcb9ea780bcfb0d7d4c2329a06174f0c623"
+      },
+      {
+        "index": 14,
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0014.png",
+        "row": 3,
+        "column": 2,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "sheet_offset": [
+          2048,
+          4608
+        ],
+        "cell_origin": [
+          2048,
+          4608
+        ],
+        "cell_size": [
+          1024,
+          1536
+        ],
+        "anchor": "image_canvas_center",
+        "sha256": "1bfa9f537a8c0ca654b3a396b2145d4cdd5c16e71f4216e71910dac0fcdc0145"
+      },
+      {
+        "index": 15,
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0015.png",
+        "row": 3,
+        "column": 3,
+        "source_size": [
+          1024,
+          1536
+        ],
+        "sheet_offset": [
+          3072,
+          4608
+        ],
+        "cell_origin": [
+          3072,
+          4608
+        ],
+        "cell_size": [
+          1024,
+          1536
+        ],
+        "anchor": "image_canvas_center",
+        "sha256": "c8d62d41e02a7c8fd1c1572a8cd4c6f54accebf1298d4a37977127f3b329c610"
+      }
+    ],
+    "delivery_files": [
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-atlas-v2.png",
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-atlas-v2.png",
+        "relative_path": "oxygen-360-atlas-v2.png",
+        "sha256": "c81a43be9d0e32b7a9491e9552f3b40ddae4ee7174a6594e064f05ea5891d1c3",
+        "bytes": 13068950
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-atlas-v2.json",
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-atlas-v2.json",
+        "relative_path": "oxygen-360-atlas-v2.json",
+        "sha256": "b29e226003abeff6aa5c4a3e25317a395f1cb95e90ab2a1cb795df3627a27b3f",
+        "bytes": 9435
+      }
+    ],
+    "next_step": "Inspect the complete sheet and each cell before using it in a game runtime."
+  },
+  "gif": {
+    "task_id": "fr-20261018-e857e438",
+    "gif": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-preview-v2.gif",
+    "gif_sha256": "3b8af906695a395be6b6a405b30435c49354991a024317cd0c75187d0d096929",
+    "frame_count": 16,
+    "canvas_size": [
+      1024,
+      1536
+    ],
+    "source_durations_ms": [
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0,
+      250.0
+    ],
+    "gif_encoded_durations_ms": [
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250,
+      250
+    ],
+    "loop": true,
+    "timing_metadata": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-preview-v2-timing.json",
+    "delivery_files": [
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-preview-v2.gif",
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-preview-v2.gif",
+        "relative_path": "oxygen-360-preview-v2.gif",
+        "sha256": "3b8af906695a395be6b6a405b30435c49354991a024317cd0c75187d0d096929",
+        "bytes": 2179323,
+        "kind": "animation_preview"
+      },
+      {
+        "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-preview-v2-timing.json",
+        "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\exports\\oxygen-360-preview-v2-timing.json",
+        "relative_path": "oxygen-360-preview-v2-timing.json",
+        "sha256": "f676cdf13292ebe27e4041b66312c702a23ef66b0789e2e7dc02c092a00f7363",
+        "bytes": 863
+      }
+    ],
+    "warning": "GIF has binary transparency and 10 ms timing units. Keep the PNG sequence and JSON as the exact source of truth."
+  },
+  "contact": {
+    "task_id": "fr-20261018-e857e438",
+    "preview": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\previews\\oxygen-360-contact-v2.png",
+    "preview_size": [
+      1280,
+      2016
+    ],
+    "frame_count": 16,
+    "delivery_file": {
+      "path": "E:\\projects\\TCA_ID\\06_资产开发\\美术源文件\\TASK-O07_氧360度旋转\\交付\\oxygen-360-turnaround-v002-e857e438\\oxygen-360-contact-v2.png",
+      "source_path": "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\previews\\oxygen-360-contact-v2.png",
+      "relative_path": "oxygen-360-contact-v2.png",
+      "sha256": "67eea630dad90a48c5a445119c1960417cf76d9f16b98847d7bd53120e207fad",
+      "bytes": 1464340,
+      "kind": "contact_preview"
+    },
+    "note": "Checkerboard is only a preview background; the original RGBA files retain transparency."
+  },
+  "frames": [
+    "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0000.png",
+    "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0001.png",
+    "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0002.png",
+    "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0003.png",
+    "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0004.png",
+    "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0005.png",
+    "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0006.png",
+    "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0007.png",
+    "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0008.png",
+    "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0009.png",
+    "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0010.png",
+    "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0011.png",
+    "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0012.png",
+    "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0013.png",
+    "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0014.png",
+    "E:\\projects\\TCA_ID\\.codex-imagegen\\tasks\\fr-20261018-e857e438\\work\\frames\\standing-turntable-v2\\frame-0015.png"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "file": "E:\\TCA_F\\TCA_WorldPrototype\\art\\alchemist_hamlet\\Lanternbrook_HD2D.blend",
+  "blender_version": "5.1.1",
+  "objects": 2617,
+  "mesh_objects": 2353,
+  "source_polygons": 228838,
+  "collections": {
+    "Collection": 0,
+    "Architecture": 536,
+    "Bridge and route": 555,
+    "Landscape": 252,
+    "Vegetation": 715,
+    "Props": 252,
+    "Water": 292,
+    "Lighting and atmosphere": 13,
+    "Camera": 2
+  },
+  "camera": "CAM_HD2D_Hero",
+  "resolution": [
+    2400,
+    1500
+  ],
+  "has_characters": false,
+  "character_note": "No character geometry or sprites were authored or imported.",
+  "render_files": {
+    "Godot_final.png": {
+      "width": 1600,
+      "height": 900,
+      "bytes": 1968896
+    },
+    "Godot_preview.png": {
+      "width": 1600,
+      "height": 900,
+      "bytes": 1661911
+    },
+    "Lanternbrook_final.png": {
+      "width": 2400,
+      "height": 1500,
+      "bytes": 6232685
+    },
+    "Lanternbrook_preview_v01.png": {
+      "width": 1600,
+      "height": 1000,
+      "bytes": 2549303
+    },
+    "Lanternbrook_preview_v02.png": {
+      "width": 1920,
+      "height": 1200,
+      "bytes": 3973119
+    },
+    "Lanternbrook_reverse_view.png": {
+      "width": 1800,
+      "height": 1350,
+      "bytes": 4573963
+    }
+  },
+  "glb_bytes": 40369336
+}

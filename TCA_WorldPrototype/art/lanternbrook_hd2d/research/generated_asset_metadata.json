@@ -1,0 +1,33 @@
+[
+  {
+    "file": "chestnut_handpainted_v2.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "mipmaps": true
+  },
+  {
+    "file": "limestone_handpainted_v2.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGB",
+    "mipmaps": true
+  },
+  {
+    "file": "groundcover_handpainted_v2.png",
+    "size": [
+      1902,
+      827
+    ],
+    "mode": "RGBA",
+    "mipmaps": true,
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  }
+]
